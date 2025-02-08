@@ -1,0 +1,8318 @@
+[
+  {
+    "cp": "¤",
+    "tts": "ukjend valuta"
+  },
+  {
+    "cp": "°",
+    "tts": "gradeteikn"
+  },
+  {
+    "cp": "×",
+    "tts": "multiplikasjonsteikn"
+  },
+  {
+    "cp": "÷",
+    "tts": "divisjonsteikn"
+  },
+  {
+    "cp": "₡",
+    "tts": "kostarikanske colón"
+  },
+  {
+    "cp": "₪",
+    "tts": "nye israelske sheklar"
+  },
+  {
+    "cp": "₲",
+    "tts": "paraguayanske guaraní"
+  },
+  {
+    "cp": "₺",
+    "tts": "tyrkiske lira"
+  },
+  {
+    "cp": "₽",
+    "tts": "rublar"
+  },
+  {
+    "cp": "→",
+    "tts": "pil mot høgre"
+  },
+  {
+    "cp": "↔",
+    "tts": "pil venstre-høgre"
+  },
+  {
+    "cp": "↗",
+    "tts": "pil opp-høgre"
+  },
+  {
+    "cp": "↘",
+    "tts": "pil ned -høgre"
+  },
+  {
+    "cp": "↛",
+    "tts": "pil høgre med skråstrek"
+  },
+  {
+    "cp": "↝",
+    "tts": "bølgepil mot høgre"
+  },
+  {
+    "cp": "↞",
+    "tts": "pil venstre med to mothakar"
+  },
+  {
+    "cp": "↟",
+    "tts": "pil opp med to mothakar"
+  },
+  {
+    "cp": "↠",
+    "tts": "pil høgre med to mothakar"
+  },
+  {
+    "cp": "↡",
+    "tts": "pil ned med to mothakar"
+  },
+  {
+    "cp": "↣",
+    "tts": "pil høgre med styrefjær"
+  },
+  {
+    "cp": "↤",
+    "tts": "pil venstre frå loddrett strek"
+  },
+  {
+    "cp": "↥",
+    "tts": "pil opp frå vassrett strek"
+  },
+  {
+    "cp": "↦",
+    "tts": "pil høgre frå loddrett strek"
+  },
+  {
+    "cp": "↧",
+    "tts": "pil ned frå vassrett strek"
+  },
+  {
+    "cp": "↪",
+    "tts": "pil som bøyer mot høgre"
+  },
+  {
+    "cp": "↬",
+    "tts": "pil høgre med løkke"
+  },
+  {
+    "cp": "↭",
+    "tts": "bølgepil mot høgre og venstre"
+  },
+  {
+    "cp": "↮",
+    "tts": "pil begge vegar med skråstrek"
+  },
+  {
+    "cp": "↱",
+    "tts": "pil opp med spiss mot høgre"
+  },
+  {
+    "cp": "↳",
+    "tts": "pil ned med spiss mot høgre"
+  },
+  {
+    "cp": "↴",
+    "tts": "pil høgre som snur ned"
+  },
+  {
+    "cp": "↶",
+    "tts": "halvsirkelpil mot klokka"
+  },
+  {
+    "cp": "↷",
+    "tts": "halvsirkelpil med klokka"
+  },
+  {
+    "cp": "↹",
+    "tts": "pil venstre over pil høgre mot loddrette strek"
+  },
+  {
+    "cp": "↺",
+    "tts": "pil open sirkel mot klokka"
+  },
+  {
+    "cp": "↻",
+    "tts": "pil open sirkel med klokka"
+  },
+  {
+    "cp": "↾",
+    "tts": "harpunpil opp med mothake mot høgre"
+  },
+  {
+    "cp": "⇀",
+    "tts": "harpunpil høgre med mothake opp"
+  },
+  {
+    "cp": "⇁",
+    "tts": "harpunpil høgre med mothake ned"
+  },
+  {
+    "cp": "⇂",
+    "tts": "harpunpil ned med mothake mot høgre"
+  },
+  {
+    "cp": "⇄",
+    "tts": "pil høgre over pil venstre"
+  },
+  {
+    "cp": "⇅",
+    "tts": "pil oppover framfor pil nedover"
+  },
+  {
+    "cp": "⇆",
+    "tts": "pil mot venstre over pil mot høgre"
+  },
+  {
+    "cp": "⇉",
+    "tts": "parallelle piler mot høgre"
+  },
+  {
+    "cp": "⇋",
+    "tts": "harpunpil venstre over harpunpil høgre"
+  },
+  {
+    "cp": "⇌",
+    "tts": "harpunpil høgre over harpunpil venstre"
+  },
+  {
+    "cp": "⇎",
+    "tts": "dobbeltpil begge vegar med strek"
+  },
+  {
+    "cp": "⇏",
+    "tts": "dobbeltpil høgre med strek"
+  },
+  {
+    "cp": "⇒",
+    "tts": "dobbeltpil høgre"
+  },
+  {
+    "cp": "⇔",
+    "tts": "dobbeltpil begge vegar"
+  },
+  {
+    "cp": "⇗",
+    "tts": "dobbeltpil nordaust"
+  },
+  {
+    "cp": "⇘",
+    "tts": "dobbeltpil søraust"
+  },
+  {
+    "cp": "⇛",
+    "tts": "trippelpil høgre"
+  },
+  {
+    "cp": "⇝",
+    "tts": "snirkelpil høgre"
+  },
+  {
+    "cp": "⇞",
+    "tts": "pil opp med to strekar"
+  },
+  {
+    "cp": "⇟",
+    "tts": "pil ned med to strekar"
+  },
+  {
+    "cp": "⇠",
+    "tts": "stipla pil venstre"
+  },
+  {
+    "cp": "⇡",
+    "tts": "stipla pil opp"
+  },
+  {
+    "cp": "⇢",
+    "tts": "stipla pil høgre"
+  },
+  {
+    "cp": "⇣",
+    "tts": "stipla pil ned"
+  },
+  {
+    "cp": "⇥",
+    "tts": "pil høgre mot loddrett strek"
+  },
+  {
+    "cp": "⇦",
+    "tts": "hol pil venstre"
+  },
+  {
+    "cp": "⇧",
+    "tts": "hol pil opp"
+  },
+  {
+    "cp": "⇨",
+    "tts": "hol pil høgre"
+  },
+  {
+    "cp": "⇩",
+    "tts": "hol pil ned"
+  },
+  {
+    "cp": "⇪",
+    "tts": "hol pil opp frå vassrett strek"
+  },
+  {
+    "cp": "∅",
+    "tts": "den tomme mengda"
+  },
+  {
+    "cp": "∉",
+    "tts": "er ikkje element i"
+  },
+  {
+    "cp": "∋",
+    "tts": "inneheld som medlem"
+  },
+  {
+    "cp": "∑",
+    "tts": "sum av ei rekkje"
+  },
+  {
+    "cp": "−",
+    "tts": "heva minusteikn"
+  },
+  {
+    "cp": "∞",
+    "tts": "uendelegheitsteikn"
+  },
+  {
+    "cp": "∫",
+    "tts": "integralteikn"
+  },
+  {
+    "cp": "∫∫",
+    "tts": "dobbeltintegralteikn"
+  },
+  {
+    "cp": "∽",
+    "tts": "omvend tilde"
+  },
+  {
+    "cp": "∾",
+    "tts": "spegelvend liggande s"
+  },
+  {
+    "cp": "≅",
+    "tts": "tilnærma lik"
+  },
+  {
+    "cp": "≈",
+    "tts": "er tilnærma lik"
+  },
+  {
+    "cp": "≒",
+    "tts": "tilnærma lik biletet"
+  },
+  {
+    "cp": "≖",
+    "tts": "ring i likskapsteikn"
+  },
+  {
+    "cp": "≠",
+    "tts": "er ikkje lik"
+  },
+  {
+    "cp": "≦",
+    "tts": "mindre enn over likskapsteikn"
+  },
+  {
+    "cp": "≧",
+    "tts": "større enn over likskapsteikn"
+  },
+  {
+    "cp": "≪",
+    "tts": "mykje mindre enn"
+  },
+  {
+    "cp": "≫",
+    "tts": "mykje større enn"
+  },
+  {
+    "cp": "≮",
+    "tts": "er ikkje mindre enn"
+  },
+  {
+    "cp": "≯",
+    "tts": "er ikkje større enn"
+  },
+  {
+    "cp": "≳",
+    "tts": "større enn tilnærma lik"
+  },
+  {
+    "cp": "≺",
+    "tts": "kjem før"
+  },
+  {
+    "cp": "≻",
+    "tts": "kjem etter"
+  },
+  {
+    "cp": "⊁",
+    "tts": "kjem ikkje etter"
+  },
+  {
+    "cp": "⊂",
+    "tts": "delmengd av"
+  },
+  {
+    "cp": "⊃",
+    "tts": "supermengd"
+  },
+  {
+    "cp": "⊆",
+    "tts": "delmengd lik"
+  },
+  {
+    "cp": "⊇",
+    "tts": "supermengd lik"
+  },
+  {
+    "cp": "⊕",
+    "tts": "plussteikn i sirkel"
+  },
+  {
+    "cp": "⊖",
+    "tts": "minusteikn i sirkel"
+  },
+  {
+    "cp": "⊗",
+    "tts": "multipliseringsteikn i sirkel"
+  },
+  {
+    "cp": "⊞",
+    "tts": "plussteikn i firkant"
+  },
+  {
+    "cp": "⊟",
+    "tts": "minusteikn i firkant"
+  },
+  {
+    "cp": "⊮",
+    "tts": "tvingar ikkje"
+  },
+  {
+    "cp": "⊰",
+    "tts": "kjem før under relasjon"
+  },
+  {
+    "cp": "⊱",
+    "tts": "kjem etter under relasjon"
+  },
+  {
+    "cp": "⊿",
+    "tts": "rettvinkla trekant"
+  },
+  {
+    "cp": "⋈",
+    "tts": "naturleg skøyt"
+  },
+  {
+    "cp": "⋘",
+    "tts": "veldig mykje mindre enn"
+  },
+  {
+    "cp": "⋙",
+    "tts": "veldig mykje større enn"
+  },
+  {
+    "cp": "⋭",
+    "tts": "inneheld ikkje som normal delgruppe lik"
+  },
+  {
+    "cp": "⋯",
+    "tts": "sentrert vassrett ellipse"
+  },
+  {
+    "cp": "⋰",
+    "tts": "diagonal ellipse opp mot høgre"
+  },
+  {
+    "cp": "⋱",
+    "tts": "diagonal ellipse ned mot høgre"
+  },
+  {
+    "cp": "⌚",
+    "tts": "armbandsur"
+  },
+  {
+    "cp": "⌛",
+    "tts": "ferdig timeglas"
+  },
+  {
+    "cp": "⏮",
+    "tts": "førre spor-knapp"
+  },
+  {
+    "cp": "⏯",
+    "tts": "spel av / pause-knapp"
+  },
+  {
+    "cp": "⏰",
+    "tts": "vekkjarklokke"
+  },
+  {
+    "cp": "⏲",
+    "tts": "tidtakar"
+  },
+  {
+    "cp": "⏳",
+    "tts": "starta timeglas"
+  },
+  {
+    "cp": "⏺",
+    "tts": "spel inn-knapp"
+  },
+  {
+    "cp": "□",
+    "tts": "holt kvadrat"
+  },
+  {
+    "cp": "▢",
+    "tts": "holt kvadrat med avrunda hjørne"
+  },
+  {
+    "cp": "▣",
+    "tts": "holt kvadrat rundt eit fylt kvadrat"
+  },
+  {
+    "cp": "▤",
+    "tts": "kvadrat med vassrett fyll"
+  },
+  {
+    "cp": "▦",
+    "tts": "kvadrat med rettvinkla rutefyll"
+  },
+  {
+    "cp": "▧",
+    "tts": "kvadrat med diagonalt fyll ned mot høgre"
+  },
+  {
+    "cp": "▫",
+    "tts": "liten kvit firkant"
+  },
+  {
+    "cp": "▭",
+    "tts": "holt rektangel"
+  },
+  {
+    "cp": "▲",
+    "tts": "fylt trekant som peikar opp"
+  },
+  {
+    "cp": "△",
+    "tts": "hol trekant som peikar opp"
+  },
+  {
+    "cp": "▴",
+    "tts": "liten fylt trekant som peikar opp"
+  },
+  {
+    "cp": "▵",
+    "tts": "liten hol trekant som peikar opp"
+  },
+  {
+    "cp": "▶",
+    "tts": "avspelingsknapp"
+  },
+  {
+    "cp": "▷",
+    "tts": "hol trekant som peikar mot høgre"
+  },
+  {
+    "cp": "▸",
+    "tts": "liten fylt trekant som peikar mot høgre"
+  },
+  {
+    "cp": "▹",
+    "tts": "liten hol trekant som peikar mot høgre"
+  },
+  {
+    "cp": "►",
+    "tts": "fylt peikar som peikar mot høgre"
+  },
+  {
+    "cp": "▻",
+    "tts": "hol peikar som peikar mot høgre"
+  },
+  {
+    "cp": "▼",
+    "tts": "fylt trekant som peikar ned"
+  },
+  {
+    "cp": "▽",
+    "tts": "hol trekant som peikar ned"
+  },
+  {
+    "cp": "▾",
+    "tts": "liten fylt trekant som peikar ned"
+  },
+  {
+    "cp": "▿",
+    "tts": "liten hol trekant som peikar ned"
+  },
+  {
+    "cp": "◁",
+    "tts": "hol trekant som peikar mot venstre"
+  },
+  {
+    "cp": "◂",
+    "tts": "liten fylt trekant som peikar mot venstre"
+  },
+  {
+    "cp": "◃",
+    "tts": "liten hol trekant som peikar mot venstre"
+  },
+  {
+    "cp": "◄",
+    "tts": "fylt peikar som peikar mot venstre"
+  },
+  {
+    "cp": "◅",
+    "tts": "hol peikar som peikar mot venstre"
+  },
+  {
+    "cp": "◇",
+    "tts": "holt rutersymbol"
+  },
+  {
+    "cp": "◈",
+    "tts": "holt rutersymbol rundt fylt rutersymbol"
+  },
+  {
+    "cp": "◉",
+    "tts": "hol sirkel rundt fylt sirkel"
+  },
+  {
+    "cp": "◊",
+    "tts": "holt rombesymbol"
+  },
+  {
+    "cp": "○",
+    "tts": "hol sirkel"
+  },
+  {
+    "cp": "◌",
+    "tts": "stipla sirkel"
+  },
+  {
+    "cp": "◎",
+    "tts": "konsentriske sirklar"
+  },
+  {
+    "cp": "◑",
+    "tts": "sirkel med høgre halvdel fylt"
+  },
+  {
+    "cp": "◔",
+    "tts": "sirkel med øvre høgre kvadrant fylt"
+  },
+  {
+    "cp": "◗",
+    "tts": "fylt høgre halvsirkel"
+  },
+  {
+    "cp": "◘",
+    "tts": "invertert punktteikn"
+  },
+  {
+    "cp": "◙",
+    "tts": "fylt kvadrat rundt hol sirkel"
+  },
+  {
+    "cp": "◜",
+    "tts": "sirkelboge øvre venstre kvadrant"
+  },
+  {
+    "cp": "◝",
+    "tts": "sirkelboge øvre høgre kvadrant"
+  },
+  {
+    "cp": "◞",
+    "tts": "sirkelboge nedre høgre kvadrant"
+  },
+  {
+    "cp": "◟",
+    "tts": "sirkelboge nedre venstre kvadrant"
+  },
+  {
+    "cp": "◢",
+    "tts": "fylt trekant med rett vinkel nede til høgre"
+  },
+  {
+    "cp": "◥",
+    "tts": "fylt trekant med rett vinkel oppe til høgre"
+  },
+  {
+    "cp": "◦",
+    "tts": "holt punktteikn"
+  },
+  {
+    "cp": "◯",
+    "tts": "stor hol sirkel"
+  },
+  {
+    "cp": "◳",
+    "tts": "holt kvadrat øvre høgre kvadrant"
+  },
+  {
+    "cp": "◷",
+    "tts": "hol sirkel øvre høgre kvadrant"
+  },
+  {
+    "cp": "◻",
+    "tts": "mellomstort kvitt kvadrat"
+  },
+  {
+    "cp": "◽",
+    "tts": "lite/mellomstort kvitt kvadrat"
+  },
+  {
+    "cp": "◿",
+    "tts": "hol trekant med rett vinkel nede til høgre"
+  },
+  {
+    "cp": "☔",
+    "tts": "paraply med regndropar"
+  },
+  {
+    "cp": "☝",
+    "tts": "peikar opp"
+  },
+  {
+    "cp": "☝🏻",
+    "tts": "peikar opp: hudtype 1–2"
+  },
+  {
+    "cp": "☝🏼",
+    "tts": "peikar opp: hudtype 3"
+  },
+  {
+    "cp": "☝🏽",
+    "tts": "peikar opp: hudtype 4"
+  },
+  {
+    "cp": "☝🏾",
+    "tts": "peikar opp: hudtype 5"
+  },
+  {
+    "cp": "☝🏿",
+    "tts": "peikar opp: hudtype 6"
+  },
+  {
+    "cp": "☠",
+    "tts": "daudinghovud"
+  },
+  {
+    "cp": "☣",
+    "tts": "farleg biologisk materiale"
+  },
+  {
+    "cp": "☦",
+    "tts": "ortodoks kross"
+  },
+  {
+    "cp": "☸",
+    "tts": "dharmahjulet"
+  },
+  {
+    "cp": "♈",
+    "tts": "Vêren"
+  },
+  {
+    "cp": "♊",
+    "tts": "Tvillingane"
+  },
+  {
+    "cp": "♌",
+    "tts": "Løva"
+  },
+  {
+    "cp": "♍",
+    "tts": "Jomfrua"
+  },
+  {
+    "cp": "♎",
+    "tts": "Vekta"
+  },
+  {
+    "cp": "♐",
+    "tts": "Skyttaren"
+  },
+  {
+    "cp": "♒",
+    "tts": "Vassmannen"
+  },
+  {
+    "cp": "♓",
+    "tts": "Fiskane"
+  },
+  {
+    "cp": "♥",
+    "tts": "hjarter"
+  },
+  {
+    "cp": "♨",
+    "tts": "varme kjelder"
+  },
+  {
+    "cp": "♪",
+    "tts": "åttandedelsnote"
+  },
+  {
+    "cp": "♾",
+    "tts": "uendeleg"
+  },
+  {
+    "cp": "⚒",
+    "tts": "hammar og hakke"
+  },
+  {
+    "cp": "⚖",
+    "tts": "likearma skålvekt"
+  },
+  {
+    "cp": "⚠",
+    "tts": "åtvaring"
+  },
+  {
+    "cp": "⚡",
+    "tts": "høgspenning"
+  },
+  {
+    "cp": "⚪",
+    "tts": "kvit sirkel"
+  },
+  {
+    "cp": "⛄",
+    "tts": "snømann utan snø"
+  },
+  {
+    "cp": "⛎",
+    "tts": "Slangeberaren"
+  },
+  {
+    "cp": "⛑",
+    "tts": "hjelm med kvit kross"
+  },
+  {
+    "cp": "⛓‍💥",
+    "tts": "broten lenke"
+  },
+  {
+    "cp": "⛔",
+    "tts": "ingen tilgang"
+  },
+  {
+    "cp": "⛪",
+    "tts": "kyrkje"
+  },
+  {
+    "cp": "⛴",
+    "tts": "ferje"
+  },
+  {
+    "cp": "⛵",
+    "tts": "seglbåt"
+  },
+  {
+    "cp": "⛷",
+    "tts": "skiløpar"
+  },
+  {
+    "cp": "✊",
+    "tts": "heva knyttneve"
+  },
+  {
+    "cp": "✊🏻",
+    "tts": "heva knyttneve: hudtype 1–2"
+  },
+  {
+    "cp": "✊🏼",
+    "tts": "heva knyttneve: hudtype 3"
+  },
+  {
+    "cp": "✊🏽",
+    "tts": "heva knyttneve: hudtype 4"
+  },
+  {
+    "cp": "✊🏾",
+    "tts": "heva knyttneve: hudtype 5"
+  },
+  {
+    "cp": "✊🏿",
+    "tts": "heva knyttneve: hudtype 6"
+  },
+  {
+    "cp": "✋",
+    "tts": "heva hand"
+  },
+  {
+    "cp": "✋🏻",
+    "tts": "heva hand: hudtype 1–2"
+  },
+  {
+    "cp": "✋🏼",
+    "tts": "heva hand: hudtype 3"
+  },
+  {
+    "cp": "✋🏽",
+    "tts": "heva hand: hudtype 4"
+  },
+  {
+    "cp": "✋🏾",
+    "tts": "heva hand: hudtype 5"
+  },
+  {
+    "cp": "✋🏿",
+    "tts": "heva hand: hudtype 6"
+  },
+  {
+    "cp": "✌",
+    "tts": "seiersteikn"
+  },
+  {
+    "cp": "✌🏻",
+    "tts": "seiersteikn: hudtype 1–2"
+  },
+  {
+    "cp": "✌🏼",
+    "tts": "seiersteikn: hudtype 3"
+  },
+  {
+    "cp": "✌🏽",
+    "tts": "seiersteikn: hudtype 4"
+  },
+  {
+    "cp": "✌🏾",
+    "tts": "seiersteikn: hudtype 5"
+  },
+  {
+    "cp": "✌🏿",
+    "tts": "seiersteikn: hudtype 6"
+  },
+  {
+    "cp": "✍",
+    "tts": "skrivande hand"
+  },
+  {
+    "cp": "✍🏻",
+    "tts": "skrivande hand: hudtype 1–2"
+  },
+  {
+    "cp": "✍🏼",
+    "tts": "skrivande hand: hudtype 3"
+  },
+  {
+    "cp": "✍🏽",
+    "tts": "skrivande hand: hudtype 4"
+  },
+  {
+    "cp": "✍🏾",
+    "tts": "skrivande hand: hudtype 5"
+  },
+  {
+    "cp": "✍🏿",
+    "tts": "skrivande hand: hudtype 6"
+  },
+  {
+    "cp": "✖",
+    "tts": "gonge"
+  },
+  {
+    "cp": "✝",
+    "tts": "latinsk kross"
+  },
+  {
+    "cp": "✳",
+    "tts": "asterisk med åtte spissar"
+  },
+  {
+    "cp": "✴",
+    "tts": "åttetagga stjerne"
+  },
+  {
+    "cp": "❓",
+    "tts": "raudt spørsmålsteikn"
+  },
+  {
+    "cp": "❔",
+    "tts": "kvitt spørsmålsteikn"
+  },
+  {
+    "cp": "❕",
+    "tts": "kvitt utropsteikn"
+  },
+  {
+    "cp": "❗",
+    "tts": "raudt utropsteikn"
+  },
+  {
+    "cp": "❣",
+    "tts": "utropsteikn med hjarte"
+  },
+  {
+    "cp": "❤",
+    "tts": "raudt hjarte"
+  },
+  {
+    "cp": "❤‍🔥",
+    "tts": "hjarte i brann"
+  },
+  {
+    "cp": "❤‍🩹",
+    "tts": "lindra hjarte"
+  },
+  {
+    "cp": "➡",
+    "tts": "pil høgre"
+  },
+  {
+    "cp": "⨧",
+    "tts": "plussteikn med senka to-tal"
+  },
+  {
+    "cp": "⨯",
+    "tts": "kryssprodukt av vektorar"
+  },
+  {
+    "cp": "⩣",
+    "tts": "logisk eller dobbelt understreka"
+  },
+  {
+    "cp": "⩽",
+    "tts": "mindre enn eller lik med likskapsteikn på skrå"
+  },
+  {
+    "cp": "⪚",
+    "tts": "likskapsteikn over større enn"
+  },
+  {
+    "cp": "⪺",
+    "tts": "kjem etter over ikkje tilnærma lik"
+  },
+  {
+    "cp": "⬜",
+    "tts": "stor kvit firkant"
+  },
+  {
+    "cp": "⭕",
+    "tts": "tjukk raud sirkel"
+  },
+  {
+    "cp": "🀄",
+    "tts": "mahjongbrikke med raud drake"
+  },
+  {
+    "cp": "🇦🇪",
+    "tts": "flagg: Dei sameinte arabiske emirata"
+  },
+  {
+    "cp": "🇦🇹",
+    "tts": "flagg: Austerrike"
+  },
+  {
+    "cp": "🇨🇨",
+    "tts": "flagg: Kokosøyane"
+  },
+  {
+    "cp": "🇨🇩",
+    "tts": "flagg: Kongo-Kinshasa"
+  },
+  {
+    "cp": "🇨🇫",
+    "tts": "flagg: Den sentralafrikanske republikken"
+  },
+  {
+    "cp": "🇨🇮",
+    "tts": "flagg: Elfenbeinskysten"
+  },
+  {
+    "cp": "🇨🇰",
+    "tts": "flagg: Cookøyane"
+  },
+  {
+    "cp": "🇩🇴",
+    "tts": "flagg: Den dominikanske republikken"
+  },
+  {
+    "cp": "🇪🇺",
+    "tts": "flagg: Den europeiske unionen"
+  },
+  {
+    "cp": "🇫🇰",
+    "tts": "flagg: Falklandsøyane"
+  },
+  {
+    "cp": "🇫🇴",
+    "tts": "flagg: Færøyane"
+  },
+  {
+    "cp": "🇬🇸",
+    "tts": "flagg: Sør-Georgia og Sør-Sandwichøyane"
+  },
+  {
+    "cp": "🇭🇲",
+    "tts": "flagg: Heardøya og McDonaldøyane"
+  },
+  {
+    "cp": "🇮🇨",
+    "tts": "flagg: Kanariøyane"
+  },
+  {
+    "cp": "🇰🇲",
+    "tts": "flagg: Komorane"
+  },
+  {
+    "cp": "🇰🇾",
+    "tts": "flagg: Caymanøyane"
+  },
+  {
+    "cp": "🇱🇺",
+    "tts": "flagg: Luxembourg"
+  },
+  {
+    "cp": "🇲🇭",
+    "tts": "flagg: Marshalløyane"
+  },
+  {
+    "cp": "🇲🇵",
+    "tts": "flagg: Nord-Marianane"
+  },
+  {
+    "cp": "🇲🇻",
+    "tts": "flagg: Maldivane"
+  },
+  {
+    "cp": "🇳🇴",
+    "tts": "flagg: Noreg"
+  },
+  {
+    "cp": "🇵🇭",
+    "tts": "flagg: Filippinane"
+  },
+  {
+    "cp": "🇵🇳",
+    "tts": "flagg: Pitcairn"
+  },
+  {
+    "cp": "🇸🇧",
+    "tts": "flagg: Salomonøyane"
+  },
+  {
+    "cp": "🇸🇨",
+    "tts": "flagg: Seychellane"
+  },
+  {
+    "cp": "🇸🇭",
+    "tts": "flagg: Saint Helena"
+  },
+  {
+    "cp": "🇹🇨",
+    "tts": "flagg: Turks- og Caicosøyane"
+  },
+  {
+    "cp": "🇹🇫",
+    "tts": "flagg: Dei franske sørterritoria"
+  },
+  {
+    "cp": "🇹🇱",
+    "tts": "flagg: Aust-Timor"
+  },
+  {
+    "cp": "🇺🇲",
+    "tts": "flagg: USAs ytre småøyar"
+  },
+  {
+    "cp": "🇺🇳",
+    "tts": "flagg: Dei sameinte nasjonane"
+  },
+  {
+    "cp": "🇻🇨",
+    "tts": "flagg: St. Vincent og Grenadinane"
+  },
+  {
+    "cp": "🇻🇬",
+    "tts": "flagg: Dei britiske Jomfruøyane"
+  },
+  {
+    "cp": "🇻🇮",
+    "tts": "flagg: Dei amerikanske Jomfruøyane"
+  },
+  {
+    "cp": "🌂",
+    "tts": "lukka paraply"
+  },
+  {
+    "cp": "🌈",
+    "tts": "regnboge"
+  },
+  {
+    "cp": "🌉",
+    "tts": "bru om natta"
+  },
+  {
+    "cp": "🌊",
+    "tts": "bølgje"
+  },
+  {
+    "cp": "🌌",
+    "tts": "mjølkevegen"
+  },
+  {
+    "cp": "🌐",
+    "tts": "jordklode med meridianar"
+  },
+  {
+    "cp": "🌒",
+    "tts": "veksande nymåne"
+  },
+  {
+    "cp": "🌓",
+    "tts": "veksande halvmåne"
+  },
+  {
+    "cp": "🌔",
+    "tts": "veksande fullmåne"
+  },
+  {
+    "cp": "🌖",
+    "tts": "avtakande fullmåne"
+  },
+  {
+    "cp": "🌗",
+    "tts": "avtakande halvmåne"
+  },
+  {
+    "cp": "🌘",
+    "tts": "avtakande nemåne"
+  },
+  {
+    "cp": "🌚",
+    "tts": "nymåneandlet"
+  },
+  {
+    "cp": "🌛",
+    "tts": "nymåne med andlet"
+  },
+  {
+    "cp": "🌜",
+    "tts": "nemåne med andlet"
+  },
+  {
+    "cp": "🌝",
+    "tts": "fullmåneandlet"
+  },
+  {
+    "cp": "🌞",
+    "tts": "solandlet"
+  },
+  {
+    "cp": "🌟",
+    "tts": "lysande stjerne"
+  },
+  {
+    "cp": "🌠",
+    "tts": "stjerneskot"
+  },
+  {
+    "cp": "🌤",
+    "tts": "sol bak lita sky"
+  },
+  {
+    "cp": "🌬",
+    "tts": "vindandlet"
+  },
+  {
+    "cp": "🌳",
+    "tts": "lauvtre"
+  },
+  {
+    "cp": "🌶",
+    "tts": "raud chili"
+  },
+  {
+    "cp": "🌸",
+    "tts": "kirsebærblomster"
+  },
+  {
+    "cp": "🌼",
+    "tts": "blomster"
+  },
+  {
+    "cp": "🌿",
+    "tts": "urteblad"
+  },
+  {
+    "cp": "🍂",
+    "tts": "haustblad"
+  },
+  {
+    "cp": "🍃",
+    "tts": "blad i vind"
+  },
+  {
+    "cp": "🍉",
+    "tts": "vassmelon"
+  },
+  {
+    "cp": "🍎",
+    "tts": "raudt eple"
+  },
+  {
+    "cp": "🍔",
+    "tts": "hamburgar"
+  },
+  {
+    "cp": "🍖",
+    "tts": "kjøt med bein"
+  },
+  {
+    "cp": "🍜",
+    "tts": "matbolle som dampar"
+  },
+  {
+    "cp": "🍦",
+    "tts": "softis"
+  },
+  {
+    "cp": "🍭",
+    "tts": "slikkepinne"
+  },
+  {
+    "cp": "🍷",
+    "tts": "vinglas"
+  },
+  {
+    "cp": "🍸",
+    "tts": "cocktailglas"
+  },
+  {
+    "cp": "🎁",
+    "tts": "gåve"
+  },
+  {
+    "cp": "🎃",
+    "tts": "graskarlykt"
+  },
+  {
+    "cp": "🎇",
+    "tts": "stjerneskot på pinne"
+  },
+  {
+    "cp": "🎉",
+    "tts": "smellbongbong"
+  },
+  {
+    "cp": "🎌",
+    "tts": "kryssa flagg"
+  },
+  {
+    "cp": "🎎",
+    "tts": "japanske dokker"
+  },
+  {
+    "cp": "🎐",
+    "tts": "vindspel"
+  },
+  {
+    "cp": "🎑",
+    "tts": "månekikkingsseremoni"
+  },
+  {
+    "cp": "🎒",
+    "tts": "skulesekk"
+  },
+  {
+    "cp": "🎚",
+    "tts": "glidebrytar"
+  },
+  {
+    "cp": "🎛",
+    "tts": "kontrollbrytarar"
+  },
+  {
+    "cp": "🎟",
+    "tts": "inngangsbillettar"
+  },
+  {
+    "cp": "🎣",
+    "tts": "fiskestong"
+  },
+  {
+    "cp": "🎧",
+    "tts": "hovudtelefonar"
+  },
+  {
+    "cp": "🎨",
+    "tts": "målarpalett"
+  },
+  {
+    "cp": "🎬",
+    "tts": "filmklappar"
+  },
+  {
+    "cp": "🎮",
+    "tts": "videospel"
+  },
+  {
+    "cp": "🎰",
+    "tts": "speleautomat"
+  },
+  {
+    "cp": "🎱",
+    "tts": "biljardkule"
+  },
+  {
+    "cp": "🎴",
+    "tts": "spelkort"
+  },
+  {
+    "cp": "🎶",
+    "tts": "notar"
+  },
+  {
+    "cp": "🏂",
+    "tts": "snøbrettkøyrar"
+  },
+  {
+    "cp": "🏂🏻",
+    "tts": "snøbrettkøyrar: hudtype 1–2"
+  },
+  {
+    "cp": "🏂🏼",
+    "tts": "snøbrettkøyrar: hudtype 3"
+  },
+  {
+    "cp": "🏂🏽",
+    "tts": "snøbrettkøyrar: hudtype 4"
+  },
+  {
+    "cp": "🏂🏾",
+    "tts": "snøbrettkøyrar: hudtype 5"
+  },
+  {
+    "cp": "🏂🏿",
+    "tts": "snøbrettkøyrar: hudtype 6"
+  },
+  {
+    "cp": "🏃",
+    "tts": "løpar"
+  },
+  {
+    "cp": "🏃‍♀",
+    "tts": "kvineleg løpar"
+  },
+  {
+    "cp": "🏃‍♀‍➡",
+    "tts": "kvineleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃‍♂",
+    "tts": "mannleg løpar"
+  },
+  {
+    "cp": "🏃‍♂‍➡",
+    "tts": "mannleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃‍➡",
+    "tts": "løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏻",
+    "tts": "løpar: hudtype 1–2"
+  },
+  {
+    "cp": "🏃🏻‍♀",
+    "tts": "kvineleg løpar: hudtype 1–2"
+  },
+  {
+    "cp": "🏃🏻‍♀‍➡",
+    "tts": "kvineleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏻‍♂",
+    "tts": "mannleg løpar: hudtype 1–2"
+  },
+  {
+    "cp": "🏃🏻‍♂‍➡",
+    "tts": "mannleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏻‍➡",
+    "tts": "løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏼",
+    "tts": "løpar: hudtype 3"
+  },
+  {
+    "cp": "🏃🏼‍♀",
+    "tts": "kvineleg løpar: hudtype 3"
+  },
+  {
+    "cp": "🏃🏼‍♀‍➡",
+    "tts": "kvineleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏼‍♂",
+    "tts": "mannleg løpar: hudtype 3"
+  },
+  {
+    "cp": "🏃🏼‍♂‍➡",
+    "tts": "mannleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏼‍➡",
+    "tts": "løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏽",
+    "tts": "løpar: hudtype 4"
+  },
+  {
+    "cp": "🏃🏽‍♀",
+    "tts": "kvineleg løpar: hudtype 4"
+  },
+  {
+    "cp": "🏃🏽‍♀‍➡",
+    "tts": "kvineleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏽‍♂",
+    "tts": "mannleg løpar: hudtype 4"
+  },
+  {
+    "cp": "🏃🏽‍♂‍➡",
+    "tts": "mannleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏽‍➡",
+    "tts": "løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏾",
+    "tts": "løpar: hudtype 5"
+  },
+  {
+    "cp": "🏃🏾‍♀",
+    "tts": "kvineleg løpar: hudtype 5"
+  },
+  {
+    "cp": "🏃🏾‍♀‍➡",
+    "tts": "kvineleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏾‍♂",
+    "tts": "mannleg løpar: hudtype 5"
+  },
+  {
+    "cp": "🏃🏾‍♂‍➡",
+    "tts": "mannleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏾‍➡",
+    "tts": "løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏿",
+    "tts": "løpar: hudtype 6"
+  },
+  {
+    "cp": "🏃🏿‍♀",
+    "tts": "kvineleg løpar: hudtype 6"
+  },
+  {
+    "cp": "🏃🏿‍♀‍➡",
+    "tts": "kvineleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏿‍♂",
+    "tts": "mannleg løpar: hudtype 6"
+  },
+  {
+    "cp": "🏃🏿‍♂‍➡",
+    "tts": "mannleg løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏃🏿‍➡",
+    "tts": "løpar vendt mot høgre"
+  },
+  {
+    "cp": "🏄",
+    "tts": "surfar"
+  },
+  {
+    "cp": "🏄‍♀",
+    "tts": "kvinneleg surfar"
+  },
+  {
+    "cp": "🏄‍♂",
+    "tts": "mannleg surfar"
+  },
+  {
+    "cp": "🏄🏻",
+    "tts": "surfar: hudtype 1–2"
+  },
+  {
+    "cp": "🏄🏻‍♀",
+    "tts": "kvinneleg surfar: hudtype 1–2"
+  },
+  {
+    "cp": "🏄🏻‍♂",
+    "tts": "mannleg surfar: hudtype 1–2"
+  },
+  {
+    "cp": "🏄🏼",
+    "tts": "surfar: hudtype 3"
+  },
+  {
+    "cp": "🏄🏼‍♀",
+    "tts": "kvinneleg surfar: hudtype 3"
+  },
+  {
+    "cp": "🏄🏼‍♂",
+    "tts": "mannleg surfar: hudtype 3"
+  },
+  {
+    "cp": "🏄🏽",
+    "tts": "surfar: hudtype 4"
+  },
+  {
+    "cp": "🏄🏽‍♀",
+    "tts": "kvinneleg surfar: hudtype 4"
+  },
+  {
+    "cp": "🏄🏽‍♂",
+    "tts": "mannleg surfar: hudtype 4"
+  },
+  {
+    "cp": "🏄🏾",
+    "tts": "surfar: hudtype 5"
+  },
+  {
+    "cp": "🏄🏾‍♀",
+    "tts": "kvinneleg surfar: hudtype 5"
+  },
+  {
+    "cp": "🏄🏾‍♂",
+    "tts": "mannleg surfar: hudtype 5"
+  },
+  {
+    "cp": "🏄🏿",
+    "tts": "surfar: hudtype 6"
+  },
+  {
+    "cp": "🏄🏿‍♀",
+    "tts": "kvinneleg surfar: hudtype 6"
+  },
+  {
+    "cp": "🏄🏿‍♂",
+    "tts": "mannleg surfar: hudtype 6"
+  },
+  {
+    "cp": "🏊",
+    "tts": "symjar"
+  },
+  {
+    "cp": "🏊‍♀",
+    "tts": "kvinneleg symjar"
+  },
+  {
+    "cp": "🏊‍♂",
+    "tts": "mannleg symjar"
+  },
+  {
+    "cp": "🏊🏻",
+    "tts": "symjar: hudtype 1–2"
+  },
+  {
+    "cp": "🏊🏻‍♀",
+    "tts": "kvinneleg symjar: hudtype 1–2"
+  },
+  {
+    "cp": "🏊🏻‍♂",
+    "tts": "mannleg symjar: hudtype 1–2"
+  },
+  {
+    "cp": "🏊🏼",
+    "tts": "symjar: hudtype 3"
+  },
+  {
+    "cp": "🏊🏼‍♀",
+    "tts": "kvinneleg symjar: hudtype 3"
+  },
+  {
+    "cp": "🏊🏼‍♂",
+    "tts": "mannleg symjar: hudtype 3"
+  },
+  {
+    "cp": "🏊🏽",
+    "tts": "symjar: hudtype 4"
+  },
+  {
+    "cp": "🏊🏽‍♀",
+    "tts": "kvinneleg symjar: hudtype 4"
+  },
+  {
+    "cp": "🏊🏽‍♂",
+    "tts": "mannleg symjar: hudtype 4"
+  },
+  {
+    "cp": "🏊🏾",
+    "tts": "symjar: hudtype 5"
+  },
+  {
+    "cp": "🏊🏾‍♀",
+    "tts": "kvinneleg symjar: hudtype 5"
+  },
+  {
+    "cp": "🏊🏾‍♂",
+    "tts": "mannleg symjar: hudtype 5"
+  },
+  {
+    "cp": "🏊🏿",
+    "tts": "symjar: hudtype 6"
+  },
+  {
+    "cp": "🏊🏿‍♀",
+    "tts": "kvinneleg symjar: hudtype 6"
+  },
+  {
+    "cp": "🏊🏿‍♂",
+    "tts": "mannleg symjar: hudtype 6"
+  },
+  {
+    "cp": "🏋",
+    "tts": "vektløftar"
+  },
+  {
+    "cp": "🏋‍♀",
+    "tts": "kvinneleg vektløftar"
+  },
+  {
+    "cp": "🏋‍♂",
+    "tts": "mannleg vektløftar"
+  },
+  {
+    "cp": "🏋🏻",
+    "tts": "vektløftar: hudtype 1–2"
+  },
+  {
+    "cp": "🏋🏻‍♀",
+    "tts": "kvinneleg vektløftar: hudtype 1–2"
+  },
+  {
+    "cp": "🏋🏻‍♂",
+    "tts": "mannleg vektløftar: hudtype 1–2"
+  },
+  {
+    "cp": "🏋🏼",
+    "tts": "vektløftar: hudtype 3"
+  },
+  {
+    "cp": "🏋🏼‍♀",
+    "tts": "kvinneleg vektløftar: hudtype 3"
+  },
+  {
+    "cp": "🏋🏼‍♂",
+    "tts": "mannleg vektløftar: hudtype 3"
+  },
+  {
+    "cp": "🏋🏽",
+    "tts": "vektløftar: hudtype 4"
+  },
+  {
+    "cp": "🏋🏽‍♀",
+    "tts": "kvinneleg vektløftar: hudtype 4"
+  },
+  {
+    "cp": "🏋🏽‍♂",
+    "tts": "mannleg vektløftar: hudtype 4"
+  },
+  {
+    "cp": "🏋🏾",
+    "tts": "vektløftar: hudtype 5"
+  },
+  {
+    "cp": "🏋🏾‍♀",
+    "tts": "kvinneleg vektløftar: hudtype 5"
+  },
+  {
+    "cp": "🏋🏾‍♂",
+    "tts": "mannleg vektløftar: hudtype 5"
+  },
+  {
+    "cp": "🏋🏿",
+    "tts": "vektløftar: hudtype 6"
+  },
+  {
+    "cp": "🏋🏿‍♀",
+    "tts": "kvinneleg vektløftar: hudtype 6"
+  },
+  {
+    "cp": "🏋🏿‍♂",
+    "tts": "mannleg vektløftar: hudtype 6"
+  },
+  {
+    "cp": "🏌",
+    "tts": "golfspelar"
+  },
+  {
+    "cp": "🏌‍♀",
+    "tts": "kvinneleg golfspelar"
+  },
+  {
+    "cp": "🏌‍♂",
+    "tts": "mannleg golfspelar"
+  },
+  {
+    "cp": "🏌🏻",
+    "tts": "golfspelar: hudtype 1–2"
+  },
+  {
+    "cp": "🏌🏻‍♀",
+    "tts": "kvinneleg golfspelar: hudtype 1–2"
+  },
+  {
+    "cp": "🏌🏻‍♂",
+    "tts": "mannleg golfspelar: hudtype 1–2"
+  },
+  {
+    "cp": "🏌🏼",
+    "tts": "golfspelar: hudtype 3"
+  },
+  {
+    "cp": "🏌🏼‍♀",
+    "tts": "kvinneleg golfspelar: hudtype 3"
+  },
+  {
+    "cp": "🏌🏼‍♂",
+    "tts": "mannleg golfspelar: hudtype 3"
+  },
+  {
+    "cp": "🏌🏽",
+    "tts": "golfspelar: hudtype 4"
+  },
+  {
+    "cp": "🏌🏽‍♀",
+    "tts": "kvinneleg golfspelar: hudtype 4"
+  },
+  {
+    "cp": "🏌🏽‍♂",
+    "tts": "mannleg golfspelar: hudtype 4"
+  },
+  {
+    "cp": "🏌🏾",
+    "tts": "golfspelar: hudtype 5"
+  },
+  {
+    "cp": "🏌🏾‍♀",
+    "tts": "kvinneleg golfspelar: hudtype 5"
+  },
+  {
+    "cp": "🏌🏾‍♂",
+    "tts": "mannleg golfspelar: hudtype 5"
+  },
+  {
+    "cp": "🏌🏿",
+    "tts": "golfspelar: hudtype 6"
+  },
+  {
+    "cp": "🏌🏿‍♀",
+    "tts": "kvinneleg golfspelar: hudtype 6"
+  },
+  {
+    "cp": "🏌🏿‍♂",
+    "tts": "mannleg golfspelar: hudtype 6"
+  },
+  {
+    "cp": "🏘",
+    "tts": "bustader"
+  },
+  {
+    "cp": "🏝",
+    "tts": "aude øy"
+  },
+  {
+    "cp": "🏥",
+    "tts": "sjukehus"
+  },
+  {
+    "cp": "🏩",
+    "tts": "kjærleikshotell"
+  },
+  {
+    "cp": "🏪",
+    "tts": "daglegvarebutikk"
+  },
+  {
+    "cp": "🏫",
+    "tts": "skule"
+  },
+  {
+    "cp": "🏮",
+    "tts": "raud papirlykt"
+  },
+  {
+    "cp": "🏳",
+    "tts": "kvitt flagg"
+  },
+  {
+    "cp": "🏳‍🌈",
+    "tts": "regnbogeflagg"
+  },
+  {
+    "cp": "🏴‍☠",
+    "tts": "sjørøvarflagg"
+  },
+  {
+    "cp": "🏹",
+    "tts": "pil og boge"
+  },
+  {
+    "cp": "🐃",
+    "tts": "vassbøffel"
+  },
+  {
+    "cp": "🐉",
+    "tts": "drake"
+  },
+  {
+    "cp": "🐋",
+    "tts": "kval"
+  },
+  {
+    "cp": "🐌",
+    "tts": "snigel"
+  },
+  {
+    "cp": "🐚",
+    "tts": "spiralskjel"
+  },
+  {
+    "cp": "🐢",
+    "tts": "skjelpadde"
+  },
+  {
+    "cp": "🐣",
+    "tts": "nyklekt kylling"
+  },
+  {
+    "cp": "🐥",
+    "tts": "kylling framanfrå"
+  },
+  {
+    "cp": "🐲",
+    "tts": "drakefjes"
+  },
+  {
+    "cp": "🐳",
+    "tts": "sprutande kval"
+  },
+  {
+    "cp": "👀",
+    "tts": "auge"
+  },
+  {
+    "cp": "👁",
+    "tts": "auga"
+  },
+  {
+    "cp": "👁‍🗨",
+    "tts": "auge i snakkeboble"
+  },
+  {
+    "cp": "👂",
+    "tts": "øyre"
+  },
+  {
+    "cp": "👂🏻",
+    "tts": "øyre: hudtype 1–2"
+  },
+  {
+    "cp": "👂🏼",
+    "tts": "øyre: hudtype 3"
+  },
+  {
+    "cp": "👂🏽",
+    "tts": "øyre: hudtype 4"
+  },
+  {
+    "cp": "👂🏾",
+    "tts": "øyre: hudtype 5"
+  },
+  {
+    "cp": "👂🏿",
+    "tts": "øyre: hudtype 6"
+  },
+  {
+    "cp": "👃",
+    "tts": "nase"
+  },
+  {
+    "cp": "👃🏻",
+    "tts": "nase: hudtype 1–2"
+  },
+  {
+    "cp": "👃🏼",
+    "tts": "nase: hudtype 3"
+  },
+  {
+    "cp": "👃🏽",
+    "tts": "nase: hudtype 4"
+  },
+  {
+    "cp": "👃🏾",
+    "tts": "nase: hudtype 5"
+  },
+  {
+    "cp": "👃🏿",
+    "tts": "nase: hudtype 6"
+  },
+  {
+    "cp": "👆",
+    "tts": "peikar opp – bakhand"
+  },
+  {
+    "cp": "👆🏻",
+    "tts": "peikar opp – bakhand: hudtype 1–2"
+  },
+  {
+    "cp": "👆🏼",
+    "tts": "peikar opp – bakhand: hudtype 3"
+  },
+  {
+    "cp": "👆🏽",
+    "tts": "peikar opp – bakhand: hudtype 4"
+  },
+  {
+    "cp": "👆🏾",
+    "tts": "peikar opp – bakhand: hudtype 5"
+  },
+  {
+    "cp": "👆🏿",
+    "tts": "peikar opp – bakhand: hudtype 6"
+  },
+  {
+    "cp": "👇",
+    "tts": "peikar ned – bakhand"
+  },
+  {
+    "cp": "👇🏻",
+    "tts": "peikar ned – bakhand: hudtype 1–2"
+  },
+  {
+    "cp": "👇🏼",
+    "tts": "peikar ned – bakhand: hudtype 3"
+  },
+  {
+    "cp": "👇🏽",
+    "tts": "peikar ned – bakhand: hudtype 4"
+  },
+  {
+    "cp": "👇🏾",
+    "tts": "peikar ned – bakhand: hudtype 5"
+  },
+  {
+    "cp": "👇🏿",
+    "tts": "peikar ned – bakhand: hudtype 6"
+  },
+  {
+    "cp": "👈",
+    "tts": "peikar mot venstre – bakhand"
+  },
+  {
+    "cp": "👈🏻",
+    "tts": "peikar mot venstre – bakhand: hudtype 1–2"
+  },
+  {
+    "cp": "👈🏼",
+    "tts": "peikar mot venstre – bakhand: hudtype 3"
+  },
+  {
+    "cp": "👈🏽",
+    "tts": "peikar mot venstre – bakhand: hudtype 4"
+  },
+  {
+    "cp": "👈🏾",
+    "tts": "peikar mot venstre – bakhand: hudtype 5"
+  },
+  {
+    "cp": "👈🏿",
+    "tts": "peikar mot venstre – bakhand: hudtype 6"
+  },
+  {
+    "cp": "👉",
+    "tts": "peikar mot høgre – bakhand"
+  },
+  {
+    "cp": "👉🏻",
+    "tts": "peikar mot høgre – bakhand: hudtype 1–2"
+  },
+  {
+    "cp": "👉🏼",
+    "tts": "peikar mot høgre – bakhand: hudtype 3"
+  },
+  {
+    "cp": "👉🏽",
+    "tts": "peikar mot høgre – bakhand: hudtype 4"
+  },
+  {
+    "cp": "👉🏾",
+    "tts": "peikar mot høgre – bakhand: hudtype 5"
+  },
+  {
+    "cp": "👉🏿",
+    "tts": "peikar mot høgre – bakhand: hudtype 6"
+  },
+  {
+    "cp": "👋",
+    "tts": "vinkande hand"
+  },
+  {
+    "cp": "👋🏻",
+    "tts": "vinkande hand: hudtype 1–2"
+  },
+  {
+    "cp": "👋🏼",
+    "tts": "vinkande hand: hudtype 3"
+  },
+  {
+    "cp": "👋🏽",
+    "tts": "vinkande hand: hudtype 4"
+  },
+  {
+    "cp": "👋🏾",
+    "tts": "vinkande hand: hudtype 5"
+  },
+  {
+    "cp": "👋🏿",
+    "tts": "vinkande hand: hudtype 6"
+  },
+  {
+    "cp": "👌",
+    "tts": "OK-hand"
+  },
+  {
+    "cp": "👌🏻",
+    "tts": "OK-hand: hudtype 1–2"
+  },
+  {
+    "cp": "👌🏼",
+    "tts": "OK-hand: hudtype 3"
+  },
+  {
+    "cp": "👌🏽",
+    "tts": "OK-hand: hudtype 4"
+  },
+  {
+    "cp": "👌🏾",
+    "tts": "OK-hand: hudtype 5"
+  },
+  {
+    "cp": "👌🏿",
+    "tts": "OK-hand: hudtype 6"
+  },
+  {
+    "cp": "👏",
+    "tts": "klappande hender"
+  },
+  {
+    "cp": "👏🏻",
+    "tts": "klappande hender: hudtype 1–2"
+  },
+  {
+    "cp": "👏🏼",
+    "tts": "klappande hender: hudtype 3"
+  },
+  {
+    "cp": "👏🏽",
+    "tts": "klappande hender: hudtype 4"
+  },
+  {
+    "cp": "👏🏾",
+    "tts": "klappande hender: hudtype 5"
+  },
+  {
+    "cp": "👏🏿",
+    "tts": "klappande hender: hudtype 6"
+  },
+  {
+    "cp": "👐",
+    "tts": "opne hender"
+  },
+  {
+    "cp": "👐🏻",
+    "tts": "opne hender: hudtype 1–2"
+  },
+  {
+    "cp": "👐🏼",
+    "tts": "opne hender: hudtype 3"
+  },
+  {
+    "cp": "👐🏽",
+    "tts": "opne hender: hudtype 4"
+  },
+  {
+    "cp": "👐🏾",
+    "tts": "opne hender: hudtype 5"
+  },
+  {
+    "cp": "👐🏿",
+    "tts": "opne hender: hudtype 6"
+  },
+  {
+    "cp": "👚",
+    "tts": "dameklede"
+  },
+  {
+    "cp": "👜",
+    "tts": "handveske"
+  },
+  {
+    "cp": "👠",
+    "tts": "høghæla sko"
+  },
+  {
+    "cp": "👦",
+    "tts": "gut"
+  },
+  {
+    "cp": "👦🏻",
+    "tts": "gut: hudtype 1–2"
+  },
+  {
+    "cp": "👦🏼",
+    "tts": "gut: hudtype 3"
+  },
+  {
+    "cp": "👦🏽",
+    "tts": "gut: hudtype 4"
+  },
+  {
+    "cp": "👦🏾",
+    "tts": "gut: hudtype 5"
+  },
+  {
+    "cp": "👦🏿",
+    "tts": "gut: hudtype 6"
+  },
+  {
+    "cp": "👨‍⚕",
+    "tts": "mannleg helsearbeidar"
+  },
+  {
+    "cp": "👨‍⚖",
+    "tts": "mannleg dommar"
+  },
+  {
+    "cp": "👨‍✈",
+    "tts": "mannleg pilot"
+  },
+  {
+    "cp": "👨‍❤‍👨",
+    "tts": "par med hjarte: mann, mann"
+  },
+  {
+    "cp": "👨‍🌾",
+    "tts": "mannleg gardbrukar"
+  },
+  {
+    "cp": "👨‍🍳",
+    "tts": "mannleg kokk"
+  },
+  {
+    "cp": "👨‍🍼",
+    "tts": "mann som matar baby"
+  },
+  {
+    "cp": "👨‍🎓",
+    "tts": "mannleg student"
+  },
+  {
+    "cp": "👨‍🎤",
+    "tts": "mannleg artist"
+  },
+  {
+    "cp": "👨‍🎨",
+    "tts": "mannleg kunstnar"
+  },
+  {
+    "cp": "👨‍🏫",
+    "tts": "mannleg lærar"
+  },
+  {
+    "cp": "👨‍🏭",
+    "tts": "mannleg industriarbeidar"
+  },
+  {
+    "cp": "👨‍👦",
+    "tts": "familie: mann, gut"
+  },
+  {
+    "cp": "👨‍👦‍👦",
+    "tts": "familie: mann, gut, gut"
+  },
+  {
+    "cp": "👨‍👧‍👦",
+    "tts": "familie: mann, jente, gut"
+  },
+  {
+    "cp": "👨‍👨‍👦",
+    "tts": "familie: mann, mann, gut"
+  },
+  {
+    "cp": "👨‍👨‍👦‍👦",
+    "tts": "familie: mann, mann, gut, gut"
+  },
+  {
+    "cp": "👨‍👨‍👧‍👦",
+    "tts": "familie: mann, mann, jente, gut"
+  },
+  {
+    "cp": "👨‍👩‍👦",
+    "tts": "familie: mann, kvinne, gut"
+  },
+  {
+    "cp": "👨‍👩‍👦‍👦",
+    "tts": "familie: mann, kvinne, gut, gut"
+  },
+  {
+    "cp": "👨‍👩‍👧‍👦",
+    "tts": "familie: mann, kvinne, jente, gut"
+  },
+  {
+    "cp": "👨‍💻",
+    "tts": "mannleg IT-ekspert"
+  },
+  {
+    "cp": "👨‍💼",
+    "tts": "mannleg kontorarbeidar"
+  },
+  {
+    "cp": "👨‍🔧",
+    "tts": "mannleg mekanikar"
+  },
+  {
+    "cp": "👨‍🔬",
+    "tts": "mannleg forskar"
+  },
+  {
+    "cp": "👨‍🚀",
+    "tts": "mannleg astronaut"
+  },
+  {
+    "cp": "👨‍🚒",
+    "tts": "mannleg brannkonstabel"
+  },
+  {
+    "cp": "👨‍🦯‍➡",
+    "tts": "mann med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👨‍🦰",
+    "tts": "mann: raudt hår"
+  },
+  {
+    "cp": "👨‍🦱",
+    "tts": "mann: krusete hår"
+  },
+  {
+    "cp": "👨‍🦲",
+    "tts": "mann: skalla"
+  },
+  {
+    "cp": "👨‍🦼‍➡",
+    "tts": "mann i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨‍🦽‍➡",
+    "tts": "mann i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨🏻‍⚕",
+    "tts": "mannleg helsearbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍⚖",
+    "tts": "mannleg dommar: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍✈",
+    "tts": "mannleg pilot: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍❤‍👨🏻",
+    "tts": "par med hjarte: mann, mann, hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍❤‍👨🏼",
+    "tts": "par med hjarte: mann, mann, hudtype 1–2, hudtype 3"
+  },
+  {
+    "cp": "👨🏻‍❤‍👨🏽",
+    "tts": "par med hjarte: mann, mann, hudtype 1–2, hudtype 4"
+  },
+  {
+    "cp": "👨🏻‍❤‍👨🏾",
+    "tts": "par med hjarte: mann, mann, hudtype 1–2, hudtype 5"
+  },
+  {
+    "cp": "👨🏻‍❤‍👨🏿",
+    "tts": "par med hjarte: mann, mann, hudtype 1–2, hudtype 6"
+  },
+  {
+    "cp": "👨🏻‍🌾",
+    "tts": "mannleg gardbrukar: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🍳",
+    "tts": "mannleg kokk: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🍼",
+    "tts": "mann som matar baby: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🎓",
+    "tts": "mannleg student: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🎤",
+    "tts": "mannleg artist: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🎨",
+    "tts": "mannleg kunstnar: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🏫",
+    "tts": "mannleg lærar: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🏭",
+    "tts": "mannleg industriarbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍💻",
+    "tts": "mannleg IT-ekspert: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍💼",
+    "tts": "mannleg kontorarbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🔧",
+    "tts": "mannleg mekanikar: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🔬",
+    "tts": "mannleg forskar: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🚀",
+    "tts": "mannleg astronaut: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🚒",
+    "tts": "mannleg brannkonstabel: hudtype 1–2"
+  },
+  {
+    "cp": "👨🏻‍🤝‍👨🏼",
+    "tts": "menn som leiar: hudtype 1–2, hudtype 3"
+  },
+  {
+    "cp": "👨🏻‍🤝‍👨🏽",
+    "tts": "menn som leiar: hudtype 1–2, hudtype 4"
+  },
+  {
+    "cp": "👨🏻‍🤝‍👨🏾",
+    "tts": "menn som leiar: hudtype 1–2, hudtype 5"
+  },
+  {
+    "cp": "👨🏻‍🤝‍👨🏿",
+    "tts": "menn som leiar: hudtype 1–2, hudtype 6"
+  },
+  {
+    "cp": "👨🏻‍🦯‍➡",
+    "tts": "mann med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👨🏻‍🦰",
+    "tts": "mann: hudtype 1–2, raudt hår"
+  },
+  {
+    "cp": "👨🏻‍🦱",
+    "tts": "mann: hudtype 1–2, krusete hår"
+  },
+  {
+    "cp": "👨🏻‍🦲",
+    "tts": "mann: hudtype 1–2, skalla"
+  },
+  {
+    "cp": "👨🏻‍🦼‍➡",
+    "tts": "mann i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨🏻‍🦽‍➡",
+    "tts": "mann i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨🏼‍⚕",
+    "tts": "mannleg helsearbeidar: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍⚖",
+    "tts": "mannleg dommar: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍✈",
+    "tts": "mannleg pilot: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍❤‍👨🏻",
+    "tts": "par med hjarte: mann, mann, hudtype 3, hudtype 1–2"
+  },
+  {
+    "cp": "👨🏼‍❤‍👨🏼",
+    "tts": "par med hjarte: mann, mann, hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍❤‍👨🏽",
+    "tts": "par med hjarte: mann, mann, hudtype 3, hudtype 4"
+  },
+  {
+    "cp": "👨🏼‍❤‍👨🏾",
+    "tts": "par med hjarte: mann, mann, hudtype 3, hudtype 5"
+  },
+  {
+    "cp": "👨🏼‍❤‍👨🏿",
+    "tts": "par med hjarte: mann, mann, hudtype 3, hudtype 6"
+  },
+  {
+    "cp": "👨🏼‍🌾",
+    "tts": "mannleg gardbrukar: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🍳",
+    "tts": "mannleg kokk: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🍼",
+    "tts": "mann som matar baby: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🎓",
+    "tts": "mannleg student: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🎤",
+    "tts": "mannleg artist: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🎨",
+    "tts": "mannleg kunstnar: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🏫",
+    "tts": "mannleg lærar: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🏭",
+    "tts": "mannleg industriarbeidar: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍💻",
+    "tts": "mannleg IT-ekspert: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍💼",
+    "tts": "mannleg kontorarbeidar: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🔧",
+    "tts": "mannleg mekanikar: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🔬",
+    "tts": "mannleg forskar: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🚀",
+    "tts": "mannleg astronaut: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🚒",
+    "tts": "mannleg brannkonstabel: hudtype 3"
+  },
+  {
+    "cp": "👨🏼‍🤝‍👨🏻",
+    "tts": "menn som leiar: hudtype 3, hudtype 1–2"
+  },
+  {
+    "cp": "👨🏼‍🤝‍👨🏽",
+    "tts": "menn som leiar: hudtype 3, hudtype 4"
+  },
+  {
+    "cp": "👨🏼‍🤝‍👨🏾",
+    "tts": "menn som leiar: hudtype 3, hudtype 5"
+  },
+  {
+    "cp": "👨🏼‍🤝‍👨🏿",
+    "tts": "menn som leiar: hudtype 3, hudtype 6"
+  },
+  {
+    "cp": "👨🏼‍🦯‍➡",
+    "tts": "mann med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👨🏼‍🦰",
+    "tts": "mann: hudtype 3, raudt hår"
+  },
+  {
+    "cp": "👨🏼‍🦱",
+    "tts": "mann: hudtype 3, krusete hår"
+  },
+  {
+    "cp": "👨🏼‍🦲",
+    "tts": "mann: hudtype 3, skalla"
+  },
+  {
+    "cp": "👨🏼‍🦼‍➡",
+    "tts": "mann i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨🏼‍🦽‍➡",
+    "tts": "mann i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨🏽‍⚕",
+    "tts": "mannleg helsearbeidar: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍⚖",
+    "tts": "mannleg dommar: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍✈",
+    "tts": "mannleg pilot: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍❤‍👨🏻",
+    "tts": "par med hjarte: mann, mann, hudtype 4, hudtype 1–2"
+  },
+  {
+    "cp": "👨🏽‍❤‍👨🏼",
+    "tts": "par med hjarte: mann, mann, hudtype 4, hudtype 3"
+  },
+  {
+    "cp": "👨🏽‍❤‍👨🏽",
+    "tts": "par med hjarte: mann, mann, hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍❤‍👨🏾",
+    "tts": "par med hjarte: mann, mann, hudtype 4, hudtype 5"
+  },
+  {
+    "cp": "👨🏽‍❤‍👨🏿",
+    "tts": "par med hjarte: mann, mann, hudtype 4, hudtype 6"
+  },
+  {
+    "cp": "👨🏽‍🌾",
+    "tts": "mannleg gardbrukar: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🍳",
+    "tts": "mannleg kokk: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🍼",
+    "tts": "mann som matar baby: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🎓",
+    "tts": "mannleg student: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🎤",
+    "tts": "mannleg artist: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🎨",
+    "tts": "mannleg kunstnar: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🏫",
+    "tts": "mannleg lærar: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🏭",
+    "tts": "mannleg industriarbeidar: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍💻",
+    "tts": "mannleg IT-ekspert: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍💼",
+    "tts": "mannleg kontorarbeidar: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🔧",
+    "tts": "mannleg mekanikar: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🔬",
+    "tts": "mannleg forskar: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🚀",
+    "tts": "mannleg astronaut: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🚒",
+    "tts": "mannleg brannkonstabel: hudtype 4"
+  },
+  {
+    "cp": "👨🏽‍🤝‍👨🏻",
+    "tts": "menn som leiar: hudtype 4, hudtype 1–2"
+  },
+  {
+    "cp": "👨🏽‍🤝‍👨🏼",
+    "tts": "menn som leiar: hudtype 4, hudtype 3"
+  },
+  {
+    "cp": "👨🏽‍🤝‍👨🏾",
+    "tts": "menn som leiar: hudtype 4, hudtype 5"
+  },
+  {
+    "cp": "👨🏽‍🤝‍👨🏿",
+    "tts": "menn som leiar: hudtype 4, hudtype 6"
+  },
+  {
+    "cp": "👨🏽‍🦯‍➡",
+    "tts": "mann med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👨🏽‍🦰",
+    "tts": "mann: hudtype 4, raudt hår"
+  },
+  {
+    "cp": "👨🏽‍🦱",
+    "tts": "mann: hudtype 4, krusete hår"
+  },
+  {
+    "cp": "👨🏽‍🦲",
+    "tts": "mann: hudtype 4, skalla"
+  },
+  {
+    "cp": "👨🏽‍🦼‍➡",
+    "tts": "mann i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨🏽‍🦽‍➡",
+    "tts": "mann i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨🏾‍⚕",
+    "tts": "mannleg helsearbeidar: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍⚖",
+    "tts": "mannleg dommar: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍✈",
+    "tts": "mannleg pilot: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍❤‍👨🏻",
+    "tts": "par med hjarte: mann, mann, hudtype 5, hudtype 1–2"
+  },
+  {
+    "cp": "👨🏾‍❤‍👨🏼",
+    "tts": "par med hjarte: mann, mann, hudtype 5, hudtype 3"
+  },
+  {
+    "cp": "👨🏾‍❤‍👨🏽",
+    "tts": "par med hjarte: mann, mann, hudtype 5, hudtype 4"
+  },
+  {
+    "cp": "👨🏾‍❤‍👨🏾",
+    "tts": "par med hjarte: mann, mann, hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍❤‍👨🏿",
+    "tts": "par med hjarte: mann, mann, hudtype 5, hudtype 6"
+  },
+  {
+    "cp": "👨🏾‍🌾",
+    "tts": "mannleg gardbrukar: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🍳",
+    "tts": "mannleg kokk: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🍼",
+    "tts": "mann som matar baby: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🎓",
+    "tts": "mannleg student: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🎤",
+    "tts": "mannleg artist: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🎨",
+    "tts": "mannleg kunstnar: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🏫",
+    "tts": "mannleg lærar: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🏭",
+    "tts": "mannleg industriarbeidar: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍💻",
+    "tts": "mannleg IT-ekspert: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍💼",
+    "tts": "mannleg kontorarbeidar: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🔧",
+    "tts": "mannleg mekanikar: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🔬",
+    "tts": "mannleg forskar: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🚀",
+    "tts": "mannleg astronaut: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🚒",
+    "tts": "mannleg brannkonstabel: hudtype 5"
+  },
+  {
+    "cp": "👨🏾‍🤝‍👨🏻",
+    "tts": "menn som leiar: hudtype 5, hudtype 1–2"
+  },
+  {
+    "cp": "👨🏾‍🤝‍👨🏼",
+    "tts": "menn som leiar: hudtype 5, hudtype 3"
+  },
+  {
+    "cp": "👨🏾‍🤝‍👨🏽",
+    "tts": "menn som leiar: hudtype 5, hudtype 4"
+  },
+  {
+    "cp": "👨🏾‍🤝‍👨🏿",
+    "tts": "menn som leiar: hudtype 5, hudtype 6"
+  },
+  {
+    "cp": "👨🏾‍🦯‍➡",
+    "tts": "mann med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👨🏾‍🦰",
+    "tts": "mann: hudtype 5, raudt hår"
+  },
+  {
+    "cp": "👨🏾‍🦱",
+    "tts": "mann: hudtype 5, krusete hår"
+  },
+  {
+    "cp": "👨🏾‍🦲",
+    "tts": "mann: hudtype 5, skalla"
+  },
+  {
+    "cp": "👨🏾‍🦼‍➡",
+    "tts": "mann i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨🏾‍🦽‍➡",
+    "tts": "mann i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨🏿‍⚕",
+    "tts": "mannleg helsearbeidar: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍⚖",
+    "tts": "mannleg dommar: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍✈",
+    "tts": "mannleg pilot: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍❤‍👨🏻",
+    "tts": "par med hjarte: mann, mann, hudtype 6, hudtype 1–2"
+  },
+  {
+    "cp": "👨🏿‍❤‍👨🏼",
+    "tts": "par med hjarte: mann, mann, hudtype 6, hudtype 3"
+  },
+  {
+    "cp": "👨🏿‍❤‍👨🏽",
+    "tts": "par med hjarte: mann, mann, hudtype 6, hudtype 4"
+  },
+  {
+    "cp": "👨🏿‍❤‍👨🏾",
+    "tts": "par med hjarte: mann, mann, hudtype 6, hudtype 5"
+  },
+  {
+    "cp": "👨🏿‍❤‍👨🏿",
+    "tts": "par med hjarte: mann, mann, hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🌾",
+    "tts": "mannleg gardbrukar: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🍳",
+    "tts": "mannleg kokk: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🍼",
+    "tts": "mann som matar baby: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🎓",
+    "tts": "mannleg student: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🎤",
+    "tts": "mannleg artist: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🎨",
+    "tts": "mannleg kunstnar: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🏫",
+    "tts": "mannleg lærar: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🏭",
+    "tts": "mannleg industriarbeidar: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍💻",
+    "tts": "mannleg IT-ekspert: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍💼",
+    "tts": "mannleg kontorarbeidar: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🔧",
+    "tts": "mannleg mekanikar: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🔬",
+    "tts": "mannleg forskar: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🚀",
+    "tts": "mannleg astronaut: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🚒",
+    "tts": "mannleg brannkonstabel: hudtype 6"
+  },
+  {
+    "cp": "👨🏿‍🤝‍👨🏻",
+    "tts": "menn som leiar: hudtype 6, hudtype 1–2"
+  },
+  {
+    "cp": "👨🏿‍🤝‍👨🏼",
+    "tts": "menn som leiar: hudtype 6, hudtype 3"
+  },
+  {
+    "cp": "👨🏿‍🤝‍👨🏽",
+    "tts": "menn som leiar: hudtype 6, hudtype 4"
+  },
+  {
+    "cp": "👨🏿‍🤝‍👨🏾",
+    "tts": "menn som leiar: hudtype 6, hudtype 5"
+  },
+  {
+    "cp": "👨🏿‍🦯‍➡",
+    "tts": "mann med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👨🏿‍🦰",
+    "tts": "mann: hudtype 6, raudt hår"
+  },
+  {
+    "cp": "👨🏿‍🦱",
+    "tts": "mann: hudtype 6, krusete hår"
+  },
+  {
+    "cp": "👨🏿‍🦲",
+    "tts": "mann: hudtype 6, skalla"
+  },
+  {
+    "cp": "👨🏿‍🦼‍➡",
+    "tts": "mann i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👨🏿‍🦽‍➡",
+    "tts": "mann i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩‍⚕",
+    "tts": "kvinneleg helsearbeidar"
+  },
+  {
+    "cp": "👩‍⚖",
+    "tts": "kvinneleg dommar"
+  },
+  {
+    "cp": "👩‍✈",
+    "tts": "kvinneleg pilot"
+  },
+  {
+    "cp": "👩‍❤‍👨",
+    "tts": "par med hjarte: kvinne, mann"
+  },
+  {
+    "cp": "👩‍❤‍👩",
+    "tts": "par med hjarte: kvinne, kvinne"
+  },
+  {
+    "cp": "👩‍🌾",
+    "tts": "kvinneleg gardbrukar"
+  },
+  {
+    "cp": "👩‍🍳",
+    "tts": "kvinneleg kokk"
+  },
+  {
+    "cp": "👩‍🍼",
+    "tts": "kvinne som matar baby"
+  },
+  {
+    "cp": "👩‍🎓",
+    "tts": "kvinneleg student"
+  },
+  {
+    "cp": "👩‍🎤",
+    "tts": "kvinneleg artist"
+  },
+  {
+    "cp": "👩‍🎨",
+    "tts": "kvinneleg kunstnar"
+  },
+  {
+    "cp": "👩‍🏫",
+    "tts": "kvinneleg lærar"
+  },
+  {
+    "cp": "👩‍🏭",
+    "tts": "kvinneleg industriarbeidar"
+  },
+  {
+    "cp": "👩‍👦",
+    "tts": "familie: kvinne, gut"
+  },
+  {
+    "cp": "👩‍👦‍👦",
+    "tts": "familie: kvinne, gut, gut"
+  },
+  {
+    "cp": "👩‍👧‍👦",
+    "tts": "familie: kvinne, jente, gut"
+  },
+  {
+    "cp": "👩‍👩‍👦",
+    "tts": "familie: kvinne, kvinne, gut"
+  },
+  {
+    "cp": "👩‍👩‍👦‍👦",
+    "tts": "familie: kvinne, kvinne, gut, gut"
+  },
+  {
+    "cp": "👩‍👩‍👧‍👦",
+    "tts": "familie: kvinne, kvinne, jente, gut"
+  },
+  {
+    "cp": "👩‍💻",
+    "tts": "kvinneleg IT-ekspert"
+  },
+  {
+    "cp": "👩‍💼",
+    "tts": "kvinneleg kontorarbeidar"
+  },
+  {
+    "cp": "👩‍🔧",
+    "tts": "kvinneleg mekanikar"
+  },
+  {
+    "cp": "👩‍🔬",
+    "tts": "kvinneleg forskar"
+  },
+  {
+    "cp": "👩‍🚀",
+    "tts": "kvinneleg astronaut"
+  },
+  {
+    "cp": "👩‍🚒",
+    "tts": "kvinneleg brannkonstabel"
+  },
+  {
+    "cp": "👩‍🦯‍➡",
+    "tts": "kvinne med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👩‍🦰",
+    "tts": "kvinne: raudt hår"
+  },
+  {
+    "cp": "👩‍🦱",
+    "tts": "kvinne: krusete hår"
+  },
+  {
+    "cp": "👩‍🦲",
+    "tts": "kvinne: skalla"
+  },
+  {
+    "cp": "👩‍🦼‍➡",
+    "tts": "kvinne i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩‍🦽‍➡",
+    "tts": "kvinne i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩🏻‍⚕",
+    "tts": "kvinneleg helsearbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍⚖",
+    "tts": "kvinneleg dommar: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍✈",
+    "tts": "kvinneleg pilot: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍❤‍👨🏻",
+    "tts": "par med hjarte: kvinne, mann, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍❤‍👨🏼",
+    "tts": "par med hjarte: kvinne, mann, hudtype 1–2, hudtype 3"
+  },
+  {
+    "cp": "👩🏻‍❤‍👨🏽",
+    "tts": "par med hjarte: kvinne, mann, hudtype 1–2, hudtype 4"
+  },
+  {
+    "cp": "👩🏻‍❤‍👨🏾",
+    "tts": "par med hjarte: kvinne, mann, hudtype 1–2, hudtype 5"
+  },
+  {
+    "cp": "👩🏻‍❤‍👨🏿",
+    "tts": "par med hjarte: kvinne, mann, hudtype 1–2, hudtype 6"
+  },
+  {
+    "cp": "👩🏻‍❤‍👩🏻",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍❤‍👩🏼",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 1–2, hudtype 3"
+  },
+  {
+    "cp": "👩🏻‍❤‍👩🏽",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 1–2, hudtype 4"
+  },
+  {
+    "cp": "👩🏻‍❤‍👩🏾",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 1–2, hudtype 5"
+  },
+  {
+    "cp": "👩🏻‍❤‍👩🏿",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 1–2, hudtype 6"
+  },
+  {
+    "cp": "👩🏻‍🌾",
+    "tts": "kvinneleg gardbrukar: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🍳",
+    "tts": "kvinneleg kokk: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🍼",
+    "tts": "kvinne som matar baby: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🎓",
+    "tts": "kvinneleg student: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🎤",
+    "tts": "kvinneleg artist: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🎨",
+    "tts": "kvinneleg kunstnar: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🏫",
+    "tts": "kvinneleg lærar: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🏭",
+    "tts": "kvinneleg industriarbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍💻",
+    "tts": "kvinneleg IT-ekspert: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍💼",
+    "tts": "kvinneleg kontorarbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🔧",
+    "tts": "kvinneleg mekanikar: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🔬",
+    "tts": "kvinneleg forskar: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🚀",
+    "tts": "kvinneleg astronaut: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🚒",
+    "tts": "kvinneleg brannkonstabel: hudtype 1–2"
+  },
+  {
+    "cp": "👩🏻‍🤝‍👨🏼",
+    "tts": "mann og kvinne som leiar: hudtype 1–2, hudtype 3"
+  },
+  {
+    "cp": "👩🏻‍🤝‍👨🏽",
+    "tts": "mann og kvinne som leiar: hudtype 1–2, hudtype 4"
+  },
+  {
+    "cp": "👩🏻‍🤝‍👨🏾",
+    "tts": "mann og kvinne som leiar: hudtype 1–2, hudtype 5"
+  },
+  {
+    "cp": "👩🏻‍🤝‍👨🏿",
+    "tts": "mann og kvinne som leiar: hudtype 1–2, hudtype 6"
+  },
+  {
+    "cp": "👩🏻‍🤝‍👩🏼",
+    "tts": "kvinner som leiar: hudtype 1–2, hudtype 3"
+  },
+  {
+    "cp": "👩🏻‍🤝‍👩🏽",
+    "tts": "kvinner som leiar: hudtype 1–2, hudtype 4"
+  },
+  {
+    "cp": "👩🏻‍🤝‍👩🏾",
+    "tts": "kvinner som leiar: hudtype 1–2, hudtype 5"
+  },
+  {
+    "cp": "👩🏻‍🤝‍👩🏿",
+    "tts": "kvinner som leiar: hudtype 1–2, hudtype 6"
+  },
+  {
+    "cp": "👩🏻‍🦯‍➡",
+    "tts": "kvinne med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👩🏻‍🦰",
+    "tts": "kvinne: hudtype 1–2, raudt hår"
+  },
+  {
+    "cp": "👩🏻‍🦱",
+    "tts": "kvinne: hudtype 1–2, krusete hår"
+  },
+  {
+    "cp": "👩🏻‍🦲",
+    "tts": "kvinne: hudtype 1–2, skalla"
+  },
+  {
+    "cp": "👩🏻‍🦼‍➡",
+    "tts": "kvinne i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩🏻‍🦽‍➡",
+    "tts": "kvinne i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩🏼‍⚕",
+    "tts": "kvinneleg helsearbeidar: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍⚖",
+    "tts": "kvinneleg dommar: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍✈",
+    "tts": "kvinneleg pilot: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍❤‍👨🏻",
+    "tts": "par med hjarte: kvinne, mann, hudtype 3, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏼‍❤‍👨🏼",
+    "tts": "par med hjarte: kvinne, mann, hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍❤‍👨🏽",
+    "tts": "par med hjarte: kvinne, mann, hudtype 3, hudtype 4"
+  },
+  {
+    "cp": "👩🏼‍❤‍👨🏾",
+    "tts": "par med hjarte: kvinne, mann, hudtype 3, hudtype 5"
+  },
+  {
+    "cp": "👩🏼‍❤‍👨🏿",
+    "tts": "par med hjarte: kvinne, mann, hudtype 3, hudtype 6"
+  },
+  {
+    "cp": "👩🏼‍❤‍👩🏻",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 3, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏼‍❤‍👩🏼",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍❤‍👩🏽",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 3, hudtype 4"
+  },
+  {
+    "cp": "👩🏼‍❤‍👩🏾",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 3, hudtype 5"
+  },
+  {
+    "cp": "👩🏼‍❤‍👩🏿",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 3, hudtype 6"
+  },
+  {
+    "cp": "👩🏼‍🌾",
+    "tts": "kvinneleg gardbrukar: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🍳",
+    "tts": "kvinneleg kokk: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🍼",
+    "tts": "kvinne som matar baby: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🎓",
+    "tts": "kvinneleg student: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🎤",
+    "tts": "kvinneleg artist: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🎨",
+    "tts": "kvinneleg kunstnar: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🏫",
+    "tts": "kvinneleg lærar: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🏭",
+    "tts": "kvinneleg industriarbeidar: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍💻",
+    "tts": "kvinneleg IT-ekspert: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍💼",
+    "tts": "kvinneleg kontorarbeidar: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🔧",
+    "tts": "kvinneleg mekanikar: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🔬",
+    "tts": "kvinneleg forskar: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🚀",
+    "tts": "kvinneleg astronaut: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🚒",
+    "tts": "kvinneleg brannkonstabel: hudtype 3"
+  },
+  {
+    "cp": "👩🏼‍🤝‍👨🏻",
+    "tts": "mann og kvinne som leiar: hudtype 3, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏼‍🤝‍👨🏽",
+    "tts": "mann og kvinne som leiar: hudtype 3, hudtype 4"
+  },
+  {
+    "cp": "👩🏼‍🤝‍👨🏾",
+    "tts": "mann og kvinne som leiar: hudtype 3, hudtype 5"
+  },
+  {
+    "cp": "👩🏼‍🤝‍👨🏿",
+    "tts": "mann og kvinne som leiar: hudtype 3, hudtype 6"
+  },
+  {
+    "cp": "👩🏼‍🤝‍👩🏻",
+    "tts": "kvinner som leiar: hudtype 3, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏼‍🤝‍👩🏽",
+    "tts": "kvinner som leiar: hudtype 3, hudtype 4"
+  },
+  {
+    "cp": "👩🏼‍🤝‍👩🏾",
+    "tts": "kvinner som leiar: hudtype 3, hudtype 5"
+  },
+  {
+    "cp": "👩🏼‍🤝‍👩🏿",
+    "tts": "kvinner som leiar: hudtype 3, hudtype 6"
+  },
+  {
+    "cp": "👩🏼‍🦯‍➡",
+    "tts": "kvinne med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👩🏼‍🦰",
+    "tts": "kvinne: hudtype 3, raudt hår"
+  },
+  {
+    "cp": "👩🏼‍🦱",
+    "tts": "kvinne: hudtype 3, krusete hår"
+  },
+  {
+    "cp": "👩🏼‍🦲",
+    "tts": "kvinne: hudtype 3, skalla"
+  },
+  {
+    "cp": "👩🏼‍🦼‍➡",
+    "tts": "kvinne i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩🏼‍🦽‍➡",
+    "tts": "kvinne i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩🏽‍⚕",
+    "tts": "kvinneleg helsearbeidar: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍⚖",
+    "tts": "kvinneleg dommar: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍✈",
+    "tts": "kvinneleg pilot: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍❤‍👨🏻",
+    "tts": "par med hjarte: kvinne, mann, hudtype 4, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏽‍❤‍👨🏼",
+    "tts": "par med hjarte: kvinne, mann, hudtype 4, hudtype 3"
+  },
+  {
+    "cp": "👩🏽‍❤‍👨🏽",
+    "tts": "par med hjarte: kvinne, mann, hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍❤‍👨🏾",
+    "tts": "par med hjarte: kvinne, mann, hudtype 4, hudtype 5"
+  },
+  {
+    "cp": "👩🏽‍❤‍👨🏿",
+    "tts": "par med hjarte: kvinne, mann, hudtype 4, hudtype 6"
+  },
+  {
+    "cp": "👩🏽‍❤‍👩🏻",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 4, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏽‍❤‍👩🏼",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 4, hudtype 3"
+  },
+  {
+    "cp": "👩🏽‍❤‍👩🏽",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍❤‍👩🏾",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 4, hudtype 5"
+  },
+  {
+    "cp": "👩🏽‍❤‍👩🏿",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 4, hudtype 6"
+  },
+  {
+    "cp": "👩🏽‍🌾",
+    "tts": "kvinneleg gardbrukar: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🍳",
+    "tts": "kvinneleg kokk: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🍼",
+    "tts": "kvinne som matar baby: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🎓",
+    "tts": "kvinneleg student: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🎤",
+    "tts": "kvinneleg artist: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🎨",
+    "tts": "kvinneleg kunstnar: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🏫",
+    "tts": "kvinneleg lærar: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🏭",
+    "tts": "kvinneleg industriarbeidar: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍💻",
+    "tts": "kvinneleg IT-ekspert: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍💼",
+    "tts": "kvinneleg kontorarbeidar: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🔧",
+    "tts": "kvinneleg mekanikar: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🔬",
+    "tts": "kvinneleg forskar: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🚀",
+    "tts": "kvinneleg astronaut: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🚒",
+    "tts": "kvinneleg brannkonstabel: hudtype 4"
+  },
+  {
+    "cp": "👩🏽‍🤝‍👨🏻",
+    "tts": "mann og kvinne som leiar: hudtype 4, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏽‍🤝‍👨🏼",
+    "tts": "mann og kvinne som leiar: hudtype 4, hudtype 3"
+  },
+  {
+    "cp": "👩🏽‍🤝‍👨🏾",
+    "tts": "mann og kvinne som leiar: hudtype 4, hudtype 5"
+  },
+  {
+    "cp": "👩🏽‍🤝‍👨🏿",
+    "tts": "mann og kvinne som leiar: hudtype 4, hudtype 6"
+  },
+  {
+    "cp": "👩🏽‍🤝‍👩🏻",
+    "tts": "kvinner som leiar: hudtype 4, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏽‍🤝‍👩🏼",
+    "tts": "kvinner som leiar: hudtype 4, hudtype 3"
+  },
+  {
+    "cp": "👩🏽‍🤝‍👩🏾",
+    "tts": "kvinner som leiar: hudtype 4, hudtype 5"
+  },
+  {
+    "cp": "👩🏽‍🤝‍👩🏿",
+    "tts": "kvinner som leiar: hudtype 4, hudtype 6"
+  },
+  {
+    "cp": "👩🏽‍🦯‍➡",
+    "tts": "kvinne med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👩🏽‍🦰",
+    "tts": "kvinne: hudtype 4, raudt hår"
+  },
+  {
+    "cp": "👩🏽‍🦱",
+    "tts": "kvinne: hudtype 4, krusete hår"
+  },
+  {
+    "cp": "👩🏽‍🦲",
+    "tts": "kvinne: hudtype 4, skalla"
+  },
+  {
+    "cp": "👩🏽‍🦼‍➡",
+    "tts": "kvinne i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩🏽‍🦽‍➡",
+    "tts": "kvinne i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩🏾‍⚕",
+    "tts": "kvinneleg helsearbeidar: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍⚖",
+    "tts": "kvinneleg dommar: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍✈",
+    "tts": "kvinneleg pilot: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍❤‍👨🏻",
+    "tts": "par med hjarte: kvinne, mann, hudtype 5, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏾‍❤‍👨🏼",
+    "tts": "par med hjarte: kvinne, mann, hudtype 5, hudtype 3"
+  },
+  {
+    "cp": "👩🏾‍❤‍👨🏽",
+    "tts": "par med hjarte: kvinne, mann, hudtype 5, hudtype 4"
+  },
+  {
+    "cp": "👩🏾‍❤‍👨🏾",
+    "tts": "par med hjarte: kvinne, mann, hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍❤‍👨🏿",
+    "tts": "par med hjarte: kvinne, mann, hudtype 5, hudtype 6"
+  },
+  {
+    "cp": "👩🏾‍❤‍👩🏻",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 5, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏾‍❤‍👩🏼",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 5, hudtype 3"
+  },
+  {
+    "cp": "👩🏾‍❤‍👩🏽",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 5, hudtype 4"
+  },
+  {
+    "cp": "👩🏾‍❤‍👩🏾",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍❤‍👩🏿",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 5, hudtype 6"
+  },
+  {
+    "cp": "👩🏾‍🌾",
+    "tts": "kvinneleg gardbrukar: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🍳",
+    "tts": "kvinneleg kokk: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🍼",
+    "tts": "kvinne som matar baby: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🎓",
+    "tts": "kvinneleg student: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🎤",
+    "tts": "kvinneleg artist: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🎨",
+    "tts": "kvinneleg kunstnar: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🏫",
+    "tts": "kvinneleg lærar: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🏭",
+    "tts": "kvinneleg industriarbeidar: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍💻",
+    "tts": "kvinneleg IT-ekspert: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍💼",
+    "tts": "kvinneleg kontorarbeidar: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🔧",
+    "tts": "kvinneleg mekanikar: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🔬",
+    "tts": "kvinneleg forskar: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🚀",
+    "tts": "kvinneleg astronaut: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🚒",
+    "tts": "kvinneleg brannkonstabel: hudtype 5"
+  },
+  {
+    "cp": "👩🏾‍🤝‍👨🏻",
+    "tts": "mann og kvinne som leiar: hudtype 5, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏾‍🤝‍👨🏼",
+    "tts": "mann og kvinne som leiar: hudtype 5, hudtype 3"
+  },
+  {
+    "cp": "👩🏾‍🤝‍👨🏽",
+    "tts": "mann og kvinne som leiar: hudtype 5, hudtype 4"
+  },
+  {
+    "cp": "👩🏾‍🤝‍👨🏿",
+    "tts": "mann og kvinne som leiar: hudtype 5, hudtype 6"
+  },
+  {
+    "cp": "👩🏾‍🤝‍👩🏻",
+    "tts": "kvinner som leiar: hudtype 5, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏾‍🤝‍👩🏼",
+    "tts": "kvinner som leiar: hudtype 5, hudtype 3"
+  },
+  {
+    "cp": "👩🏾‍🤝‍👩🏽",
+    "tts": "kvinner som leiar: hudtype 5, hudtype 4"
+  },
+  {
+    "cp": "👩🏾‍🤝‍👩🏿",
+    "tts": "kvinner som leiar: hudtype 5, hudtype 6"
+  },
+  {
+    "cp": "👩🏾‍🦯‍➡",
+    "tts": "kvinne med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👩🏾‍🦰",
+    "tts": "kvinne: hudtype 5, raudt hår"
+  },
+  {
+    "cp": "👩🏾‍🦱",
+    "tts": "kvinne: hudtype 5, krusete hår"
+  },
+  {
+    "cp": "👩🏾‍🦲",
+    "tts": "kvinne: hudtype 5, skalla"
+  },
+  {
+    "cp": "👩🏾‍🦼‍➡",
+    "tts": "kvinne i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩🏾‍🦽‍➡",
+    "tts": "kvinne i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩🏿‍⚕",
+    "tts": "kvinneleg helsearbeidar: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍⚖",
+    "tts": "kvinneleg dommar: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍✈",
+    "tts": "kvinneleg pilot: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍❤‍👨🏻",
+    "tts": "par med hjarte: kvinne, mann, hudtype 6, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏿‍❤‍👨🏼",
+    "tts": "par med hjarte: kvinne, mann, hudtype 6, hudtype 3"
+  },
+  {
+    "cp": "👩🏿‍❤‍👨🏽",
+    "tts": "par med hjarte: kvinne, mann, hudtype 6, hudtype 4"
+  },
+  {
+    "cp": "👩🏿‍❤‍👨🏾",
+    "tts": "par med hjarte: kvinne, mann, hudtype 6, hudtype 5"
+  },
+  {
+    "cp": "👩🏿‍❤‍👨🏿",
+    "tts": "par med hjarte: kvinne, mann, hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍❤‍👩🏻",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 6, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏿‍❤‍👩🏼",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 6, hudtype 3"
+  },
+  {
+    "cp": "👩🏿‍❤‍👩🏽",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 6, hudtype 4"
+  },
+  {
+    "cp": "👩🏿‍❤‍👩🏾",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 6, hudtype 5"
+  },
+  {
+    "cp": "👩🏿‍❤‍👩🏿",
+    "tts": "par med hjarte: kvinne, kvinne, hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🌾",
+    "tts": "kvinneleg gardbrukar: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🍳",
+    "tts": "kvinneleg kokk: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🍼",
+    "tts": "kvinne som matar baby: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🎓",
+    "tts": "kvinneleg student: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🎤",
+    "tts": "kvinneleg artist: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🎨",
+    "tts": "kvinneleg kunstnar: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🏫",
+    "tts": "kvinneleg lærar: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🏭",
+    "tts": "kvinneleg industriarbeidar: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍💻",
+    "tts": "kvinneleg IT-ekspert: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍💼",
+    "tts": "kvinneleg kontorarbeidar: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🔧",
+    "tts": "kvinneleg mekanikar: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🔬",
+    "tts": "kvinneleg forskar: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🚀",
+    "tts": "kvinneleg astronaut: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🚒",
+    "tts": "kvinneleg brannkonstabel: hudtype 6"
+  },
+  {
+    "cp": "👩🏿‍🤝‍👨🏻",
+    "tts": "mann og kvinne som leiar: hudtype 6, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏿‍🤝‍👨🏼",
+    "tts": "mann og kvinne som leiar: hudtype 6, hudtype 3"
+  },
+  {
+    "cp": "👩🏿‍🤝‍👨🏽",
+    "tts": "mann og kvinne som leiar: hudtype 6, hudtype 4"
+  },
+  {
+    "cp": "👩🏿‍🤝‍👨🏾",
+    "tts": "mann og kvinne som leiar: hudtype 6, hudtype 5"
+  },
+  {
+    "cp": "👩🏿‍🤝‍👩🏻",
+    "tts": "kvinner som leiar: hudtype 6, hudtype 1–2"
+  },
+  {
+    "cp": "👩🏿‍🤝‍👩🏼",
+    "tts": "kvinner som leiar: hudtype 6, hudtype 3"
+  },
+  {
+    "cp": "👩🏿‍🤝‍👩🏽",
+    "tts": "kvinner som leiar: hudtype 6, hudtype 4"
+  },
+  {
+    "cp": "👩🏿‍🤝‍👩🏾",
+    "tts": "kvinner som leiar: hudtype 6, hudtype 5"
+  },
+  {
+    "cp": "👩🏿‍🦯‍➡",
+    "tts": "kvinne med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "👩🏿‍🦰",
+    "tts": "kvinne: hudtype 6, raudt hår"
+  },
+  {
+    "cp": "👩🏿‍🦱",
+    "tts": "kvinne: hudtype 6, krusete hår"
+  },
+  {
+    "cp": "👩🏿‍🦲",
+    "tts": "kvinne: hudtype 6, skalla"
+  },
+  {
+    "cp": "👩🏿‍🦼‍➡",
+    "tts": "kvinne i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👩🏿‍🦽‍➡",
+    "tts": "kvinne i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "👫",
+    "tts": "mann og kvinne som leiar"
+  },
+  {
+    "cp": "👫🏻",
+    "tts": "mann og kvinne som leiar: hudtype 1–2"
+  },
+  {
+    "cp": "👫🏼",
+    "tts": "mann og kvinne som leiar: hudtype 3"
+  },
+  {
+    "cp": "👫🏽",
+    "tts": "mann og kvinne som leiar: hudtype 4"
+  },
+  {
+    "cp": "👫🏾",
+    "tts": "mann og kvinne som leiar: hudtype 5"
+  },
+  {
+    "cp": "👫🏿",
+    "tts": "mann og kvinne som leiar: hudtype 6"
+  },
+  {
+    "cp": "👬",
+    "tts": "menn som leiar"
+  },
+  {
+    "cp": "👬🏻",
+    "tts": "menn som leiar: hudtype 1–2"
+  },
+  {
+    "cp": "👬🏼",
+    "tts": "menn som leiar: hudtype 3"
+  },
+  {
+    "cp": "👬🏽",
+    "tts": "menn som leiar: hudtype 4"
+  },
+  {
+    "cp": "👬🏾",
+    "tts": "menn som leiar: hudtype 5"
+  },
+  {
+    "cp": "👬🏿",
+    "tts": "menn som leiar: hudtype 6"
+  },
+  {
+    "cp": "👭",
+    "tts": "kvinner som leiar"
+  },
+  {
+    "cp": "👭🏻",
+    "tts": "kvinner som leiar: hudtype 1–2"
+  },
+  {
+    "cp": "👭🏼",
+    "tts": "kvinner som leiar: hudtype 3"
+  },
+  {
+    "cp": "👭🏽",
+    "tts": "kvinner som leiar: hudtype 4"
+  },
+  {
+    "cp": "👭🏾",
+    "tts": "kvinner som leiar: hudtype 5"
+  },
+  {
+    "cp": "👭🏿",
+    "tts": "kvinner som leiar: hudtype 6"
+  },
+  {
+    "cp": "👮‍♀",
+    "tts": "kvinneleg politibetjent"
+  },
+  {
+    "cp": "👮‍♂",
+    "tts": "mannleg politibetjent"
+  },
+  {
+    "cp": "👮🏻‍♀",
+    "tts": "kvinneleg politibetjent: hudtype 1–2"
+  },
+  {
+    "cp": "👮🏻‍♂",
+    "tts": "mannleg politibetjent: hudtype 1–2"
+  },
+  {
+    "cp": "👮🏼‍♀",
+    "tts": "kvinneleg politibetjent: hudtype 3"
+  },
+  {
+    "cp": "👮🏼‍♂",
+    "tts": "mannleg politibetjent: hudtype 3"
+  },
+  {
+    "cp": "👮🏽‍♀",
+    "tts": "kvinneleg politibetjent: hudtype 4"
+  },
+  {
+    "cp": "👮🏽‍♂",
+    "tts": "mannleg politibetjent: hudtype 4"
+  },
+  {
+    "cp": "👮🏾‍♀",
+    "tts": "kvinneleg politibetjent: hudtype 5"
+  },
+  {
+    "cp": "👮🏾‍♂",
+    "tts": "mannleg politibetjent: hudtype 5"
+  },
+  {
+    "cp": "👮🏿‍♀",
+    "tts": "kvinneleg politibetjent: hudtype 6"
+  },
+  {
+    "cp": "👮🏿‍♂",
+    "tts": "mannleg politibetjent: hudtype 6"
+  },
+  {
+    "cp": "👯",
+    "tts": "personar med kaninøyre"
+  },
+  {
+    "cp": "👯‍♀",
+    "tts": "kvinner med kaninøyre"
+  },
+  {
+    "cp": "👯‍♂",
+    "tts": "menn med kaninøyre"
+  },
+  {
+    "cp": "👷",
+    "tts": "anleggsarbeidar"
+  },
+  {
+    "cp": "👷‍♀",
+    "tts": "kvinneleg anleggsarbeidar"
+  },
+  {
+    "cp": "👷‍♂",
+    "tts": "mannleg anleggsarbeidar"
+  },
+  {
+    "cp": "👷🏻",
+    "tts": "anleggsarbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "👷🏻‍♀",
+    "tts": "kvinneleg anleggsarbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "👷🏻‍♂",
+    "tts": "mannleg anleggsarbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "👷🏼",
+    "tts": "anleggsarbeidar: hudtype 3"
+  },
+  {
+    "cp": "👷🏼‍♀",
+    "tts": "kvinneleg anleggsarbeidar: hudtype 3"
+  },
+  {
+    "cp": "👷🏼‍♂",
+    "tts": "mannleg anleggsarbeidar: hudtype 3"
+  },
+  {
+    "cp": "👷🏽",
+    "tts": "anleggsarbeidar: hudtype 4"
+  },
+  {
+    "cp": "👷🏽‍♀",
+    "tts": "kvinneleg anleggsarbeidar: hudtype 4"
+  },
+  {
+    "cp": "👷🏽‍♂",
+    "tts": "mannleg anleggsarbeidar: hudtype 4"
+  },
+  {
+    "cp": "👷🏾",
+    "tts": "anleggsarbeidar: hudtype 5"
+  },
+  {
+    "cp": "👷🏾‍♀",
+    "tts": "kvinneleg anleggsarbeidar: hudtype 5"
+  },
+  {
+    "cp": "👷🏾‍♂",
+    "tts": "mannleg anleggsarbeidar: hudtype 5"
+  },
+  {
+    "cp": "👷🏿",
+    "tts": "anleggsarbeidar: hudtype 6"
+  },
+  {
+    "cp": "👷🏿‍♀",
+    "tts": "kvinneleg anleggsarbeidar: hudtype 6"
+  },
+  {
+    "cp": "👷🏿‍♂",
+    "tts": "mannleg anleggsarbeidar: hudtype 6"
+  },
+  {
+    "cp": "💀",
+    "tts": "hovudskalle"
+  },
+  {
+    "cp": "💁",
+    "tts": "hjelpande person"
+  },
+  {
+    "cp": "💁‍♀",
+    "tts": "hjelpande kvinne"
+  },
+  {
+    "cp": "💁‍♂",
+    "tts": "hjelpande mann"
+  },
+  {
+    "cp": "💁🏻",
+    "tts": "hjelpande person: hudtype 1–2"
+  },
+  {
+    "cp": "💁🏻‍♀",
+    "tts": "hjelpande kvinne: hudtype 1–2"
+  },
+  {
+    "cp": "💁🏻‍♂",
+    "tts": "hjelpande mann: hudtype 1–2"
+  },
+  {
+    "cp": "💁🏼",
+    "tts": "hjelpande person: hudtype 3"
+  },
+  {
+    "cp": "💁🏼‍♀",
+    "tts": "hjelpande kvinne: hudtype 3"
+  },
+  {
+    "cp": "💁🏼‍♂",
+    "tts": "hjelpande mann: hudtype 3"
+  },
+  {
+    "cp": "💁🏽",
+    "tts": "hjelpande person: hudtype 4"
+  },
+  {
+    "cp": "💁🏽‍♀",
+    "tts": "hjelpande kvinne: hudtype 4"
+  },
+  {
+    "cp": "💁🏽‍♂",
+    "tts": "hjelpande mann: hudtype 4"
+  },
+  {
+    "cp": "💁🏾",
+    "tts": "hjelpande person: hudtype 5"
+  },
+  {
+    "cp": "💁🏾‍♀",
+    "tts": "hjelpande kvinne: hudtype 5"
+  },
+  {
+    "cp": "💁🏾‍♂",
+    "tts": "hjelpande mann: hudtype 5"
+  },
+  {
+    "cp": "💁🏿",
+    "tts": "hjelpande person: hudtype 6"
+  },
+  {
+    "cp": "💁🏿‍♀",
+    "tts": "hjelpande kvinne: hudtype 6"
+  },
+  {
+    "cp": "💁🏿‍♂",
+    "tts": "hjelpande mann: hudtype 6"
+  },
+  {
+    "cp": "💂‍♀",
+    "tts": "kvinneleg gardist"
+  },
+  {
+    "cp": "💂‍♂",
+    "tts": "mannleg gardist"
+  },
+  {
+    "cp": "💂🏻‍♀",
+    "tts": "kvinneleg gardist: hudtype 1–2"
+  },
+  {
+    "cp": "💂🏻‍♂",
+    "tts": "mannleg gardist: hudtype 1–2"
+  },
+  {
+    "cp": "💂🏼‍♀",
+    "tts": "kvinneleg gardist: hudtype 3"
+  },
+  {
+    "cp": "💂🏼‍♂",
+    "tts": "mannleg gardist: hudtype 3"
+  },
+  {
+    "cp": "💂🏽‍♀",
+    "tts": "kvinneleg gardist: hudtype 4"
+  },
+  {
+    "cp": "💂🏽‍♂",
+    "tts": "mannleg gardist: hudtype 4"
+  },
+  {
+    "cp": "💂🏾‍♀",
+    "tts": "kvinneleg gardist: hudtype 5"
+  },
+  {
+    "cp": "💂🏾‍♂",
+    "tts": "mannleg gardist: hudtype 5"
+  },
+  {
+    "cp": "💂🏿‍♀",
+    "tts": "kvinneleg gardist: hudtype 6"
+  },
+  {
+    "cp": "💂🏿‍♂",
+    "tts": "mannleg gardist: hudtype 6"
+  },
+  {
+    "cp": "💃",
+    "tts": "dansande kvinne"
+  },
+  {
+    "cp": "💃🏻",
+    "tts": "dansande kvinne: hudtype 1–2"
+  },
+  {
+    "cp": "💃🏼",
+    "tts": "dansande kvinne: hudtype 3"
+  },
+  {
+    "cp": "💃🏽",
+    "tts": "dansande kvinne: hudtype 4"
+  },
+  {
+    "cp": "💃🏾",
+    "tts": "dansande kvinne: hudtype 5"
+  },
+  {
+    "cp": "💃🏿",
+    "tts": "dansande kvinne: hudtype 6"
+  },
+  {
+    "cp": "💅",
+    "tts": "naglelakk"
+  },
+  {
+    "cp": "💅🏻",
+    "tts": "naglelakk: hudtype 1–2"
+  },
+  {
+    "cp": "💅🏼",
+    "tts": "naglelakk: hudtype 3"
+  },
+  {
+    "cp": "💅🏽",
+    "tts": "naglelakk: hudtype 4"
+  },
+  {
+    "cp": "💅🏾",
+    "tts": "naglelakk: hudtype 5"
+  },
+  {
+    "cp": "💅🏿",
+    "tts": "naglelakk: hudtype 6"
+  },
+  {
+    "cp": "💆",
+    "tts": "andletsmassasje"
+  },
+  {
+    "cp": "💆‍♀",
+    "tts": "kvinne som får andletsmassasje"
+  },
+  {
+    "cp": "💆‍♂",
+    "tts": "mann som får andletsmassasje"
+  },
+  {
+    "cp": "💆🏻",
+    "tts": "andletsmassasje: hudtype 1–2"
+  },
+  {
+    "cp": "💆🏻‍♀",
+    "tts": "kvinne som får andletsmassasje: hudtype 1–2"
+  },
+  {
+    "cp": "💆🏻‍♂",
+    "tts": "mann som får andletsmassasje: hudtype 1–2"
+  },
+  {
+    "cp": "💆🏼",
+    "tts": "andletsmassasje: hudtype 3"
+  },
+  {
+    "cp": "💆🏼‍♀",
+    "tts": "kvinne som får andletsmassasje: hudtype 3"
+  },
+  {
+    "cp": "💆🏼‍♂",
+    "tts": "mann som får andletsmassasje: hudtype 3"
+  },
+  {
+    "cp": "💆🏽",
+    "tts": "andletsmassasje: hudtype 4"
+  },
+  {
+    "cp": "💆🏽‍♀",
+    "tts": "kvinne som får andletsmassasje: hudtype 4"
+  },
+  {
+    "cp": "💆🏽‍♂",
+    "tts": "mann som får andletsmassasje: hudtype 4"
+  },
+  {
+    "cp": "💆🏾",
+    "tts": "andletsmassasje: hudtype 5"
+  },
+  {
+    "cp": "💆🏾‍♀",
+    "tts": "kvinne som får andletsmassasje: hudtype 5"
+  },
+  {
+    "cp": "💆🏾‍♂",
+    "tts": "mann som får andletsmassasje: hudtype 5"
+  },
+  {
+    "cp": "💆🏿",
+    "tts": "andletsmassasje: hudtype 6"
+  },
+  {
+    "cp": "💆🏿‍♀",
+    "tts": "kvinne som får andletsmassasje: hudtype 6"
+  },
+  {
+    "cp": "💆🏿‍♂",
+    "tts": "mann som får andletsmassasje: hudtype 6"
+  },
+  {
+    "cp": "💌",
+    "tts": "kjærleiksbrev"
+  },
+  {
+    "cp": "💑",
+    "tts": "par med hjarte"
+  },
+  {
+    "cp": "💑🏻",
+    "tts": "par med hjarte: hudtype 1–2"
+  },
+  {
+    "cp": "💑🏼",
+    "tts": "par med hjarte: hudtype 3"
+  },
+  {
+    "cp": "💑🏽",
+    "tts": "par med hjarte: hudtype 4"
+  },
+  {
+    "cp": "💑🏾",
+    "tts": "par med hjarte: hudtype 5"
+  },
+  {
+    "cp": "💑🏿",
+    "tts": "par med hjarte: hudtype 6"
+  },
+  {
+    "cp": "💒",
+    "tts": "bryllaup"
+  },
+  {
+    "cp": "💓",
+    "tts": "bankande hjarte"
+  },
+  {
+    "cp": "💔",
+    "tts": "knust hjarte"
+  },
+  {
+    "cp": "💕",
+    "tts": "to hjarte"
+  },
+  {
+    "cp": "💖",
+    "tts": "skinande hjarte"
+  },
+  {
+    "cp": "💗",
+    "tts": "veksande hjarte"
+  },
+  {
+    "cp": "💘",
+    "tts": "hjarte med pil"
+  },
+  {
+    "cp": "💙",
+    "tts": "blått hjarte"
+  },
+  {
+    "cp": "💚",
+    "tts": "grønt hjarte"
+  },
+  {
+    "cp": "💛",
+    "tts": "gult hjarte"
+  },
+  {
+    "cp": "💜",
+    "tts": "lilla hjarte"
+  },
+  {
+    "cp": "💝",
+    "tts": "hjarte med band"
+  },
+  {
+    "cp": "💞",
+    "tts": "snurrande hjarte"
+  },
+  {
+    "cp": "💟",
+    "tts": "hjartedekorasjon"
+  },
+  {
+    "cp": "💦",
+    "tts": "sveittedropar"
+  },
+  {
+    "cp": "💧",
+    "tts": "drope"
+  },
+  {
+    "cp": "💨",
+    "tts": "stikk av"
+  },
+  {
+    "cp": "💮",
+    "tts": "kvit blomster"
+  },
+  {
+    "cp": "💲",
+    "tts": "dollarteikn"
+  },
+  {
+    "cp": "💴",
+    "tts": "yensetel"
+  },
+  {
+    "cp": "💵",
+    "tts": "dollarsetel"
+  },
+  {
+    "cp": "💶",
+    "tts": "eurosetel"
+  },
+  {
+    "cp": "💷",
+    "tts": "pundsetel"
+  },
+  {
+    "cp": "💸",
+    "tts": "pengar med venger"
+  },
+  {
+    "cp": "💹",
+    "tts": "stigande diagram med yen"
+  },
+  {
+    "cp": "💻",
+    "tts": "berbar datamaskin"
+  },
+  {
+    "cp": "📂",
+    "tts": "open arkivmappe"
+  },
+  {
+    "cp": "📈",
+    "tts": "diagram som peikar oppover"
+  },
+  {
+    "cp": "📉",
+    "tts": "diagram som peikar nedover"
+  },
+  {
+    "cp": "📕",
+    "tts": "lukka bok"
+  },
+  {
+    "cp": "📖",
+    "tts": "open bok"
+  },
+  {
+    "cp": "📗",
+    "tts": "grøn bok"
+  },
+  {
+    "cp": "📛",
+    "tts": "namneskilt"
+  },
+  {
+    "cp": "📞",
+    "tts": "telefonrøyr"
+  },
+  {
+    "cp": "📟",
+    "tts": "personsøkjar"
+  },
+  {
+    "cp": "📢",
+    "tts": "høgtalar"
+  },
+  {
+    "cp": "📨",
+    "tts": "innkomande konvolutt"
+  },
+  {
+    "cp": "📪",
+    "tts": "lukka postkasse med flagget nede"
+  },
+  {
+    "cp": "📫",
+    "tts": "lukka postkasse med flagget oppe"
+  },
+  {
+    "cp": "📬",
+    "tts": "open postkasse med flagget oppe"
+  },
+  {
+    "cp": "📭",
+    "tts": "open postkasse med flagget nede"
+  },
+  {
+    "cp": "📵",
+    "tts": "mobiltelefon ikkje tillate"
+  },
+  {
+    "cp": "📶",
+    "tts": "mobilsignal"
+  },
+  {
+    "cp": "📽",
+    "tts": "filmframvisar"
+  },
+  {
+    "cp": "📿",
+    "tts": "bønekrans"
+  },
+  {
+    "cp": "🔂",
+    "tts": "gjenta eitt spor-knapp"
+  },
+  {
+    "cp": "🔃",
+    "tts": "vertikale piler med klokka"
+  },
+  {
+    "cp": "🔄",
+    "tts": "piler mot klokka"
+  },
+  {
+    "cp": "🔆",
+    "tts": "mykje lys-knapp"
+  },
+  {
+    "cp": "🔇",
+    "tts": "dempa høgtalar"
+  },
+  {
+    "cp": "🔈",
+    "tts": "høgtalar med lågt volum"
+  },
+  {
+    "cp": "🔉",
+    "tts": "høgtalar med middels volum"
+  },
+  {
+    "cp": "🔊",
+    "tts": "høgtalar med høgt volum"
+  },
+  {
+    "cp": "🔍",
+    "tts": "forstørringsglas mot venstre"
+  },
+  {
+    "cp": "🔎",
+    "tts": "forstørringsglas mot høgre"
+  },
+  {
+    "cp": "🔔",
+    "tts": "bjølle"
+  },
+  {
+    "cp": "🔕",
+    "tts": "overstreka bjølle"
+  },
+  {
+    "cp": "🔗",
+    "tts": "lenkje"
+  },
+  {
+    "cp": "🔟",
+    "tts": "tastar: 10"
+  },
+  {
+    "cp": "🔠",
+    "tts": "store bokstavar"
+  },
+  {
+    "cp": "🔡",
+    "tts": "små bokstavar"
+  },
+  {
+    "cp": "🔢",
+    "tts": "tal"
+  },
+  {
+    "cp": "🔣",
+    "tts": "symbol"
+  },
+  {
+    "cp": "🔥",
+    "tts": "eld"
+  },
+  {
+    "cp": "🔨",
+    "tts": "hammar"
+  },
+  {
+    "cp": "🔫",
+    "tts": "vasspistol"
+  },
+  {
+    "cp": "🔯",
+    "tts": "sekstagga stjerne med prikk"
+  },
+  {
+    "cp": "🔰",
+    "tts": "japansk teikn for nybyrjar"
+  },
+  {
+    "cp": "🔲",
+    "tts": "svart firkanta knapp"
+  },
+  {
+    "cp": "🔳",
+    "tts": "kvit firkanta knapp"
+  },
+  {
+    "cp": "🔴",
+    "tts": "raud sirkel"
+  },
+  {
+    "cp": "🔶",
+    "tts": "stort oransje rombesymbol"
+  },
+  {
+    "cp": "🔺",
+    "tts": "raud trekant som peikar opp"
+  },
+  {
+    "cp": "🔻",
+    "tts": "raud trekant som peikar ned"
+  },
+  {
+    "cp": "🕐",
+    "tts": "klokka eitt"
+  },
+  {
+    "cp": "🕑",
+    "tts": "klokka to"
+  },
+  {
+    "cp": "🕒",
+    "tts": "klokka tre"
+  },
+  {
+    "cp": "🕓",
+    "tts": "klokka fire"
+  },
+  {
+    "cp": "🕔",
+    "tts": "klokka fem"
+  },
+  {
+    "cp": "🕕",
+    "tts": "klokka seks"
+  },
+  {
+    "cp": "🕖",
+    "tts": "klokka sju"
+  },
+  {
+    "cp": "🕗",
+    "tts": "klokka åtte"
+  },
+  {
+    "cp": "🕘",
+    "tts": "klokka ni"
+  },
+  {
+    "cp": "🕙",
+    "tts": "klokka ti"
+  },
+  {
+    "cp": "🕚",
+    "tts": "klokka elleve"
+  },
+  {
+    "cp": "🕛",
+    "tts": "klokka tolv"
+  },
+  {
+    "cp": "🕜",
+    "tts": "klokka halv to"
+  },
+  {
+    "cp": "🕝",
+    "tts": "klokka halv tre"
+  },
+  {
+    "cp": "🕞",
+    "tts": "klokka halv fire"
+  },
+  {
+    "cp": "🕟",
+    "tts": "klokka halv fem"
+  },
+  {
+    "cp": "🕠",
+    "tts": "klokka halv seks"
+  },
+  {
+    "cp": "🕡",
+    "tts": "klokka halv sju"
+  },
+  {
+    "cp": "🕢",
+    "tts": "klokka halv åtte"
+  },
+  {
+    "cp": "🕣",
+    "tts": "klokka halv ni"
+  },
+  {
+    "cp": "🕤",
+    "tts": "klokka halv ti"
+  },
+  {
+    "cp": "🕥",
+    "tts": "klokka halv elleve"
+  },
+  {
+    "cp": "🕦",
+    "tts": "klokka halv tolv"
+  },
+  {
+    "cp": "🕧",
+    "tts": "klokka halv eitt"
+  },
+  {
+    "cp": "🕳",
+    "tts": "hol i bakken"
+  },
+  {
+    "cp": "🕴",
+    "tts": "svevande mann i dress"
+  },
+  {
+    "cp": "🕴🏻",
+    "tts": "svevande mann i dress: hudtype 1–2"
+  },
+  {
+    "cp": "🕴🏼",
+    "tts": "svevande mann i dress: hudtype 3"
+  },
+  {
+    "cp": "🕴🏽",
+    "tts": "svevande mann i dress: hudtype 4"
+  },
+  {
+    "cp": "🕴🏾",
+    "tts": "svevande mann i dress: hudtype 5"
+  },
+  {
+    "cp": "🕴🏿",
+    "tts": "svevande mann i dress: hudtype 6"
+  },
+  {
+    "cp": "🕵‍♀",
+    "tts": "kvinneleg detektiv"
+  },
+  {
+    "cp": "🕵‍♂",
+    "tts": "mannleg detektiv"
+  },
+  {
+    "cp": "🕵🏻‍♀",
+    "tts": "kvinneleg detektiv: hudtype 1–2"
+  },
+  {
+    "cp": "🕵🏻‍♂",
+    "tts": "mannleg detektiv: hudtype 1–2"
+  },
+  {
+    "cp": "🕵🏼‍♀",
+    "tts": "kvinneleg detektiv: hudtype 3"
+  },
+  {
+    "cp": "🕵🏼‍♂",
+    "tts": "mannleg detektiv: hudtype 3"
+  },
+  {
+    "cp": "🕵🏽‍♀",
+    "tts": "kvinneleg detektiv: hudtype 4"
+  },
+  {
+    "cp": "🕵🏽‍♂",
+    "tts": "mannleg detektiv: hudtype 4"
+  },
+  {
+    "cp": "🕵🏾‍♀",
+    "tts": "kvinneleg detektiv: hudtype 5"
+  },
+  {
+    "cp": "🕵🏾‍♂",
+    "tts": "mannleg detektiv: hudtype 5"
+  },
+  {
+    "cp": "🕵🏿‍♀",
+    "tts": "kvinneleg detektiv: hudtype 6"
+  },
+  {
+    "cp": "🕵🏿‍♂",
+    "tts": "mannleg detektiv: hudtype 6"
+  },
+  {
+    "cp": "🕺",
+    "tts": "dansande mann"
+  },
+  {
+    "cp": "🕺🏻",
+    "tts": "dansande mann: hudtype 1–2"
+  },
+  {
+    "cp": "🕺🏼",
+    "tts": "dansande mann: hudtype 3"
+  },
+  {
+    "cp": "🕺🏽",
+    "tts": "dansande mann: hudtype 4"
+  },
+  {
+    "cp": "🕺🏾",
+    "tts": "dansande mann: hudtype 5"
+  },
+  {
+    "cp": "🕺🏿",
+    "tts": "dansande mann: hudtype 6"
+  },
+  {
+    "cp": "🖇",
+    "tts": "samanlenka binders"
+  },
+  {
+    "cp": "🖐",
+    "tts": "flat hand med spreidde fingrar"
+  },
+  {
+    "cp": "🖐🏻",
+    "tts": "flat hand med spreidde fingrar: hudtype 1–2"
+  },
+  {
+    "cp": "🖐🏼",
+    "tts": "flat hand med spreidde fingrar: hudtype 3"
+  },
+  {
+    "cp": "🖐🏽",
+    "tts": "flat hand med spreidde fingrar: hudtype 4"
+  },
+  {
+    "cp": "🖐🏾",
+    "tts": "flat hand med spreidde fingrar: hudtype 5"
+  },
+  {
+    "cp": "🖐🏿",
+    "tts": "flat hand med spreidde fingrar: hudtype 6"
+  },
+  {
+    "cp": "🖖",
+    "tts": "Vulcan-helsing"
+  },
+  {
+    "cp": "🖖🏻",
+    "tts": "Vulcan-helsing: hudtype 1–2"
+  },
+  {
+    "cp": "🖖🏼",
+    "tts": "Vulcan-helsing: hudtype 3"
+  },
+  {
+    "cp": "🖖🏽",
+    "tts": "Vulcan-helsing: hudtype 4"
+  },
+  {
+    "cp": "🖖🏾",
+    "tts": "Vulcan-helsing: hudtype 5"
+  },
+  {
+    "cp": "🖖🏿",
+    "tts": "Vulcan-helsing: hudtype 6"
+  },
+  {
+    "cp": "🖤",
+    "tts": "svart hjarte"
+  },
+  {
+    "cp": "🖨",
+    "tts": "skrivar"
+  },
+  {
+    "cp": "🖼",
+    "tts": "innramma bilete"
+  },
+  {
+    "cp": "🗂",
+    "tts": "skiljekort"
+  },
+  {
+    "cp": "🗑",
+    "tts": "papirkorg"
+  },
+  {
+    "cp": "🗝",
+    "tts": "gamaldags nøkkel"
+  },
+  {
+    "cp": "🗞",
+    "tts": "samanrulla avis"
+  },
+  {
+    "cp": "🗣",
+    "tts": "snakkande hovud i profil"
+  },
+  {
+    "cp": "🗯",
+    "tts": "sint snakkeboble mot høgre"
+  },
+  {
+    "cp": "🗳",
+    "tts": "urne med røystesetel"
+  },
+  {
+    "cp": "🗺",
+    "tts": "verdskart"
+  },
+  {
+    "cp": "🗽",
+    "tts": "Fridomsgudinna"
+  },
+  {
+    "cp": "😁",
+    "tts": "glisefjes med smilande auge"
+  },
+  {
+    "cp": "😃",
+    "tts": "glisande fjes med vidopne auge"
+  },
+  {
+    "cp": "😄",
+    "tts": "smilefjes med open munn og smilande auge"
+  },
+  {
+    "cp": "😅",
+    "tts": "glisande fjes som sveittar"
+  },
+  {
+    "cp": "😆",
+    "tts": "smil med samanknipne auge"
+  },
+  {
+    "cp": "😈",
+    "tts": "smilande djevel"
+  },
+  {
+    "cp": "😉",
+    "tts": "blunkande fjes"
+  },
+  {
+    "cp": "😊",
+    "tts": "smil med smilande auge"
+  },
+  {
+    "cp": "😌",
+    "tts": "letta"
+  },
+  {
+    "cp": "😍",
+    "tts": "smilefjes med hjarteauge"
+  },
+  {
+    "cp": "😑",
+    "tts": "uttrykkslaus"
+  },
+  {
+    "cp": "😒",
+    "tts": "misnøgd"
+  },
+  {
+    "cp": "😓",
+    "tts": "kaldsveittar"
+  },
+  {
+    "cp": "😕",
+    "tts": "forvirra"
+  },
+  {
+    "cp": "😖",
+    "tts": "fortvila"
+  },
+  {
+    "cp": "😙",
+    "tts": "kyss med smilande auge"
+  },
+  {
+    "cp": "😚",
+    "tts": "kyss med lukka auge"
+  },
+  {
+    "cp": "😛",
+    "tts": "rekkjer tunge"
+  },
+  {
+    "cp": "😜",
+    "tts": "blunkar og rekkjer tunge"
+  },
+  {
+    "cp": "😞",
+    "tts": "skuffa"
+  },
+  {
+    "cp": "😟",
+    "tts": "bekymra"
+  },
+  {
+    "cp": "😡",
+    "tts": "rasande"
+  },
+  {
+    "cp": "😢",
+    "tts": "græt"
+  },
+  {
+    "cp": "😤",
+    "tts": "triumferande"
+  },
+  {
+    "cp": "😦",
+    "tts": "oppgjeven"
+  },
+  {
+    "cp": "😫",
+    "tts": "trøytt fjes"
+  },
+  {
+    "cp": "😭",
+    "tts": "strigræt"
+  },
+  {
+    "cp": "😮",
+    "tts": "forbausa"
+  },
+  {
+    "cp": "😮‍💨",
+    "tts": "pustar ut"
+  },
+  {
+    "cp": "😯",
+    "tts": "overraska"
+  },
+  {
+    "cp": "😰",
+    "tts": "engsteleg og sveittar"
+  },
+  {
+    "cp": "😳",
+    "tts": "raudnar"
+  },
+  {
+    "cp": "😴",
+    "tts": "søv"
+  },
+  {
+    "cp": "😵‍💫",
+    "tts": "fjes med spiralauge"
+  },
+  {
+    "cp": "😶",
+    "tts": "utan munn"
+  },
+  {
+    "cp": "😸",
+    "tts": "flirande katt med smilande auge"
+  },
+  {
+    "cp": "😺",
+    "tts": "smilande katt med open munn"
+  },
+  {
+    "cp": "😻",
+    "tts": "smilande katt med hjarteauge"
+  },
+  {
+    "cp": "😽",
+    "tts": "kyssande katt"
+  },
+  {
+    "cp": "😾",
+    "tts": "surmulande katt"
+  },
+  {
+    "cp": "😿",
+    "tts": "gråtande katt"
+  },
+  {
+    "cp": "🙂",
+    "tts": "fjes som smiler litt"
+  },
+  {
+    "cp": "🙂‍↔",
+    "tts": "ristande hovud"
+  },
+  {
+    "cp": "🙂‍↕",
+    "tts": "nikkande hovud"
+  },
+  {
+    "cp": "🙄",
+    "tts": "himlar med auga"
+  },
+  {
+    "cp": "🙇",
+    "tts": "bukkar"
+  },
+  {
+    "cp": "🙇‍♀",
+    "tts": "bukkande kvinne"
+  },
+  {
+    "cp": "🙇‍♂",
+    "tts": "bukkande mann"
+  },
+  {
+    "cp": "🙇🏻",
+    "tts": "bukkar: hudtype 1–2"
+  },
+  {
+    "cp": "🙇🏻‍♀",
+    "tts": "bukkande kvinne: hudtype 1–2"
+  },
+  {
+    "cp": "🙇🏻‍♂",
+    "tts": "bukkande mann: hudtype 1–2"
+  },
+  {
+    "cp": "🙇🏼",
+    "tts": "bukkar: hudtype 3"
+  },
+  {
+    "cp": "🙇🏼‍♀",
+    "tts": "bukkande kvinne: hudtype 3"
+  },
+  {
+    "cp": "🙇🏼‍♂",
+    "tts": "bukkande mann: hudtype 3"
+  },
+  {
+    "cp": "🙇🏽",
+    "tts": "bukkar: hudtype 4"
+  },
+  {
+    "cp": "🙇🏽‍♀",
+    "tts": "bukkande kvinne: hudtype 4"
+  },
+  {
+    "cp": "🙇🏽‍♂",
+    "tts": "bukkande mann: hudtype 4"
+  },
+  {
+    "cp": "🙇🏾",
+    "tts": "bukkar: hudtype 5"
+  },
+  {
+    "cp": "🙇🏾‍♀",
+    "tts": "bukkande kvinne: hudtype 5"
+  },
+  {
+    "cp": "🙇🏾‍♂",
+    "tts": "bukkande mann: hudtype 5"
+  },
+  {
+    "cp": "🙇🏿",
+    "tts": "bukkar: hudtype 6"
+  },
+  {
+    "cp": "🙇🏿‍♀",
+    "tts": "bukkande kvinne: hudtype 6"
+  },
+  {
+    "cp": "🙇🏿‍♂",
+    "tts": "bukkande mann: hudtype 6"
+  },
+  {
+    "cp": "🙈",
+    "tts": "ser ingenting vondt"
+  },
+  {
+    "cp": "🙉",
+    "tts": "høyrer ingenting vondt"
+  },
+  {
+    "cp": "🙊",
+    "tts": "seier ingenting vondt"
+  },
+  {
+    "cp": "🙋",
+    "tts": "rekker opp handa"
+  },
+  {
+    "cp": "🙋‍♀",
+    "tts": "kvinne som rekker opp handa"
+  },
+  {
+    "cp": "🙋‍♂",
+    "tts": "mann som rekker opp handa"
+  },
+  {
+    "cp": "🙋🏻",
+    "tts": "rekker opp handa: hudtype 1–2"
+  },
+  {
+    "cp": "🙋🏻‍♀",
+    "tts": "kvinne som rekker opp handa: hudtype 1–2"
+  },
+  {
+    "cp": "🙋🏻‍♂",
+    "tts": "mann som rekker opp handa: hudtype 1–2"
+  },
+  {
+    "cp": "🙋🏼",
+    "tts": "rekker opp handa: hudtype 3"
+  },
+  {
+    "cp": "🙋🏼‍♀",
+    "tts": "kvinne som rekker opp handa: hudtype 3"
+  },
+  {
+    "cp": "🙋🏼‍♂",
+    "tts": "mann som rekker opp handa: hudtype 3"
+  },
+  {
+    "cp": "🙋🏽",
+    "tts": "rekker opp handa: hudtype 4"
+  },
+  {
+    "cp": "🙋🏽‍♀",
+    "tts": "kvinne som rekker opp handa: hudtype 4"
+  },
+  {
+    "cp": "🙋🏽‍♂",
+    "tts": "mann som rekker opp handa: hudtype 4"
+  },
+  {
+    "cp": "🙋🏾",
+    "tts": "rekker opp handa: hudtype 5"
+  },
+  {
+    "cp": "🙋🏾‍♀",
+    "tts": "kvinne som rekker opp handa: hudtype 5"
+  },
+  {
+    "cp": "🙋🏾‍♂",
+    "tts": "mann som rekker opp handa: hudtype 5"
+  },
+  {
+    "cp": "🙋🏿",
+    "tts": "rekker opp handa: hudtype 6"
+  },
+  {
+    "cp": "🙋🏿‍♀",
+    "tts": "kvinne som rekker opp handa: hudtype 6"
+  },
+  {
+    "cp": "🙋🏿‍♂",
+    "tts": "mann som rekker opp handa: hudtype 6"
+  },
+  {
+    "cp": "🙌",
+    "tts": "heva hender"
+  },
+  {
+    "cp": "🙌🏻",
+    "tts": "heva hender: hudtype 1–2"
+  },
+  {
+    "cp": "🙌🏼",
+    "tts": "heva hender: hudtype 3"
+  },
+  {
+    "cp": "🙌🏽",
+    "tts": "heva hender: hudtype 4"
+  },
+  {
+    "cp": "🙌🏾",
+    "tts": "heva hender: hudtype 5"
+  },
+  {
+    "cp": "🙌🏿",
+    "tts": "heva hender: hudtype 6"
+  },
+  {
+    "cp": "🙍",
+    "tts": "rynkar bryna"
+  },
+  {
+    "cp": "🙍‍♀",
+    "tts": "kvinne som rynkar bryna"
+  },
+  {
+    "cp": "🙍‍♂",
+    "tts": "mann som rynkar bryna"
+  },
+  {
+    "cp": "🙍🏻",
+    "tts": "rynkar bryna: hudtype 1–2"
+  },
+  {
+    "cp": "🙍🏻‍♀",
+    "tts": "kvinne som rynkar bryna: hudtype 1–2"
+  },
+  {
+    "cp": "🙍🏻‍♂",
+    "tts": "mann som rynkar bryna: hudtype 1–2"
+  },
+  {
+    "cp": "🙍🏼",
+    "tts": "rynkar bryna: hudtype 3"
+  },
+  {
+    "cp": "🙍🏼‍♀",
+    "tts": "kvinne som rynkar bryna: hudtype 3"
+  },
+  {
+    "cp": "🙍🏼‍♂",
+    "tts": "mann som rynkar bryna: hudtype 3"
+  },
+  {
+    "cp": "🙍🏽",
+    "tts": "rynkar bryna: hudtype 4"
+  },
+  {
+    "cp": "🙍🏽‍♀",
+    "tts": "kvinne som rynkar bryna: hudtype 4"
+  },
+  {
+    "cp": "🙍🏽‍♂",
+    "tts": "mann som rynkar bryna: hudtype 4"
+  },
+  {
+    "cp": "🙍🏾",
+    "tts": "rynkar bryna: hudtype 5"
+  },
+  {
+    "cp": "🙍🏾‍♀",
+    "tts": "kvinne som rynkar bryna: hudtype 5"
+  },
+  {
+    "cp": "🙍🏾‍♂",
+    "tts": "mann som rynkar bryna: hudtype 5"
+  },
+  {
+    "cp": "🙍🏿",
+    "tts": "rynkar bryna: hudtype 6"
+  },
+  {
+    "cp": "🙍🏿‍♀",
+    "tts": "kvinne som rynkar bryna: hudtype 6"
+  },
+  {
+    "cp": "🙍🏿‍♂",
+    "tts": "mann som rynkar bryna: hudtype 6"
+  },
+  {
+    "cp": "🙎",
+    "tts": "furtar"
+  },
+  {
+    "cp": "🙎‍♀",
+    "tts": "kvinne som furtar"
+  },
+  {
+    "cp": "🙎‍♂",
+    "tts": "mann som furtar"
+  },
+  {
+    "cp": "🙎🏻",
+    "tts": "furtar: hudtype 1–2"
+  },
+  {
+    "cp": "🙎🏻‍♀",
+    "tts": "kvinne som furtar: hudtype 1–2"
+  },
+  {
+    "cp": "🙎🏻‍♂",
+    "tts": "mann som furtar: hudtype 1–2"
+  },
+  {
+    "cp": "🙎🏼",
+    "tts": "furtar: hudtype 3"
+  },
+  {
+    "cp": "🙎🏼‍♀",
+    "tts": "kvinne som furtar: hudtype 3"
+  },
+  {
+    "cp": "🙎🏼‍♂",
+    "tts": "mann som furtar: hudtype 3"
+  },
+  {
+    "cp": "🙎🏽",
+    "tts": "furtar: hudtype 4"
+  },
+  {
+    "cp": "🙎🏽‍♀",
+    "tts": "kvinne som furtar: hudtype 4"
+  },
+  {
+    "cp": "🙎🏽‍♂",
+    "tts": "mann som furtar: hudtype 4"
+  },
+  {
+    "cp": "🙎🏾",
+    "tts": "furtar: hudtype 5"
+  },
+  {
+    "cp": "🙎🏾‍♀",
+    "tts": "kvinne som furtar: hudtype 5"
+  },
+  {
+    "cp": "🙎🏾‍♂",
+    "tts": "mann som furtar: hudtype 5"
+  },
+  {
+    "cp": "🙎🏿",
+    "tts": "furtar: hudtype 6"
+  },
+  {
+    "cp": "🙎🏿‍♀",
+    "tts": "kvinne som furtar: hudtype 6"
+  },
+  {
+    "cp": "🙎🏿‍♂",
+    "tts": "mann som furtar: hudtype 6"
+  },
+  {
+    "cp": "🙏",
+    "tts": "falda hender"
+  },
+  {
+    "cp": "🙏🏻",
+    "tts": "falda hender: hudtype 1–2"
+  },
+  {
+    "cp": "🙏🏼",
+    "tts": "falda hender: hudtype 3"
+  },
+  {
+    "cp": "🙏🏽",
+    "tts": "falda hender: hudtype 4"
+  },
+  {
+    "cp": "🙏🏾",
+    "tts": "falda hender: hudtype 5"
+  },
+  {
+    "cp": "🙏🏿",
+    "tts": "falda hender: hudtype 6"
+  },
+  {
+    "cp": "🚄",
+    "tts": "høgfartstog"
+  },
+  {
+    "cp": "🚅",
+    "tts": "høgfartstog med kulenase"
+  },
+  {
+    "cp": "🚍",
+    "tts": "motgåande buss"
+  },
+  {
+    "cp": "🚔",
+    "tts": "motgåande politibil"
+  },
+  {
+    "cp": "🚖",
+    "tts": "motgåande taxi"
+  },
+  {
+    "cp": "🚘",
+    "tts": "motgåande bil"
+  },
+  {
+    "cp": "🚫",
+    "tts": "forbode"
+  },
+  {
+    "cp": "🚭",
+    "tts": "røyking forbode"
+  },
+  {
+    "cp": "🚯",
+    "tts": "forsøpling ikkje tillate"
+  },
+  {
+    "cp": "🚰",
+    "tts": "drikkevatn"
+  },
+  {
+    "cp": "🚱",
+    "tts": "ikkje drikkevatn"
+  },
+  {
+    "cp": "🚳",
+    "tts": "syklar forbode"
+  },
+  {
+    "cp": "🚴‍♀",
+    "tts": "kvinneleg syklist"
+  },
+  {
+    "cp": "🚴‍♂",
+    "tts": "mannleg syklist"
+  },
+  {
+    "cp": "🚴🏻‍♀",
+    "tts": "kvinneleg syklist: hudtype 1–2"
+  },
+  {
+    "cp": "🚴🏻‍♂",
+    "tts": "mannleg syklist: hudtype 1–2"
+  },
+  {
+    "cp": "🚴🏼‍♀",
+    "tts": "kvinneleg syklist: hudtype 3"
+  },
+  {
+    "cp": "🚴🏼‍♂",
+    "tts": "mannleg syklist: hudtype 3"
+  },
+  {
+    "cp": "🚴🏽‍♀",
+    "tts": "kvinneleg syklist: hudtype 4"
+  },
+  {
+    "cp": "🚴🏽‍♂",
+    "tts": "mannleg syklist: hudtype 4"
+  },
+  {
+    "cp": "🚴🏾‍♀",
+    "tts": "kvinneleg syklist: hudtype 5"
+  },
+  {
+    "cp": "🚴🏾‍♂",
+    "tts": "mannleg syklist: hudtype 5"
+  },
+  {
+    "cp": "🚴🏿‍♀",
+    "tts": "kvinneleg syklist: hudtype 6"
+  },
+  {
+    "cp": "🚴🏿‍♂",
+    "tts": "mannleg syklist: hudtype 6"
+  },
+  {
+    "cp": "🚶",
+    "tts": "fotgjengar"
+  },
+  {
+    "cp": "🚶‍♀",
+    "tts": "kvinneleg fotgjengar"
+  },
+  {
+    "cp": "🚶‍♀‍➡",
+    "tts": "kvinneleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶‍♂",
+    "tts": "mannleg fotgjengar"
+  },
+  {
+    "cp": "🚶‍♂‍➡",
+    "tts": "mannleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶‍➡",
+    "tts": "fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏻",
+    "tts": "fotgjengar: hudtype 1–2"
+  },
+  {
+    "cp": "🚶🏻‍♀",
+    "tts": "kvinneleg fotgjengar: hudtype 1–2"
+  },
+  {
+    "cp": "🚶🏻‍♀‍➡",
+    "tts": "kvinneleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏻‍♂",
+    "tts": "mannleg fotgjengar: hudtype 1–2"
+  },
+  {
+    "cp": "🚶🏻‍♂‍➡",
+    "tts": "mannleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏻‍➡",
+    "tts": "fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏼",
+    "tts": "fotgjengar: hudtype 3"
+  },
+  {
+    "cp": "🚶🏼‍♀",
+    "tts": "kvinneleg fotgjengar: hudtype 3"
+  },
+  {
+    "cp": "🚶🏼‍♀‍➡",
+    "tts": "kvinneleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏼‍♂",
+    "tts": "mannleg fotgjengar: hudtype 3"
+  },
+  {
+    "cp": "🚶🏼‍♂‍➡",
+    "tts": "mannleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏼‍➡",
+    "tts": "fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏽",
+    "tts": "fotgjengar: hudtype 4"
+  },
+  {
+    "cp": "🚶🏽‍♀",
+    "tts": "kvinneleg fotgjengar: hudtype 4"
+  },
+  {
+    "cp": "🚶🏽‍♀‍➡",
+    "tts": "kvinneleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏽‍♂",
+    "tts": "mannleg fotgjengar: hudtype 4"
+  },
+  {
+    "cp": "🚶🏽‍♂‍➡",
+    "tts": "mannleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏽‍➡",
+    "tts": "fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏾",
+    "tts": "fotgjengar: hudtype 5"
+  },
+  {
+    "cp": "🚶🏾‍♀",
+    "tts": "kvinneleg fotgjengar: hudtype 5"
+  },
+  {
+    "cp": "🚶🏾‍♀‍➡",
+    "tts": "kvinneleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏾‍♂",
+    "tts": "mannleg fotgjengar: hudtype 5"
+  },
+  {
+    "cp": "🚶🏾‍♂‍➡",
+    "tts": "mannleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏾‍➡",
+    "tts": "fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏿",
+    "tts": "fotgjengar: hudtype 6"
+  },
+  {
+    "cp": "🚶🏿‍♀",
+    "tts": "kvinneleg fotgjengar: hudtype 6"
+  },
+  {
+    "cp": "🚶🏿‍♀‍➡",
+    "tts": "kvinneleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏿‍♂",
+    "tts": "mannleg fotgjengar: hudtype 6"
+  },
+  {
+    "cp": "🚶🏿‍♂‍➡",
+    "tts": "mannleg fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚶🏿‍➡",
+    "tts": "fotgjengar vendt mot høgre"
+  },
+  {
+    "cp": "🚷",
+    "tts": "fotgjengarar forbode"
+  },
+  {
+    "cp": "🚸",
+    "tts": "barn kryssar vegen"
+  },
+  {
+    "cp": "🛄",
+    "tts": "bagasjeband"
+  },
+  {
+    "cp": "🛍",
+    "tts": "handleposar"
+  },
+  {
+    "cp": "🛐",
+    "tts": "religiøs samlingsstad"
+  },
+  {
+    "cp": "🛜",
+    "tts": "trådlaust"
+  },
+  {
+    "cp": "🛠",
+    "tts": "hammar og fastnøkkel"
+  },
+  {
+    "cp": "🛣",
+    "tts": "motorveg"
+  },
+  {
+    "cp": "🛫",
+    "tts": "fly som tek av"
+  },
+  {
+    "cp": "🛬",
+    "tts": "fly som landar"
+  },
+  {
+    "cp": "🛸",
+    "tts": "flygande tallerken"
+  },
+  {
+    "cp": "🟢",
+    "tts": "grøn sirkel"
+  },
+  {
+    "cp": "🟥",
+    "tts": "raudt kvadrat"
+  },
+  {
+    "cp": "🟰",
+    "tts": "likskapsteikn i feit skrift"
+  },
+  {
+    "cp": "🤌",
+    "tts": "hand med fingertuppane saman"
+  },
+  {
+    "cp": "🤌🏻",
+    "tts": "hand med fingertuppane saman: hudtype 1–2"
+  },
+  {
+    "cp": "🤌🏼",
+    "tts": "hand med fingertuppane saman: hudtype 3"
+  },
+  {
+    "cp": "🤌🏽",
+    "tts": "hand med fingertuppane saman: hudtype 4"
+  },
+  {
+    "cp": "🤌🏾",
+    "tts": "hand med fingertuppane saman: hudtype 5"
+  },
+  {
+    "cp": "🤌🏿",
+    "tts": "hand med fingertuppane saman: hudtype 6"
+  },
+  {
+    "cp": "🤍",
+    "tts": "kvitt hjarte"
+  },
+  {
+    "cp": "🤎",
+    "tts": "brunt hjarte"
+  },
+  {
+    "cp": "🤏",
+    "tts": "hand som klyp"
+  },
+  {
+    "cp": "🤏🏻",
+    "tts": "hand som klyp: hudtype 1–2"
+  },
+  {
+    "cp": "🤏🏼",
+    "tts": "hand som klyp: hudtype 3"
+  },
+  {
+    "cp": "🤏🏽",
+    "tts": "hand som klyp: hudtype 4"
+  },
+  {
+    "cp": "🤏🏾",
+    "tts": "hand som klyp: hudtype 5"
+  },
+  {
+    "cp": "🤏🏿",
+    "tts": "hand som klyp: hudtype 6"
+  },
+  {
+    "cp": "🤑",
+    "tts": "pengegalen"
+  },
+  {
+    "cp": "🤔",
+    "tts": "tenkjefjes"
+  },
+  {
+    "cp": "🤕",
+    "tts": "bandasjert hovud"
+  },
+  {
+    "cp": "🤗",
+    "tts": "fjes som gjev klem"
+  },
+  {
+    "cp": "🤙",
+    "tts": "ring meg-hand"
+  },
+  {
+    "cp": "🤙🏻",
+    "tts": "ring meg-hand: hudtype 1–2"
+  },
+  {
+    "cp": "🤙🏼",
+    "tts": "ring meg-hand: hudtype 3"
+  },
+  {
+    "cp": "🤙🏽",
+    "tts": "ring meg-hand: hudtype 4"
+  },
+  {
+    "cp": "🤙🏾",
+    "tts": "ring meg-hand: hudtype 5"
+  },
+  {
+    "cp": "🤙🏿",
+    "tts": "ring meg-hand: hudtype 6"
+  },
+  {
+    "cp": "🤚",
+    "tts": "løfta handbak"
+  },
+  {
+    "cp": "🤚🏻",
+    "tts": "løfta handbak: hudtype 1–2"
+  },
+  {
+    "cp": "🤚🏼",
+    "tts": "løfta handbak: hudtype 3"
+  },
+  {
+    "cp": "🤚🏽",
+    "tts": "løfta handbak: hudtype 4"
+  },
+  {
+    "cp": "🤚🏾",
+    "tts": "løfta handbak: hudtype 5"
+  },
+  {
+    "cp": "🤚🏿",
+    "tts": "løfta handbak: hudtype 6"
+  },
+  {
+    "cp": "🤜",
+    "tts": "knyttneve mot høgre"
+  },
+  {
+    "cp": "🤜🏻",
+    "tts": "knyttneve mot høgre: hudtype 1–2"
+  },
+  {
+    "cp": "🤜🏼",
+    "tts": "knyttneve mot høgre: hudtype 3"
+  },
+  {
+    "cp": "🤜🏽",
+    "tts": "knyttneve mot høgre: hudtype 4"
+  },
+  {
+    "cp": "🤜🏾",
+    "tts": "knyttneve mot høgre: hudtype 5"
+  },
+  {
+    "cp": "🤜🏿",
+    "tts": "knyttneve mot høgre: hudtype 6"
+  },
+  {
+    "cp": "🤝",
+    "tts": "handhelse"
+  },
+  {
+    "cp": "🤝🏻",
+    "tts": "handhelse: hudtype 1–2"
+  },
+  {
+    "cp": "🤝🏼",
+    "tts": "handhelse: hudtype 3"
+  },
+  {
+    "cp": "🤝🏽",
+    "tts": "handhelse: hudtype 4"
+  },
+  {
+    "cp": "🤝🏾",
+    "tts": "handhelse: hudtype 5"
+  },
+  {
+    "cp": "🤝🏿",
+    "tts": "handhelse: hudtype 6"
+  },
+  {
+    "cp": "🤞",
+    "tts": "kryssande fingrar"
+  },
+  {
+    "cp": "🤞🏻",
+    "tts": "kryssande fingrar: hudtype 1–2"
+  },
+  {
+    "cp": "🤞🏼",
+    "tts": "kryssande fingrar: hudtype 3"
+  },
+  {
+    "cp": "🤞🏽",
+    "tts": "kryssande fingrar: hudtype 4"
+  },
+  {
+    "cp": "🤞🏾",
+    "tts": "kryssande fingrar: hudtype 5"
+  },
+  {
+    "cp": "🤞🏿",
+    "tts": "kryssande fingrar: hudtype 6"
+  },
+  {
+    "cp": "🤟",
+    "tts": "glad i deg-teikn"
+  },
+  {
+    "cp": "🤟🏻",
+    "tts": "glad i deg-teikn: hudtype 1–2"
+  },
+  {
+    "cp": "🤟🏼",
+    "tts": "glad i deg-teikn: hudtype 3"
+  },
+  {
+    "cp": "🤟🏽",
+    "tts": "glad i deg-teikn: hudtype 4"
+  },
+  {
+    "cp": "🤟🏾",
+    "tts": "glad i deg-teikn: hudtype 5"
+  },
+  {
+    "cp": "🤟🏿",
+    "tts": "glad i deg-teikn: hudtype 6"
+  },
+  {
+    "cp": "🤣",
+    "tts": "rullar rundt på golvet i latter"
+  },
+  {
+    "cp": "🤤",
+    "tts": "siklar"
+  },
+  {
+    "cp": "🤥",
+    "tts": "lyg"
+  },
+  {
+    "cp": "🤦",
+    "tts": "slår handa mot panna"
+  },
+  {
+    "cp": "🤦‍♀",
+    "tts": "kvinne som slår handa mot panna"
+  },
+  {
+    "cp": "🤦‍♂",
+    "tts": "mann som slår handa mot panna"
+  },
+  {
+    "cp": "🤦🏻",
+    "tts": "slår handa mot panna: hudtype 1–2"
+  },
+  {
+    "cp": "🤦🏻‍♀",
+    "tts": "kvinne som slår handa mot panna: hudtype 1–2"
+  },
+  {
+    "cp": "🤦🏻‍♂",
+    "tts": "mann som slår handa mot panna: hudtype 1–2"
+  },
+  {
+    "cp": "🤦🏼",
+    "tts": "slår handa mot panna: hudtype 3"
+  },
+  {
+    "cp": "🤦🏼‍♀",
+    "tts": "kvinne som slår handa mot panna: hudtype 3"
+  },
+  {
+    "cp": "🤦🏼‍♂",
+    "tts": "mann som slår handa mot panna: hudtype 3"
+  },
+  {
+    "cp": "🤦🏽",
+    "tts": "slår handa mot panna: hudtype 4"
+  },
+  {
+    "cp": "🤦🏽‍♀",
+    "tts": "kvinne som slår handa mot panna: hudtype 4"
+  },
+  {
+    "cp": "🤦🏽‍♂",
+    "tts": "mann som slår handa mot panna: hudtype 4"
+  },
+  {
+    "cp": "🤦🏾",
+    "tts": "slår handa mot panna: hudtype 5"
+  },
+  {
+    "cp": "🤦🏾‍♀",
+    "tts": "kvinne som slår handa mot panna: hudtype 5"
+  },
+  {
+    "cp": "🤦🏾‍♂",
+    "tts": "mann som slår handa mot panna: hudtype 5"
+  },
+  {
+    "cp": "🤦🏿",
+    "tts": "slår handa mot panna: hudtype 6"
+  },
+  {
+    "cp": "🤦🏿‍♀",
+    "tts": "kvinne som slår handa mot panna: hudtype 6"
+  },
+  {
+    "cp": "🤦🏿‍♂",
+    "tts": "mann som slår handa mot panna: hudtype 6"
+  },
+  {
+    "cp": "🤧",
+    "tts": "nys"
+  },
+  {
+    "cp": "🤨",
+    "tts": "heva augebryn"
+  },
+  {
+    "cp": "🤩",
+    "tts": "stjerner i auga"
+  },
+  {
+    "cp": "🤪",
+    "tts": "galen"
+  },
+  {
+    "cp": "🤬",
+    "tts": "fjes med symbol over munnen"
+  },
+  {
+    "cp": "🤭",
+    "tts": "handa over munnen"
+  },
+  {
+    "cp": "🤮",
+    "tts": "kastar opp"
+  },
+  {
+    "cp": "🤯",
+    "tts": "eksploderande hovud"
+  },
+  {
+    "cp": "🤱",
+    "tts": "ammar"
+  },
+  {
+    "cp": "🤱🏻",
+    "tts": "ammar: hudtype 1–2"
+  },
+  {
+    "cp": "🤱🏼",
+    "tts": "ammar: hudtype 3"
+  },
+  {
+    "cp": "🤱🏽",
+    "tts": "ammar: hudtype 4"
+  },
+  {
+    "cp": "🤱🏾",
+    "tts": "ammar: hudtype 5"
+  },
+  {
+    "cp": "🤱🏿",
+    "tts": "ammar: hudtype 6"
+  },
+  {
+    "cp": "🤲",
+    "tts": "handflatene saman"
+  },
+  {
+    "cp": "🤲🏻",
+    "tts": "handflatene saman: hudtype 1–2"
+  },
+  {
+    "cp": "🤲🏼",
+    "tts": "handflatene saman: hudtype 3"
+  },
+  {
+    "cp": "🤲🏽",
+    "tts": "handflatene saman: hudtype 4"
+  },
+  {
+    "cp": "🤲🏾",
+    "tts": "handflatene saman: hudtype 5"
+  },
+  {
+    "cp": "🤲🏿",
+    "tts": "handflatene saman: hudtype 6"
+  },
+  {
+    "cp": "🤷",
+    "tts": "trekkjer på skuldrene"
+  },
+  {
+    "cp": "🤷‍♀",
+    "tts": "kvinne som trekkjer på skuldrene"
+  },
+  {
+    "cp": "🤷‍♂",
+    "tts": "mann som trekkjer på skuldrene"
+  },
+  {
+    "cp": "🤷🏻",
+    "tts": "trekkjer på skuldrene: hudtype 1–2"
+  },
+  {
+    "cp": "🤷🏻‍♀",
+    "tts": "kvinne som trekkjer på skuldrene: hudtype 1–2"
+  },
+  {
+    "cp": "🤷🏻‍♂",
+    "tts": "mann som trekkjer på skuldrene: hudtype 1–2"
+  },
+  {
+    "cp": "🤷🏼",
+    "tts": "trekkjer på skuldrene: hudtype 3"
+  },
+  {
+    "cp": "🤷🏼‍♀",
+    "tts": "kvinne som trekkjer på skuldrene: hudtype 3"
+  },
+  {
+    "cp": "🤷🏼‍♂",
+    "tts": "mann som trekkjer på skuldrene: hudtype 3"
+  },
+  {
+    "cp": "🤷🏽",
+    "tts": "trekkjer på skuldrene: hudtype 4"
+  },
+  {
+    "cp": "🤷🏽‍♀",
+    "tts": "kvinne som trekkjer på skuldrene: hudtype 4"
+  },
+  {
+    "cp": "🤷🏽‍♂",
+    "tts": "mann som trekkjer på skuldrene: hudtype 4"
+  },
+  {
+    "cp": "🤷🏾",
+    "tts": "trekkjer på skuldrene: hudtype 5"
+  },
+  {
+    "cp": "🤷🏾‍♀",
+    "tts": "kvinne som trekkjer på skuldrene: hudtype 5"
+  },
+  {
+    "cp": "🤷🏾‍♂",
+    "tts": "mann som trekkjer på skuldrene: hudtype 5"
+  },
+  {
+    "cp": "🤷🏿",
+    "tts": "trekkjer på skuldrene: hudtype 6"
+  },
+  {
+    "cp": "🤷🏿‍♀",
+    "tts": "kvinne som trekkjer på skuldrene: hudtype 6"
+  },
+  {
+    "cp": "🤷🏿‍♂",
+    "tts": "mann som trekkjer på skuldrene: hudtype 6"
+  },
+  {
+    "cp": "🤹‍♀",
+    "tts": "kvinneleg sjonglør"
+  },
+  {
+    "cp": "🤹‍♂",
+    "tts": "mannleg sjonglør"
+  },
+  {
+    "cp": "🤹🏻‍♀",
+    "tts": "kvinneleg sjonglør: hudtype 1–2"
+  },
+  {
+    "cp": "🤹🏻‍♂",
+    "tts": "mannleg sjonglør: hudtype 1–2"
+  },
+  {
+    "cp": "🤹🏼‍♀",
+    "tts": "kvinneleg sjonglør: hudtype 3"
+  },
+  {
+    "cp": "🤹🏼‍♂",
+    "tts": "mannleg sjonglør: hudtype 3"
+  },
+  {
+    "cp": "🤹🏽‍♀",
+    "tts": "kvinneleg sjonglør: hudtype 4"
+  },
+  {
+    "cp": "🤹🏽‍♂",
+    "tts": "mannleg sjonglør: hudtype 4"
+  },
+  {
+    "cp": "🤹🏾‍♀",
+    "tts": "kvinneleg sjonglør: hudtype 5"
+  },
+  {
+    "cp": "🤹🏾‍♂",
+    "tts": "mannleg sjonglør: hudtype 5"
+  },
+  {
+    "cp": "🤹🏿‍♀",
+    "tts": "kvinneleg sjonglør: hudtype 6"
+  },
+  {
+    "cp": "🤹🏿‍♂",
+    "tts": "mannleg sjonglør: hudtype 6"
+  },
+  {
+    "cp": "🤺",
+    "tts": "fektar"
+  },
+  {
+    "cp": "🤼",
+    "tts": "brytarar"
+  },
+  {
+    "cp": "🤼‍♀",
+    "tts": "kvinnelege brytarar"
+  },
+  {
+    "cp": "🤼‍♂",
+    "tts": "mannlege brytarar"
+  },
+  {
+    "cp": "🤽",
+    "tts": "vasspolo"
+  },
+  {
+    "cp": "🤽‍♀",
+    "tts": "kvinneleg vasspolospelar"
+  },
+  {
+    "cp": "🤽‍♂",
+    "tts": "mannleg vasspolospelar"
+  },
+  {
+    "cp": "🤽🏻",
+    "tts": "vasspolo: hudtype 1–2"
+  },
+  {
+    "cp": "🤽🏻‍♀",
+    "tts": "kvinneleg vasspolospelar: hudtype 1–2"
+  },
+  {
+    "cp": "🤽🏻‍♂",
+    "tts": "mannleg vasspolospelar: hudtype 1–2"
+  },
+  {
+    "cp": "🤽🏼",
+    "tts": "vasspolo: hudtype 3"
+  },
+  {
+    "cp": "🤽🏼‍♀",
+    "tts": "kvinneleg vasspolospelar: hudtype 3"
+  },
+  {
+    "cp": "🤽🏼‍♂",
+    "tts": "mannleg vasspolospelar: hudtype 3"
+  },
+  {
+    "cp": "🤽🏽",
+    "tts": "vasspolo: hudtype 4"
+  },
+  {
+    "cp": "🤽🏽‍♀",
+    "tts": "kvinneleg vasspolospelar: hudtype 4"
+  },
+  {
+    "cp": "🤽🏽‍♂",
+    "tts": "mannleg vasspolospelar: hudtype 4"
+  },
+  {
+    "cp": "🤽🏾",
+    "tts": "vasspolo: hudtype 5"
+  },
+  {
+    "cp": "🤽🏾‍♀",
+    "tts": "kvinneleg vasspolospelar: hudtype 5"
+  },
+  {
+    "cp": "🤽🏾‍♂",
+    "tts": "mannleg vasspolospelar: hudtype 5"
+  },
+  {
+    "cp": "🤽🏿",
+    "tts": "vasspolo: hudtype 6"
+  },
+  {
+    "cp": "🤽🏿‍♀",
+    "tts": "kvinneleg vasspolospelar: hudtype 6"
+  },
+  {
+    "cp": "🤽🏿‍♂",
+    "tts": "mannleg vasspolospelar: hudtype 6"
+  },
+  {
+    "cp": "🤾",
+    "tts": "handball"
+  },
+  {
+    "cp": "🤾‍♀",
+    "tts": "kvinneleg handballspelar"
+  },
+  {
+    "cp": "🤾‍♂",
+    "tts": "mannleg handballspelar"
+  },
+  {
+    "cp": "🤾🏻",
+    "tts": "handball: hudtype 1–2"
+  },
+  {
+    "cp": "🤾🏻‍♀",
+    "tts": "kvinneleg handballspelar: hudtype 1–2"
+  },
+  {
+    "cp": "🤾🏻‍♂",
+    "tts": "mannleg handballspelar: hudtype 1–2"
+  },
+  {
+    "cp": "🤾🏼",
+    "tts": "handball: hudtype 3"
+  },
+  {
+    "cp": "🤾🏼‍♀",
+    "tts": "kvinneleg handballspelar: hudtype 3"
+  },
+  {
+    "cp": "🤾🏼‍♂",
+    "tts": "mannleg handballspelar: hudtype 3"
+  },
+  {
+    "cp": "🤾🏽",
+    "tts": "handball: hudtype 4"
+  },
+  {
+    "cp": "🤾🏽‍♀",
+    "tts": "kvinneleg handballspelar: hudtype 4"
+  },
+  {
+    "cp": "🤾🏽‍♂",
+    "tts": "mannleg handballspelar: hudtype 4"
+  },
+  {
+    "cp": "🤾🏾",
+    "tts": "handball: hudtype 5"
+  },
+  {
+    "cp": "🤾🏾‍♀",
+    "tts": "kvinneleg handballspelar: hudtype 5"
+  },
+  {
+    "cp": "🤾🏾‍♂",
+    "tts": "mannleg handballspelar: hudtype 5"
+  },
+  {
+    "cp": "🤾🏿",
+    "tts": "handball: hudtype 6"
+  },
+  {
+    "cp": "🤾🏿‍♀",
+    "tts": "kvinneleg handballspelar: hudtype 6"
+  },
+  {
+    "cp": "🤾🏿‍♂",
+    "tts": "mannleg handballspelar: hudtype 6"
+  },
+  {
+    "cp": "🤿",
+    "tts": "dykkarmaske"
+  },
+  {
+    "cp": "🥀",
+    "tts": "vissen blomster"
+  },
+  {
+    "cp": "🥂",
+    "tts": "glas som skåler"
+  },
+  {
+    "cp": "🥃",
+    "tts": "whiskyglas"
+  },
+  {
+    "cp": "🥄",
+    "tts": "skei"
+  },
+  {
+    "cp": "🥗",
+    "tts": "grøn salat"
+  },
+  {
+    "cp": "🥘",
+    "tts": "låg gryte med mat"
+  },
+  {
+    "cp": "🥛",
+    "tts": "mjølkeglas"
+  },
+  {
+    "cp": "🥢",
+    "tts": "spisepinnar"
+  },
+  {
+    "cp": "🥣",
+    "tts": "bolle med skei"
+  },
+  {
+    "cp": "🥤",
+    "tts": "kopp med sugerøyr"
+  },
+  {
+    "cp": "🥩",
+    "tts": "kjøtstykke"
+  },
+  {
+    "cp": "🥬",
+    "tts": "bladgrønsaker"
+  },
+  {
+    "cp": "🥰",
+    "tts": "smilefjes med hjarte"
+  },
+  {
+    "cp": "🥱",
+    "tts": "geispande fjes"
+  },
+  {
+    "cp": "🥸",
+    "tts": "fjes med forkleding"
+  },
+  {
+    "cp": "🥹",
+    "tts": "fjes som held tilbake tårene"
+  },
+  {
+    "cp": "🥺",
+    "tts": "bedande fjes"
+  },
+  {
+    "cp": "🥽",
+    "tts": "vernebriller"
+  },
+  {
+    "cp": "🦄",
+    "tts": "einhjørning"
+  },
+  {
+    "cp": "🦋",
+    "tts": "sommarfugl"
+  },
+  {
+    "cp": "🦏",
+    "tts": "nashorn"
+  },
+  {
+    "cp": "🦔",
+    "tts": "piggsvin"
+  },
+  {
+    "cp": "🦗",
+    "tts": "grashoppe"
+  },
+  {
+    "cp": "🦞",
+    "tts": "hummar"
+  },
+  {
+    "cp": "🦮",
+    "tts": "førarhund"
+  },
+  {
+    "cp": "🦰",
+    "tts": "raudt hår"
+  },
+  {
+    "cp": "🦱",
+    "tts": "krusete hår"
+  },
+  {
+    "cp": "🦲",
+    "tts": "skalla"
+  },
+  {
+    "cp": "🦸‍♀",
+    "tts": "kvinneleg superhelt"
+  },
+  {
+    "cp": "🦸‍♂",
+    "tts": "mannleg superhelt"
+  },
+  {
+    "cp": "🦸🏻‍♀",
+    "tts": "kvinneleg superhelt: hudtype 1–2"
+  },
+  {
+    "cp": "🦸🏻‍♂",
+    "tts": "mannleg superhelt: hudtype 1–2"
+  },
+  {
+    "cp": "🦸🏼‍♀",
+    "tts": "kvinneleg superhelt: hudtype 3"
+  },
+  {
+    "cp": "🦸🏼‍♂",
+    "tts": "mannleg superhelt: hudtype 3"
+  },
+  {
+    "cp": "🦸🏽‍♀",
+    "tts": "kvinneleg superhelt: hudtype 4"
+  },
+  {
+    "cp": "🦸🏽‍♂",
+    "tts": "mannleg superhelt: hudtype 4"
+  },
+  {
+    "cp": "🦸🏾‍♀",
+    "tts": "kvinneleg superhelt: hudtype 5"
+  },
+  {
+    "cp": "🦸🏾‍♂",
+    "tts": "mannleg superhelt: hudtype 5"
+  },
+  {
+    "cp": "🦸🏿‍♀",
+    "tts": "kvinneleg superhelt: hudtype 6"
+  },
+  {
+    "cp": "🦸🏿‍♂",
+    "tts": "mannleg superhelt: hudtype 6"
+  },
+  {
+    "cp": "🦹‍♀",
+    "tts": "kvinneleg superskurk"
+  },
+  {
+    "cp": "🦹‍♂",
+    "tts": "mannleg superskurk"
+  },
+  {
+    "cp": "🦹🏻‍♀",
+    "tts": "kvinneleg superskurk: hudtype 1–2"
+  },
+  {
+    "cp": "🦹🏻‍♂",
+    "tts": "mannleg superskurk: hudtype 1–2"
+  },
+  {
+    "cp": "🦹🏼‍♀",
+    "tts": "kvinneleg superskurk: hudtype 3"
+  },
+  {
+    "cp": "🦹🏼‍♂",
+    "tts": "mannleg superskurk: hudtype 3"
+  },
+  {
+    "cp": "🦹🏽‍♀",
+    "tts": "kvinneleg superskurk: hudtype 4"
+  },
+  {
+    "cp": "🦹🏽‍♂",
+    "tts": "mannleg superskurk: hudtype 4"
+  },
+  {
+    "cp": "🦹🏾‍♀",
+    "tts": "kvinneleg superskurk: hudtype 5"
+  },
+  {
+    "cp": "🦹🏾‍♂",
+    "tts": "mannleg superskurk: hudtype 5"
+  },
+  {
+    "cp": "🦹🏿‍♀",
+    "tts": "kvinneleg superskurk: hudtype 6"
+  },
+  {
+    "cp": "🦹🏿‍♂",
+    "tts": "mannleg superskurk: hudtype 6"
+  },
+  {
+    "cp": "🦻",
+    "tts": "øyre med høyreapparat"
+  },
+  {
+    "cp": "🦻🏻",
+    "tts": "øyre med høyreapparat: hudtype 1–2"
+  },
+  {
+    "cp": "🦻🏼",
+    "tts": "øyre med høyreapparat: hudtype 3"
+  },
+  {
+    "cp": "🦻🏽",
+    "tts": "øyre med høyreapparat: hudtype 4"
+  },
+  {
+    "cp": "🦻🏾",
+    "tts": "øyre med høyreapparat: hudtype 5"
+  },
+  {
+    "cp": "🦻🏿",
+    "tts": "øyre med høyreapparat: hudtype 6"
+  },
+  {
+    "cp": "🧄",
+    "tts": "kvitlauk"
+  },
+  {
+    "cp": "🧅",
+    "tts": "lauk"
+  },
+  {
+    "cp": "🧎‍♀‍➡",
+    "tts": "kvinne som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎‍♂‍➡",
+    "tts": "mann som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎‍➡",
+    "tts": "person som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏻‍♀‍➡",
+    "tts": "kvinne som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏻‍♂‍➡",
+    "tts": "mann som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏻‍➡",
+    "tts": "person som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏼‍♀‍➡",
+    "tts": "kvinne som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏼‍♂‍➡",
+    "tts": "mann som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏼‍➡",
+    "tts": "person som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏽‍♀‍➡",
+    "tts": "kvinne som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏽‍♂‍➡",
+    "tts": "mann som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏽‍➡",
+    "tts": "person som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏾‍♀‍➡",
+    "tts": "kvinne som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏾‍♂‍➡",
+    "tts": "mann som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏾‍➡",
+    "tts": "person som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏿‍♀‍➡",
+    "tts": "kvinne som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏿‍♂‍➡",
+    "tts": "mann som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧎🏿‍➡",
+    "tts": "person som kneler vendt mot høgre"
+  },
+  {
+    "cp": "🧑",
+    "tts": "vaksen"
+  },
+  {
+    "cp": "🧑‍⚕",
+    "tts": "helsearbeidar"
+  },
+  {
+    "cp": "🧑‍⚖",
+    "tts": "dommar"
+  },
+  {
+    "cp": "🧑‍🌾",
+    "tts": "gardbrukar"
+  },
+  {
+    "cp": "🧑‍🍼",
+    "tts": "person som matar baby"
+  },
+  {
+    "cp": "🧑‍🎨",
+    "tts": "kunstnar"
+  },
+  {
+    "cp": "🧑‍🏫",
+    "tts": "lærar"
+  },
+  {
+    "cp": "🧑‍🏭",
+    "tts": "industriarbeidar"
+  },
+  {
+    "cp": "🧑‍💼",
+    "tts": "kontorarbeidar"
+  },
+  {
+    "cp": "🧑‍🔧",
+    "tts": "mekanikar"
+  },
+  {
+    "cp": "🧑‍🔬",
+    "tts": "forskar"
+  },
+  {
+    "cp": "🧑‍🤝‍🧑",
+    "tts": "personar som leiar"
+  },
+  {
+    "cp": "🧑‍🦯‍➡",
+    "tts": "person med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "🧑‍🦰",
+    "tts": "vaksen: raudt hår"
+  },
+  {
+    "cp": "🧑‍🦱",
+    "tts": "vaksen: krusete hår"
+  },
+  {
+    "cp": "🧑‍🦲",
+    "tts": "vaksen: skalla"
+  },
+  {
+    "cp": "🧑‍🦳",
+    "tts": "vaksen: grått hår"
+  },
+  {
+    "cp": "🧑‍🦼‍➡",
+    "tts": "person i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑‍🦽‍➡",
+    "tts": "person i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑‍🧑‍🧒",
+    "tts": "familie: vaksen, vaksen, barn"
+  },
+  {
+    "cp": "🧑‍🧑‍🧒‍🧒",
+    "tts": "familie: vaksen, vaksen, barn, barn"
+  },
+  {
+    "cp": "🧑‍🧒",
+    "tts": "familie: vaksen, barn"
+  },
+  {
+    "cp": "🧑‍🧒‍🧒",
+    "tts": "familie: vaksen, barn, barn"
+  },
+  {
+    "cp": "🧑🏻",
+    "tts": "vaksen: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍⚕",
+    "tts": "helsearbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍⚖",
+    "tts": "dommar: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍❤‍💋‍🧑🏼",
+    "tts": "kyss: vaksen, vaksen, hudtype 1–2, hudtype 3"
+  },
+  {
+    "cp": "🧑🏻‍❤‍💋‍🧑🏽",
+    "tts": "kyss: vaksen, vaksen, hudtype 1–2, hudtype 4"
+  },
+  {
+    "cp": "🧑🏻‍❤‍💋‍🧑🏾",
+    "tts": "kyss: vaksen, vaksen, hudtype 1–2, hudtype 5"
+  },
+  {
+    "cp": "🧑🏻‍❤‍💋‍🧑🏿",
+    "tts": "kyss: vaksen, vaksen, hudtype 1–2, hudtype 6"
+  },
+  {
+    "cp": "🧑🏻‍❤‍🧑🏼",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 1–2, hudtype 3"
+  },
+  {
+    "cp": "🧑🏻‍❤‍🧑🏽",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 1–2, hudtype 4"
+  },
+  {
+    "cp": "🧑🏻‍❤‍🧑🏾",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 1–2, hudtype 5"
+  },
+  {
+    "cp": "🧑🏻‍❤‍🧑🏿",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 1–2, hudtype 6"
+  },
+  {
+    "cp": "🧑🏻‍🌾",
+    "tts": "gardbrukar: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍🍼",
+    "tts": "person som matar baby: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍🎨",
+    "tts": "kunstnar: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍🏫",
+    "tts": "lærar: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍🏭",
+    "tts": "industriarbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍💼",
+    "tts": "kontorarbeidar: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍🔧",
+    "tts": "mekanikar: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍🔬",
+    "tts": "forskar: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍🤝‍🧑🏻",
+    "tts": "personar som leiar: hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏻‍🤝‍🧑🏼",
+    "tts": "personar som leiar: hudtype 1–2, hudtype 3"
+  },
+  {
+    "cp": "🧑🏻‍🤝‍🧑🏽",
+    "tts": "personar som leiar: hudtype 1–2, hudtype 4"
+  },
+  {
+    "cp": "🧑🏻‍🤝‍🧑🏾",
+    "tts": "personar som leiar: hudtype 1–2, hudtype 5"
+  },
+  {
+    "cp": "🧑🏻‍🤝‍🧑🏿",
+    "tts": "personar som leiar: hudtype 1–2, hudtype 6"
+  },
+  {
+    "cp": "🧑🏻‍🦯‍➡",
+    "tts": "person med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏻‍🦰",
+    "tts": "vaksen: hudtype 1–2, raudt hår"
+  },
+  {
+    "cp": "🧑🏻‍🦱",
+    "tts": "vaksen: hudtype 1–2, krusete hår"
+  },
+  {
+    "cp": "🧑🏻‍🦲",
+    "tts": "vaksen: hudtype 1–2, skalla"
+  },
+  {
+    "cp": "🧑🏻‍🦳",
+    "tts": "vaksen: hudtype 1–2, grått hår"
+  },
+  {
+    "cp": "🧑🏻‍🦼‍➡",
+    "tts": "person i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏻‍🦽‍➡",
+    "tts": "person i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏼",
+    "tts": "vaksen: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍⚕",
+    "tts": "helsearbeidar: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍⚖",
+    "tts": "dommar: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍❤‍💋‍🧑🏻",
+    "tts": "kyss: vaksen, vaksen, hudtype 3, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏼‍❤‍💋‍🧑🏽",
+    "tts": "kyss: vaksen, vaksen, hudtype 3, hudtype 4"
+  },
+  {
+    "cp": "🧑🏼‍❤‍💋‍🧑🏾",
+    "tts": "kyss: vaksen, vaksen, hudtype 3, hudtype 5"
+  },
+  {
+    "cp": "🧑🏼‍❤‍💋‍🧑🏿",
+    "tts": "kyss: vaksen, vaksen, hudtype 3, hudtype 6"
+  },
+  {
+    "cp": "🧑🏼‍❤‍🧑🏻",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 3, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏼‍❤‍🧑🏽",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 3, hudtype 4"
+  },
+  {
+    "cp": "🧑🏼‍❤‍🧑🏾",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 3, hudtype 5"
+  },
+  {
+    "cp": "🧑🏼‍❤‍🧑🏿",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 3, hudtype 6"
+  },
+  {
+    "cp": "🧑🏼‍🌾",
+    "tts": "gardbrukar: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍🍼",
+    "tts": "person som matar baby: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍🎨",
+    "tts": "kunstnar: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍🏫",
+    "tts": "lærar: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍🏭",
+    "tts": "industriarbeidar: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍💼",
+    "tts": "kontorarbeidar: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍🔧",
+    "tts": "mekanikar: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍🔬",
+    "tts": "forskar: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍🤝‍🧑🏻",
+    "tts": "personar som leiar: hudtype 3, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏼‍🤝‍🧑🏼",
+    "tts": "personar som leiar: hudtype 3"
+  },
+  {
+    "cp": "🧑🏼‍🤝‍🧑🏽",
+    "tts": "personar som leiar: hudtype 3, hudtype 4"
+  },
+  {
+    "cp": "🧑🏼‍🤝‍🧑🏾",
+    "tts": "personar som leiar: hudtype 3, hudtype 5"
+  },
+  {
+    "cp": "🧑🏼‍🤝‍🧑🏿",
+    "tts": "personar som leiar: hudtype 3, hudtype 6"
+  },
+  {
+    "cp": "🧑🏼‍🦯‍➡",
+    "tts": "person med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏼‍🦰",
+    "tts": "vaksen: hudtype 3, raudt hår"
+  },
+  {
+    "cp": "🧑🏼‍🦱",
+    "tts": "vaksen: hudtype 3, krusete hår"
+  },
+  {
+    "cp": "🧑🏼‍🦲",
+    "tts": "vaksen: hudtype 3, skalla"
+  },
+  {
+    "cp": "🧑🏼‍🦳",
+    "tts": "vaksen: hudtype 3, grått hår"
+  },
+  {
+    "cp": "🧑🏼‍🦼‍➡",
+    "tts": "person i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏼‍🦽‍➡",
+    "tts": "person i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏽",
+    "tts": "vaksen: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍⚕",
+    "tts": "helsearbeidar: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍⚖",
+    "tts": "dommar: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍❤‍💋‍🧑🏻",
+    "tts": "kyss: vaksen, vaksen, hudtype 4, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏽‍❤‍💋‍🧑🏼",
+    "tts": "kyss: vaksen, vaksen, hudtype 4, hudtype 3"
+  },
+  {
+    "cp": "🧑🏽‍❤‍💋‍🧑🏾",
+    "tts": "kyss: vaksen, vaksen, hudtype 4, hudtype 5"
+  },
+  {
+    "cp": "🧑🏽‍❤‍💋‍🧑🏿",
+    "tts": "kyss: vaksen, vaksen, hudtype 4, hudtype 6"
+  },
+  {
+    "cp": "🧑🏽‍❤‍🧑🏻",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 4, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏽‍❤‍🧑🏼",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 4, hudtype 3"
+  },
+  {
+    "cp": "🧑🏽‍❤‍🧑🏾",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 4, hudtype 5"
+  },
+  {
+    "cp": "🧑🏽‍❤‍🧑🏿",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 4, hudtype 6"
+  },
+  {
+    "cp": "🧑🏽‍🌾",
+    "tts": "gardbrukar: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍🍼",
+    "tts": "person som matar baby: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍🎨",
+    "tts": "kunstnar: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍🏫",
+    "tts": "lærar: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍🏭",
+    "tts": "industriarbeidar: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍💼",
+    "tts": "kontorarbeidar: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍🔧",
+    "tts": "mekanikar: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍🔬",
+    "tts": "forskar: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍🤝‍🧑🏻",
+    "tts": "personar som leiar: hudtype 4, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏽‍🤝‍🧑🏼",
+    "tts": "personar som leiar: hudtype 4, hudtype 3"
+  },
+  {
+    "cp": "🧑🏽‍🤝‍🧑🏽",
+    "tts": "personar som leiar: hudtype 4"
+  },
+  {
+    "cp": "🧑🏽‍🤝‍🧑🏾",
+    "tts": "personar som leiar: hudtype 4, hudtype 5"
+  },
+  {
+    "cp": "🧑🏽‍🤝‍🧑🏿",
+    "tts": "personar som leiar: hudtype 4, hudtype 6"
+  },
+  {
+    "cp": "🧑🏽‍🦯‍➡",
+    "tts": "person med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏽‍🦰",
+    "tts": "vaksen: hudtype 4, raudt hår"
+  },
+  {
+    "cp": "🧑🏽‍🦱",
+    "tts": "vaksen: hudtype 4, krusete hår"
+  },
+  {
+    "cp": "🧑🏽‍🦲",
+    "tts": "vaksen: hudtype 4, skalla"
+  },
+  {
+    "cp": "🧑🏽‍🦳",
+    "tts": "vaksen: hudtype 4, grått hår"
+  },
+  {
+    "cp": "🧑🏽‍🦼‍➡",
+    "tts": "person i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏽‍🦽‍➡",
+    "tts": "person i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏾",
+    "tts": "vaksen: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍⚕",
+    "tts": "helsearbeidar: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍⚖",
+    "tts": "dommar: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍❤‍💋‍🧑🏻",
+    "tts": "kyss: vaksen, vaksen, hudtype 5, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏾‍❤‍💋‍🧑🏼",
+    "tts": "kyss: vaksen, vaksen, hudtype 5, hudtype 3"
+  },
+  {
+    "cp": "🧑🏾‍❤‍💋‍🧑🏽",
+    "tts": "kyss: vaksen, vaksen, hudtype 5, hudtype 4"
+  },
+  {
+    "cp": "🧑🏾‍❤‍💋‍🧑🏿",
+    "tts": "kyss: vaksen, vaksen, hudtype 5, hudtype 6"
+  },
+  {
+    "cp": "🧑🏾‍❤‍🧑🏻",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 5, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏾‍❤‍🧑🏼",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 5, hudtype 3"
+  },
+  {
+    "cp": "🧑🏾‍❤‍🧑🏽",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 5, hudtype 4"
+  },
+  {
+    "cp": "🧑🏾‍❤‍🧑🏿",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 5, hudtype 6"
+  },
+  {
+    "cp": "🧑🏾‍🌾",
+    "tts": "gardbrukar: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍🍼",
+    "tts": "person som matar baby: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍🎨",
+    "tts": "kunstnar: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍🏫",
+    "tts": "lærar: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍🏭",
+    "tts": "industriarbeidar: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍💼",
+    "tts": "kontorarbeidar: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍🔧",
+    "tts": "mekanikar: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍🔬",
+    "tts": "forskar: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍🤝‍🧑🏻",
+    "tts": "personar som leiar: hudtype 5, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏾‍🤝‍🧑🏼",
+    "tts": "personar som leiar: hudtype 5, hudtype 3"
+  },
+  {
+    "cp": "🧑🏾‍🤝‍🧑🏽",
+    "tts": "personar som leiar: hudtype 5, hudtype 4"
+  },
+  {
+    "cp": "🧑🏾‍🤝‍🧑🏾",
+    "tts": "personar som leiar: hudtype 5"
+  },
+  {
+    "cp": "🧑🏾‍🤝‍🧑🏿",
+    "tts": "personar som leiar: hudtype 5, hudtype 6"
+  },
+  {
+    "cp": "🧑🏾‍🦯‍➡",
+    "tts": "person med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏾‍🦰",
+    "tts": "vaksen: hudtype 5, raudt hår"
+  },
+  {
+    "cp": "🧑🏾‍🦱",
+    "tts": "vaksen: hudtype 5, krusete hår"
+  },
+  {
+    "cp": "🧑🏾‍🦲",
+    "tts": "vaksen: hudtype 5, skalla"
+  },
+  {
+    "cp": "🧑🏾‍🦳",
+    "tts": "vaksen: hudtype 5, grått hår"
+  },
+  {
+    "cp": "🧑🏾‍🦼‍➡",
+    "tts": "person i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏾‍🦽‍➡",
+    "tts": "person i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏿",
+    "tts": "vaksen: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍⚕",
+    "tts": "helsearbeidar: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍⚖",
+    "tts": "dommar: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍❤‍💋‍🧑🏻",
+    "tts": "kyss: vaksen, vaksen, hudtype 6, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏿‍❤‍💋‍🧑🏼",
+    "tts": "kyss: vaksen, vaksen, hudtype 6, hudtype 3"
+  },
+  {
+    "cp": "🧑🏿‍❤‍💋‍🧑🏽",
+    "tts": "kyss: vaksen, vaksen, hudtype 6, hudtype 4"
+  },
+  {
+    "cp": "🧑🏿‍❤‍💋‍🧑🏾",
+    "tts": "kyss: vaksen, vaksen, hudtype 6, hudtype 5"
+  },
+  {
+    "cp": "🧑🏿‍❤‍🧑🏻",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 6, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏿‍❤‍🧑🏼",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 6, hudtype 3"
+  },
+  {
+    "cp": "🧑🏿‍❤‍🧑🏽",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 6, hudtype 4"
+  },
+  {
+    "cp": "🧑🏿‍❤‍🧑🏾",
+    "tts": "par med hjarte: vaksen, vaksen, hudtype 6, hudtype 5"
+  },
+  {
+    "cp": "🧑🏿‍🌾",
+    "tts": "gardbrukar: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍🍼",
+    "tts": "person som matar baby: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍🎨",
+    "tts": "kunstnar: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍🏫",
+    "tts": "lærar: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍🏭",
+    "tts": "industriarbeidar: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍💼",
+    "tts": "kontorarbeidar: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍🔧",
+    "tts": "mekanikar: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍🔬",
+    "tts": "forskar: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍🤝‍🧑🏻",
+    "tts": "personar som leiar: hudtype 6, hudtype 1–2"
+  },
+  {
+    "cp": "🧑🏿‍🤝‍🧑🏼",
+    "tts": "personar som leiar: hudtype 6, hudtype 3"
+  },
+  {
+    "cp": "🧑🏿‍🤝‍🧑🏽",
+    "tts": "personar som leiar: hudtype 6, hudtype 4"
+  },
+  {
+    "cp": "🧑🏿‍🤝‍🧑🏾",
+    "tts": "personar som leiar: hudtype 6, hudtype 5"
+  },
+  {
+    "cp": "🧑🏿‍🤝‍🧑🏿",
+    "tts": "personar som leiar: hudtype 6"
+  },
+  {
+    "cp": "🧑🏿‍🦯‍➡",
+    "tts": "person med blindestokk vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏿‍🦰",
+    "tts": "vaksen: hudtype 6, raudt hår"
+  },
+  {
+    "cp": "🧑🏿‍🦱",
+    "tts": "vaksen: hudtype 6, krusete hår"
+  },
+  {
+    "cp": "🧑🏿‍🦲",
+    "tts": "vaksen: hudtype 6, skalla"
+  },
+  {
+    "cp": "🧑🏿‍🦳",
+    "tts": "vaksen: hudtype 6, grått hår"
+  },
+  {
+    "cp": "🧑🏿‍🦼‍➡",
+    "tts": "person i motorisert rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧑🏿‍🦽‍➡",
+    "tts": "person i manuell rullestol vendt mot høgre"
+  },
+  {
+    "cp": "🧓",
+    "tts": "eldre vaksen"
+  },
+  {
+    "cp": "🧓🏻",
+    "tts": "eldre vaksen: hudtype 1–2"
+  },
+  {
+    "cp": "🧓🏼",
+    "tts": "eldre vaksen: hudtype 3"
+  },
+  {
+    "cp": "🧓🏽",
+    "tts": "eldre vaksen: hudtype 4"
+  },
+  {
+    "cp": "🧓🏾",
+    "tts": "eldre vaksen: hudtype 5"
+  },
+  {
+    "cp": "🧓🏿",
+    "tts": "eldre vaksen: hudtype 6"
+  },
+  {
+    "cp": "🧕",
+    "tts": "kvinne med hovudslør"
+  },
+  {
+    "cp": "🧕🏻",
+    "tts": "kvinne med hovudslør: hudtype 1–2"
+  },
+  {
+    "cp": "🧕🏼",
+    "tts": "kvinne med hovudslør: hudtype 3"
+  },
+  {
+    "cp": "🧕🏽",
+    "tts": "kvinne med hovudslør: hudtype 4"
+  },
+  {
+    "cp": "🧕🏾",
+    "tts": "kvinne med hovudslør: hudtype 5"
+  },
+  {
+    "cp": "🧕🏿",
+    "tts": "kvinne med hovudslør: hudtype 6"
+  },
+  {
+    "cp": "🧖",
+    "tts": "person i badstove"
+  },
+  {
+    "cp": "🧖‍♀",
+    "tts": "kvinne i badstove"
+  },
+  {
+    "cp": "🧖‍♂",
+    "tts": "mann i badstove"
+  },
+  {
+    "cp": "🧖🏻",
+    "tts": "person i badstove: hudtype 1–2"
+  },
+  {
+    "cp": "🧖🏻‍♀",
+    "tts": "kvinne i badstove: hudtype 1–2"
+  },
+  {
+    "cp": "🧖🏻‍♂",
+    "tts": "mann i badstove: hudtype 1–2"
+  },
+  {
+    "cp": "🧖🏼",
+    "tts": "person i badstove: hudtype 3"
+  },
+  {
+    "cp": "🧖🏼‍♀",
+    "tts": "kvinne i badstove: hudtype 3"
+  },
+  {
+    "cp": "🧖🏼‍♂",
+    "tts": "mann i badstove: hudtype 3"
+  },
+  {
+    "cp": "🧖🏽",
+    "tts": "person i badstove: hudtype 4"
+  },
+  {
+    "cp": "🧖🏽‍♀",
+    "tts": "kvinne i badstove: hudtype 4"
+  },
+  {
+    "cp": "🧖🏽‍♂",
+    "tts": "mann i badstove: hudtype 4"
+  },
+  {
+    "cp": "🧖🏾",
+    "tts": "person i badstove: hudtype 5"
+  },
+  {
+    "cp": "🧖🏾‍♀",
+    "tts": "kvinne i badstove: hudtype 5"
+  },
+  {
+    "cp": "🧖🏾‍♂",
+    "tts": "mann i badstove: hudtype 5"
+  },
+  {
+    "cp": "🧖🏿",
+    "tts": "person i badstove: hudtype 6"
+  },
+  {
+    "cp": "🧖🏿‍♀",
+    "tts": "kvinne i badstove: hudtype 6"
+  },
+  {
+    "cp": "🧖🏿‍♂",
+    "tts": "mann i badstove: hudtype 6"
+  },
+  {
+    "cp": "🧗",
+    "tts": "klatrar"
+  },
+  {
+    "cp": "🧗‍♀",
+    "tts": "kvinneleg klatrar"
+  },
+  {
+    "cp": "🧗‍♂",
+    "tts": "mannleg klatrar"
+  },
+  {
+    "cp": "🧗🏻",
+    "tts": "klatrar: hudtype 1–2"
+  },
+  {
+    "cp": "🧗🏻‍♀",
+    "tts": "kvinneleg klatrar: hudtype 1–2"
+  },
+  {
+    "cp": "🧗🏻‍♂",
+    "tts": "mannleg klatrar: hudtype 1–2"
+  },
+  {
+    "cp": "🧗🏼",
+    "tts": "klatrar: hudtype 3"
+  },
+  {
+    "cp": "🧗🏼‍♀",
+    "tts": "kvinneleg klatrar: hudtype 3"
+  },
+  {
+    "cp": "🧗🏼‍♂",
+    "tts": "mannleg klatrar: hudtype 3"
+  },
+  {
+    "cp": "🧗🏽",
+    "tts": "klatrar: hudtype 4"
+  },
+  {
+    "cp": "🧗🏽‍♀",
+    "tts": "kvinneleg klatrar: hudtype 4"
+  },
+  {
+    "cp": "🧗🏽‍♂",
+    "tts": "mannleg klatrar: hudtype 4"
+  },
+  {
+    "cp": "🧗🏾",
+    "tts": "klatrar: hudtype 5"
+  },
+  {
+    "cp": "🧗🏾‍♀",
+    "tts": "kvinneleg klatrar: hudtype 5"
+  },
+  {
+    "cp": "🧗🏾‍♂",
+    "tts": "mannleg klatrar: hudtype 5"
+  },
+  {
+    "cp": "🧗🏿",
+    "tts": "klatrar: hudtype 6"
+  },
+  {
+    "cp": "🧗🏿‍♀",
+    "tts": "kvinneleg klatrar: hudtype 6"
+  },
+  {
+    "cp": "🧗🏿‍♂",
+    "tts": "mannleg klatrar: hudtype 6"
+  },
+  {
+    "cp": "🧚‍♀",
+    "tts": "kvinneleg fe"
+  },
+  {
+    "cp": "🧚‍♂",
+    "tts": "mannleg fe"
+  },
+  {
+    "cp": "🧚🏻‍♀",
+    "tts": "kvinneleg fe: hudtype 1–2"
+  },
+  {
+    "cp": "🧚🏻‍♂",
+    "tts": "mannleg fe: hudtype 1–2"
+  },
+  {
+    "cp": "🧚🏼‍♀",
+    "tts": "kvinneleg fe: hudtype 3"
+  },
+  {
+    "cp": "🧚🏼‍♂",
+    "tts": "mannleg fe: hudtype 3"
+  },
+  {
+    "cp": "🧚🏽‍♀",
+    "tts": "kvinneleg fe: hudtype 4"
+  },
+  {
+    "cp": "🧚🏽‍♂",
+    "tts": "mannleg fe: hudtype 4"
+  },
+  {
+    "cp": "🧚🏾‍♀",
+    "tts": "kvinneleg fe: hudtype 5"
+  },
+  {
+    "cp": "🧚🏾‍♂",
+    "tts": "mannleg fe: hudtype 5"
+  },
+  {
+    "cp": "🧚🏿‍♀",
+    "tts": "kvinneleg fe: hudtype 6"
+  },
+  {
+    "cp": "🧚🏿‍♂",
+    "tts": "mannleg fe: hudtype 6"
+  },
+  {
+    "cp": "🧛‍♀",
+    "tts": "kvinneleg vampyr"
+  },
+  {
+    "cp": "🧛‍♂",
+    "tts": "mannleg vampyr"
+  },
+  {
+    "cp": "🧛🏻‍♀",
+    "tts": "kvinneleg vampyr: hudtype 1–2"
+  },
+  {
+    "cp": "🧛🏻‍♂",
+    "tts": "mannleg vampyr: hudtype 1–2"
+  },
+  {
+    "cp": "🧛🏼‍♀",
+    "tts": "kvinneleg vampyr: hudtype 3"
+  },
+  {
+    "cp": "🧛🏼‍♂",
+    "tts": "mannleg vampyr: hudtype 3"
+  },
+  {
+    "cp": "🧛🏽‍♀",
+    "tts": "kvinneleg vampyr: hudtype 4"
+  },
+  {
+    "cp": "🧛🏽‍♂",
+    "tts": "mannleg vampyr: hudtype 4"
+  },
+  {
+    "cp": "🧛🏾‍♀",
+    "tts": "kvinneleg vampyr: hudtype 5"
+  },
+  {
+    "cp": "🧛🏾‍♂",
+    "tts": "mannleg vampyr: hudtype 5"
+  },
+  {
+    "cp": "🧛🏿‍♀",
+    "tts": "kvinneleg vampyr: hudtype 6"
+  },
+  {
+    "cp": "🧛🏿‍♂",
+    "tts": "mannleg vampyr: hudtype 6"
+  },
+  {
+    "cp": "🧝‍♀",
+    "tts": "kvinneleg alv"
+  },
+  {
+    "cp": "🧝‍♂",
+    "tts": "mannleg alv"
+  },
+  {
+    "cp": "🧝🏻‍♀",
+    "tts": "kvinneleg alv: hudtype 1–2"
+  },
+  {
+    "cp": "🧝🏻‍♂",
+    "tts": "mannleg alv: hudtype 1–2"
+  },
+  {
+    "cp": "🧝🏼‍♀",
+    "tts": "kvinneleg alv: hudtype 3"
+  },
+  {
+    "cp": "🧝🏼‍♂",
+    "tts": "mannleg alv: hudtype 3"
+  },
+  {
+    "cp": "🧝🏽‍♀",
+    "tts": "kvinneleg alv: hudtype 4"
+  },
+  {
+    "cp": "🧝🏽‍♂",
+    "tts": "mannleg alv: hudtype 4"
+  },
+  {
+    "cp": "🧝🏾‍♀",
+    "tts": "kvinneleg alv: hudtype 5"
+  },
+  {
+    "cp": "🧝🏾‍♂",
+    "tts": "mannleg alv: hudtype 5"
+  },
+  {
+    "cp": "🧝🏿‍♀",
+    "tts": "kvinneleg alv: hudtype 6"
+  },
+  {
+    "cp": "🧝🏿‍♂",
+    "tts": "mannleg alv: hudtype 6"
+  },
+  {
+    "cp": "🧞‍♀",
+    "tts": "kvinneleg ånd"
+  },
+  {
+    "cp": "🧞‍♂",
+    "tts": "mannleg ånd"
+  },
+  {
+    "cp": "🧟‍♀",
+    "tts": "kvinneleg zombie"
+  },
+  {
+    "cp": "🧟‍♂",
+    "tts": "mannleg zombie"
+  },
+  {
+    "cp": "🧡",
+    "tts": "oransje hjarte"
+  },
+  {
+    "cp": "🧤",
+    "tts": "hanskar"
+  },
+  {
+    "cp": "🧦",
+    "tts": "sokkar"
+  },
+  {
+    "cp": "🧧",
+    "tts": "raud konvolutt"
+  },
+  {
+    "cp": "🧩",
+    "tts": "puslespelbrikke"
+  },
+  {
+    "cp": "🧪",
+    "tts": "prøverøyr"
+  },
+  {
+    "cp": "🧯",
+    "tts": "brannsløkkingsapparat"
+  },
+  {
+    "cp": "🧷",
+    "tts": "sikkerheitsnål"
+  },
+  {
+    "cp": "🧺",
+    "tts": "korg"
+  },
+  {
+    "cp": "🩵",
+    "tts": "lyseblått hjarte"
+  },
+  {
+    "cp": "🩶",
+    "tts": "grått hjarte"
+  },
+  {
+    "cp": "🩷",
+    "tts": "rosa hjarte"
+  },
+  {
+    "cp": "🩸",
+    "tts": "bloddrope"
+  },
+  {
+    "cp": "🪁",
+    "tts": "papirdrake"
+  },
+  {
+    "cp": "🪐",
+    "tts": "planet med ringar"
+  },
+  {
+    "cp": "🪔",
+    "tts": "open oljelampe"
+  },
+  {
+    "cp": "🪗",
+    "tts": "trekkspel"
+  },
+  {
+    "cp": "🪚",
+    "tts": "handsag"
+  },
+  {
+    "cp": "🪛",
+    "tts": "skrutrekkjar"
+  },
+  {
+    "cp": "🪞",
+    "tts": "spegel"
+  },
+  {
+    "cp": "🪟",
+    "tts": "vindauge"
+  },
+  {
+    "cp": "🪠",
+    "tts": "avløpsopnar"
+  },
+  {
+    "cp": "🪩",
+    "tts": "spegelkule"
+  },
+  {
+    "cp": "🪭",
+    "tts": "handvifte"
+  },
+  {
+    "cp": "🪰",
+    "tts": "floge"
+  },
+  {
+    "cp": "🪶",
+    "tts": "fjør"
+  },
+  {
+    "cp": "🪷",
+    "tts": "lotusblomster"
+  },
+  {
+    "cp": "🪹",
+    "tts": "tomt reir"
+  },
+  {
+    "cp": "🪺",
+    "tts": "reir med egg"
+  },
+  {
+    "cp": "🪽",
+    "tts": "venge"
+  },
+  {
+    "cp": "🪾",
+    "tts": "bladlaust tre"
+  },
+  {
+    "cp": "🫀",
+    "tts": "hjartemuskel"
+  },
+  {
+    "cp": "🫜",
+    "tts": "rotgrønsak"
+  },
+  {
+    "cp": "🫠",
+    "tts": "fjes som smeltar"
+  },
+  {
+    "cp": "🫢",
+    "tts": "fjes med opne auge og hand over munnen"
+  },
+  {
+    "cp": "🫣",
+    "tts": "fjes som kikkar fram bak hendene"
+  },
+  {
+    "cp": "🫥",
+    "tts": "fjes med stipla omriss"
+  },
+  {
+    "cp": "🫦",
+    "tts": "bite seg i leppa"
+  },
+  {
+    "cp": "🫨",
+    "tts": "skjelvande fjes"
+  },
+  {
+    "cp": "🫩",
+    "tts": "fjes med posar under auga"
+  },
+  {
+    "cp": "🫰",
+    "tts": "hand med peikefinger og tommel kryssa"
+  },
+  {
+    "cp": "🫰🏻",
+    "tts": "hand med peikefinger og tommel kryssa: hudtype 1–2"
+  },
+  {
+    "cp": "🫰🏼",
+    "tts": "hand med peikefinger og tommel kryssa: hudtype 3"
+  },
+  {
+    "cp": "🫰🏽",
+    "tts": "hand med peikefinger og tommel kryssa: hudtype 4"
+  },
+  {
+    "cp": "🫰🏾",
+    "tts": "hand med peikefinger og tommel kryssa: hudtype 5"
+  },
+  {
+    "cp": "🫰🏿",
+    "tts": "hand med peikefinger og tommel kryssa: hudtype 6"
+  },
+  {
+    "cp": "🫱",
+    "tts": "hand mot høgre"
+  },
+  {
+    "cp": "🫱🏻",
+    "tts": "hand mot høgre: hudtype 1–2"
+  },
+  {
+    "cp": "🫱🏻‍🫲🏼",
+    "tts": "handhelse: hudtype 1–2, hudtype 3"
+  },
+  {
+    "cp": "🫱🏻‍🫲🏽",
+    "tts": "handhelse: hudtype 1–2, hudtype 4"
+  },
+  {
+    "cp": "🫱🏻‍🫲🏾",
+    "tts": "handhelse: hudtype 1–2, hudtype 5"
+  },
+  {
+    "cp": "🫱🏻‍🫲🏿",
+    "tts": "handhelse: hudtype 1–2, hudtype 6"
+  },
+  {
+    "cp": "🫱🏼",
+    "tts": "hand mot høgre: hudtype 3"
+  },
+  {
+    "cp": "🫱🏼‍🫲🏻",
+    "tts": "handhelse: hudtype 3, hudtype 1–2"
+  },
+  {
+    "cp": "🫱🏼‍🫲🏽",
+    "tts": "handhelse: hudtype 3, hudtype 4"
+  },
+  {
+    "cp": "🫱🏼‍🫲🏾",
+    "tts": "handhelse: hudtype 3, hudtype 5"
+  },
+  {
+    "cp": "🫱🏼‍🫲🏿",
+    "tts": "handhelse: hudtype 3, hudtype 6"
+  },
+  {
+    "cp": "🫱🏽",
+    "tts": "hand mot høgre: hudtype 4"
+  },
+  {
+    "cp": "🫱🏽‍🫲🏻",
+    "tts": "handhelse: hudtype 4, hudtype 1–2"
+  },
+  {
+    "cp": "🫱🏽‍🫲🏼",
+    "tts": "handhelse: hudtype 4, hudtype 3"
+  },
+  {
+    "cp": "🫱🏽‍🫲🏾",
+    "tts": "handhelse: hudtype 4, hudtype 5"
+  },
+  {
+    "cp": "🫱🏽‍🫲🏿",
+    "tts": "handhelse: hudtype 4, hudtype 6"
+  },
+  {
+    "cp": "🫱🏾",
+    "tts": "hand mot høgre: hudtype 5"
+  },
+  {
+    "cp": "🫱🏾‍🫲🏻",
+    "tts": "handhelse: hudtype 5, hudtype 1–2"
+  },
+  {
+    "cp": "🫱🏾‍🫲🏼",
+    "tts": "handhelse: hudtype 5, hudtype 3"
+  },
+  {
+    "cp": "🫱🏾‍🫲🏽",
+    "tts": "handhelse: hudtype 5, hudtype 4"
+  },
+  {
+    "cp": "🫱🏾‍🫲🏿",
+    "tts": "handhelse: hudtype 5, hudtype 6"
+  },
+  {
+    "cp": "🫱🏿",
+    "tts": "hand mot høgre: hudtype 6"
+  },
+  {
+    "cp": "🫱🏿‍🫲🏻",
+    "tts": "handhelse: hudtype 6, hudtype 1–2"
+  },
+  {
+    "cp": "🫱🏿‍🫲🏼",
+    "tts": "handhelse: hudtype 6, hudtype 3"
+  },
+  {
+    "cp": "🫱🏿‍🫲🏽",
+    "tts": "handhelse: hudtype 6, hudtype 4"
+  },
+  {
+    "cp": "🫱🏿‍🫲🏾",
+    "tts": "handhelse: hudtype 6, hudtype 5"
+  },
+  {
+    "cp": "🫲",
+    "tts": "hand mot venstre"
+  },
+  {
+    "cp": "🫲🏻",
+    "tts": "hand mot venstre: hudtype 1–2"
+  },
+  {
+    "cp": "🫲🏼",
+    "tts": "hand mot venstre: hudtype 3"
+  },
+  {
+    "cp": "🫲🏽",
+    "tts": "hand mot venstre: hudtype 4"
+  },
+  {
+    "cp": "🫲🏾",
+    "tts": "hand mot venstre: hudtype 5"
+  },
+  {
+    "cp": "🫲🏿",
+    "tts": "hand mot venstre: hudtype 6"
+  },
+  {
+    "cp": "🫳",
+    "tts": "handflata ned"
+  },
+  {
+    "cp": "🫳🏻",
+    "tts": "handflata ned: hudtype 1–2"
+  },
+  {
+    "cp": "🫳🏼",
+    "tts": "handflata ned: hudtype 3"
+  },
+  {
+    "cp": "🫳🏽",
+    "tts": "handflata ned: hudtype 4"
+  },
+  {
+    "cp": "🫳🏾",
+    "tts": "handflata ned: hudtype 5"
+  },
+  {
+    "cp": "🫳🏿",
+    "tts": "handflata ned: hudtype 6"
+  },
+  {
+    "cp": "🫴",
+    "tts": "handflata opp"
+  },
+  {
+    "cp": "🫴🏻",
+    "tts": "handflata opp: hudtype 1–2"
+  },
+  {
+    "cp": "🫴🏼",
+    "tts": "handflata opp: hudtype 3"
+  },
+  {
+    "cp": "🫴🏽",
+    "tts": "handflata opp: hudtype 4"
+  },
+  {
+    "cp": "🫴🏾",
+    "tts": "handflata opp: hudtype 5"
+  },
+  {
+    "cp": "🫴🏿",
+    "tts": "handflata opp: hudtype 6"
+  },
+  {
+    "cp": "🫵",
+    "tts": "peikefinger peiker på lesaren"
+  },
+  {
+    "cp": "🫵🏻",
+    "tts": "peikefinger peiker på lesaren: hudtype 1–2"
+  },
+  {
+    "cp": "🫵🏼",
+    "tts": "peikefinger peiker på lesaren: hudtype 3"
+  },
+  {
+    "cp": "🫵🏽",
+    "tts": "peikefinger peiker på lesaren: hudtype 4"
+  },
+  {
+    "cp": "🫵🏾",
+    "tts": "peikefinger peiker på lesaren: hudtype 5"
+  },
+  {
+    "cp": "🫵🏿",
+    "tts": "peikefinger peiker på lesaren: hudtype 6"
+  },
+  {
+    "cp": "🫶",
+    "tts": "hjartehender"
+  },
+  {
+    "cp": "🫶🏻",
+    "tts": "hjartehender: hudtype 1–2"
+  },
+  {
+    "cp": "🫶🏼",
+    "tts": "hjartehender: hudtype 3"
+  },
+  {
+    "cp": "🫶🏽",
+    "tts": "hjartehender: hudtype 4"
+  },
+  {
+    "cp": "🫶🏾",
+    "tts": "hjartehender: hudtype 5"
+  },
+  {
+    "cp": "🫶🏿",
+    "tts": "hjartehender: hudtype 6"
+  },
+  {
+    "cp": "🫷",
+    "tts": "handflate heva mot venstre"
+  },
+  {
+    "cp": "🫷🏻",
+    "tts": "handflate heva mot venstre: hudtype 1–2"
+  },
+  {
+    "cp": "🫷🏼",
+    "tts": "handflate heva mot venstre: hudtype 3"
+  },
+  {
+    "cp": "🫷🏽",
+    "tts": "handflate heva mot venstre: hudtype 4"
+  },
+  {
+    "cp": "🫷🏾",
+    "tts": "handflate heva mot venstre: hudtype 5"
+  },
+  {
+    "cp": "🫷🏿",
+    "tts": "handflate heva mot venstre: hudtype 6"
+  },
+  {
+    "cp": "🫸",
+    "tts": "handflate heva mot høgre"
+  },
+  {
+    "cp": "🫸🏻",
+    "tts": "handflate heva mot høgre: hudtype 1–2"
+  },
+  {
+    "cp": "🫸🏼",
+    "tts": "handflate heva mot høgre: hudtype 3"
+  },
+  {
+    "cp": "🫸🏽",
+    "tts": "handflate heva mot høgre: hudtype 4"
+  },
+  {
+    "cp": "🫸🏾",
+    "tts": "handflate heva mot høgre: hudtype 5"
+  },
+  {
+    "cp": "🫸🏿",
+    "tts": "handflate heva mot høgre: hudtype 6"
+  }
+]
