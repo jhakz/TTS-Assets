@@ -1,7 +1,10 @@
 {
   "title": "TTS Assets",
   "version": "1.0.1",
-  "types": ["emoji", "punctuation"],
+  "types": [
+    "emoji",
+    "punctuation"
+  ],
   "assets": [
     {
       "locale": "ar-SA",
@@ -302,6 +305,11 @@
       "locale": "zh",
       "name": "zho",
       "type": "emoji"
+    },
+    {
+      "locale": "en-US",
+      "name": "eng-USA",
+      "type": "punctuation"
     }
   ]
 }
