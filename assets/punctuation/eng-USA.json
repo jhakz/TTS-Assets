@@ -1,0 +1,163 @@
+[
+    {
+        "char": ";",
+        "tts": "semicolon"
+    },
+    {
+        "char": ".",
+        "tts": "dot"
+    },
+    {
+        "char": "!",
+        "tts": "exclamation mark"
+    },
+    {
+        "char": "?",
+        "tts": "question mark"
+    },
+    {
+        "char": 191,
+        "tts": "inverted question mark",
+        "isNumeric": true
+    },
+    {
+        "char": 161,
+        "tts": "inverted exclamation mark",
+        "isNumeric": true
+    },
+    {
+        "char": ",",
+        "tts": "coma"
+    },
+    {
+        "char": ":",
+        "tts": "colon"
+    },
+    {
+        "char": "\"",
+        "tts": "quote"
+    },
+    {
+        "char": 171,
+        "tts": "open double angle bracket",
+        "isNumeric": true
+    },
+    {
+        "char": 187,
+        "tts": "close double angle bracket",
+        "isNumeric": true
+    },
+    {
+        "char": "'",
+        "tts": "apostrophe"
+    },
+    {
+        "char": "(",
+        "tts": "open paren"
+    },
+    {
+        "char": ")",
+        "tts": "close paren"
+    },
+    {
+        "char": "[",
+        "tts": "open bracket"
+    },
+    {
+        "char": "]",
+        "tts": "close bracket"
+    },
+    {
+        "char": "{",
+        "tts": "open brace"
+    },
+    {
+        "char": "}",
+        "tts": "close brace"
+    },
+    {
+        "char": "|",
+        "tts": "bar"
+    },
+    {
+        "char": "~",
+        "tts": "tilde"
+    },
+    {
+        "char": "#",
+        "tts": "hash"
+    },
+    {
+        "char": 167,
+        "tts": "paragraph",
+        "isNumeric": true
+    },
+    {
+        "char": "$",
+        "tts": "dollar"
+    },
+    {
+        "char": 163,
+        "tts": "pound",
+        "isNumeric": true
+    },
+    {
+        "char": 128,
+        "tts": "euro",
+        "isNumeric": true
+    },
+    {
+        "char": 162,
+        "tts": "cent",
+        "isNumeric": true
+    },
+    {
+        "char": "=",
+        "tts": "equals"
+    },
+    {
+        "char": ">",
+        "tts": "great than"
+    },
+    {
+        "char": "<",
+        "tts": "less than"
+    },
+    {
+        "char": "-",
+        "tts": "dash"
+    },
+    {
+        "char": "+",
+        "tts": "plus"
+    },
+    {
+        "char": "*",
+        "tts": "asterisk"
+    },
+    {
+        "char": "%",
+        "tts": "percent"
+    },
+    {
+        "char": "_",
+        "tts": "underscore"
+    },
+    {
+        "char": "^",
+        "tts": "caret"
+    },
+    {
+        "char": 183,
+        "tts": "mid dot",
+        "isNumeric": true
+    },
+    {
+        "char": "\\",
+        "tts": "backslash"
+    },
+    {
+        "char": "/",
+        "tts": "slash"
+    }
+]
